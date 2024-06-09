@@ -1,0 +1,665 @@
+id,release_year,runtime,genres,seasons,imdb_score,imdb_votes,platform
+ts22109,1959,28,"['drama', 'scifi', 'horror', 'thriller', 'fantasy']",5,9.1,85957,paramount
+ts21236,1966,50,"['scifi', 'drama', 'action']",3,8.4,86240,paramount
+ts20005,1951,30,"['comedy', 'family']",9,8.5,27341,paramount
+ts18968,1960,29,"['comedy', 'family']",8,8.4,15615,paramount
+ts22170,1955,49,"['western', 'action', 'drama']",20,8.1,7724,paramount
+ts20669,1978,25,"['comedy', 'drama']",5,7.7,14382,paramount
+ts21682,1974,30,"['comedy', 'history', 'music', 'family', 'thriller', 'scifi']",11,7.5,32,paramount
+ts10264,1968,46,['documentation'],46,7.5,4053,paramount
+ts17013,1969,25,"['comedy', 'family']",5,6.8,14723,paramount
+ts21242,1966,60,"['drama', 'action', 'crime', 'thriller', 'family']",7,7.9,10241,paramount
+ts21786,1977,60,"['drama', 'comedy', 'romance']",10,6.2,12262,paramount
+ts21050,1970,27,['comedy'],5,7.9,6663,paramount
+ts24949,1979,31,"['comedy', 'family']",11,8.1,2427,paramount
+ts35764,1973,36,"['drama', 'romance']",50,5.2,6439,paramount
+ts20936,1973,24,"['scifi', 'animation', 'drama', 'family', 'action']",2,7.3,7461,paramount
+ts21576,1968,51,"['action', 'drama', 'crime']",12,7.4,7418,paramount
+ts20904,1954,30,"['action', 'drama', 'family']",19,6.5,3526,paramount
+ts32298,1980,22,"['animation', 'family', 'comedy']",2,6.5,2444,paramount
+ts21408,1990,52,"['drama', 'crime', 'thriller']",3,8.8,201646,paramount
+ts22504,1987,46,"['scifi', 'action', 'drama']",7,8.7,124387,paramount
+ts19522,1982,30,"['comedy', 'drama']",11,7.9,57338,paramount
+ts2996,1990,47,"['drama', 'romance']",10,6.5,35368,paramount
+ts610,1988,55,"['reality', 'documentation', 'crime']",34,7.1,47,paramount
+ts10967,1982,27,"['comedy', 'documentation', 'reality', 'drama', 'family']",7,7.2,18837,paramount
+ts21057,1985,51,"['action', 'crime', 'drama']",7,7.7,39927,paramount
+ts35721,1981,20,"['scifi', 'animation', 'comedy', 'family', 'fantasy']",9,7.2,19406,paramount
+ts11887,1990,16,"['comedy', 'family', 'fantasy', 'animation']",1,7.1,1764,paramount
+ts21130,1983,23,"['comedy', 'action', 'crime', 'family', 'scifi', 'animation']",2,6.7,21856,paramount
+ts9142,1987,22,"['drama', 'romance']",35,3.4,7943,paramount
+ts23259,1989,25,"['western', 'family', 'comedy']",5,7.2,3245,paramount
+ts20922,1988,23,"['animation', 'family', 'romance']",3,7.4,137,paramount
+ts10536,1989,24,"['comedy', 'animation', 'family', 'fantasy', 'music']",1,7.3,1616,paramount
+ts28808,1987,22,"['animation', 'family', 'comedy']",1,6.7,108,paramount
+ts5529,1987,49,"['drama', 'crime', 'fantasy', 'romance']",3,7.0,7342,paramount
+ts5145,1998,40,"['reality', 'comedy', 'drama', 'scifi']",38,7.9,3755,paramount
+ts20951,1999,19,"['comedy', 'scifi', 'animation', 'family', 'fantasy']",13,8.2,101891,paramount
+ts1208,1993,25,['comedy'],11,8.2,86909,paramount
+ts4430,1999,44,"['drama', 'comedy']",1,8.8,145383,paramount
+ts20927,1993,47,"['action', 'drama', 'scifi']",7,8.1,65053,paramount
+ts22477,1995,46,"['drama', 'action', 'scifi', 'european']",7,7.8,71283,paramount
+ts14789,1996,25,['comedy'],9,7.2,72747,paramount
+ts15312,1996,29,['comedy'],28,8.3,47520,paramount
+ts18517,2000,47,"['drama', 'crime', 'thriller']",16,7.7,85185,paramount
+ts6139,1993,16,"['comedy', 'animation', 'music']",8,7.5,32619,paramount
+ts21321,1992,32,"['reality', 'comedy', 'animation', 'documentation', 'drama']",33,6.3,28,paramount
+ts14922,1992,23,"['drama', 'scifi', 'thriller', 'family', 'fantasy', 'horror']",7,8.2,15381,paramount
+ts21293,1991,19,"['animation', 'scifi', 'comedy', 'family', 'drama']",5,7.5,23647,paramount
+ts4743,1991,17,"['scifi', 'action', 'thriller', 'drama', 'animation']",3,7.8,6596,paramount
+ts10069,1999,24,"['animation', 'fantasy', 'horror', 'scifi', 'comedy', 'family']",1,7.3,734,paramount
+ts21011,1996,30,"['scifi', 'comedy', 'family', 'fantasy']",7,6.7,40175,paramount
+ts6236,2000,43,['reality'],24,5.5,10811,paramount
+ts21315,1991,21,"['animation', 'family', 'comedy']",10,7.5,36294,paramount
+ts22338,1995,58,"['action', 'drama', 'crime', 'thriller']",10,6.6,18965,paramount
+ts20687,1992,47,"['drama', 'romance']",7,5.9,12577,paramount
+ts8829,1997,23,"['comedy', 'romance', 'animation', 'drama']",5,8.1,25906,paramount
+ts21080,1996,24,"['comedy', 'animation', 'drama', 'family']",5,7.6,34661,paramount
+ts12767,1996,25,"['animation', 'comedy', 'family']",7,6.9,6187,paramount
+ts20921,1993,24,"['action', 'scifi', 'animation', 'romance', 'comedy', 'family', 'war', 'fantasy', 'thriller']",3,6.8,5266,paramount
+ts21555,2000,22,"['comedy', 'reality', 'action']",3,7.3,26334,paramount
+ts22438,1999,23,['comedy'],3,8.1,6289,paramount
+ts20929,1993,25,"['reality', 'family', 'history']",4,8.1,3739,paramount
+ts11397,1993,22,"['scifi', 'action', 'comedy', 'western', 'family', 'animation', 'fantasy']",4,6.2,4035,paramount
+ts46067,1999,22,"['action', 'comedy', 'family', 'animation', 'scifi', 'fantasy', 'thriller', 'music']",1,6.1,3025,paramount
+ts27693,1996,25,"['family', 'comedy']",4,7.8,16037,paramount
+ts17517,1994,18,"['comedy', 'scifi', 'family', 'fantasy', 'horror', 'thriller', 'animation']",4,7.2,11968,paramount
+ts20958,1993,20,"['scifi', 'animation', 'comedy', 'family']",4,7.9,20933,paramount
+ts18044,1996,44,"['drama', 'family', 'romance', 'comedy']",11,5.2,26046,paramount
+ts25185,1991,27,"['drama', 'comedy', 'family', 'romance']",2,8.3,5800,paramount
+ts15493,1991,24,['comedy'],1,0.0,0,paramount
+ts13984,2000,26,"['action', 'family', 'animation', 'comedy', 'fantasy']",8,4.2,6941,paramount
+ts22120,1998,24,"['animation', 'action', 'comedy', 'family', 'fantasy']",5,6.6,15112,paramount
+ts22283,1999,24,"['comedy', 'family', 'sport', 'animation', 'action']",3,6.8,9910,paramount
+ts26918,1994,20,"['crime', 'family', 'animation', 'action', 'comedy']",4,7.2,2034,paramount
+ts16919,1994,24,"['comedy', 'family', 'music']",11,7.5,7913,paramount
+ts2070,1997,17,"['comedy', 'family', 'animation']",5,7.2,15248,paramount
+ts21669,1994,47,"['scifi', 'fantasy', 'drama', 'family']",9,6.0,7447,paramount
+ts6600,1991,24,"['animation', 'comedy', 'drama', 'family', 'fantasy']",8,7.4,19367,paramount
+ts11988,1991,28,"['comedy', 'family']",5,7.1,9234,paramount
+ts16650,1998,21,"['comedy', 'sport', 'animation', 'action']",6,6.9,11528,paramount
+ts11783,1998,20,"['animation', 'comedy', 'family']",3,6.5,23763,paramount
+ts4161,1999,11,"['animation', 'crime', 'fantasy', 'comedy', 'family', 'european']",21,5.5,4961,paramount
+ts635,1998,24,"['documentation', 'comedy']",15,8.0,1166,paramount
+ts20939,1996,21,"['drama', 'family', 'comedy']",6,5.8,3899,paramount
+ts21693,1994,22,"['comedy', 'drama', 'family']",6,6.3,13054,paramount
+ts13212,1995,23,"['comedy', 'romance']",4,6.2,4087,paramount
+ts28755,1995,19,"['action', 'drama', 'family', 'fantasy', 'animation']",5,7.3,4150,paramount
+ts16790,2000,27,"['family', 'animation', 'comedy', 'drama', 'music', 'crime']",3,6.9,6781,paramount
+ts51481,1996,22,"['comedy', 'family', 'animation']",1,8.1,69,paramount
+ts6716,1994,23,['family'],3,6.6,347,paramount
+ts14475,1999,23,"['comedy', 'family']",3,6.7,7917,paramount
+ts27551,1996,24,"['animation', 'comedy', 'family']",4,7.8,2647,paramount
+ts27983,1992,26,['family'],5,7.5,618,paramount
+ts36834,2000,23,"['reality', 'music']",19,5.1,1832,paramount
+ts39950,2000,21,"['family', 'comedy']",3,8.4,245,paramount
+ts39373,1993,23,[],3,0.0,0,paramount
+ts70730,1994,22,['family'],4,7.4,1304,paramount
+ts1470,2000,24,['documentation'],5,8.0,87,paramount
+ts198397,1996,23,"['animation', 'comedy', 'family']",3,8.1,717,paramount
+ts6495,2005,44,"['drama', 'thriller', 'crime']",16,8.1,204480,paramount
+ts21262,2009,51,['reality'],15,8.5,21203,paramount
+ts22337,2003,43,"['thriller', 'comedy', 'action', 'crime', 'drama']",20,7.7,137745,paramount
+ts10722,2010,42,"['drama', 'thriller', 'crime']",13,7.7,42277,paramount
+ts3371,2005,24,"['animation', 'action', 'family', 'fantasy']",3,9.3,324247,paramount
+ts21253,2009,45,"['action', 'drama', 'crime']",14,6.8,54784,paramount
+ts21745,2003,20,"['comedy', 'crime']",7,7.9,21140,paramount
+ts21230,2009,44,"['drama', 'crime']",7,8.4,77687,paramount
+ts5716,2001,48,"['reality', 'family', 'action']",34,7.8,14888,paramount
+ts22265,2004,6,"['family', 'animation', 'comedy']",7,6.3,5556,paramount
+ts21543,2010,43,"['drama', 'action', 'crime']",10,7.4,75005,paramount
+ts17942,2003,21,"['comedy', 'music']",3,8.8,66715,paramount
+ts21969,2001,22,"['scifi', 'comedy', 'drama', 'family', 'horror', 'animation', 'action']",2,8.4,21790,paramount
+ts20642,2006,43,"['action', 'drama', 'scifi']",2,7.9,57213,paramount
+ts21605,2001,44,"['scifi', 'action', 'drama']",4,7.5,54874,paramount
+ts29186,2006,23,"['reality', 'drama', 'music']",6,3.7,11389,paramount
+ts21933,2010,22,['comedy'],6,7.4,15076,paramount
+ts22018,2007,26,"['family', 'comedy', 'romance']",6,6.7,41021,paramount
+ts29582,2010,44,"['documentation', 'reality']",11,5.8,3563,paramount
+ts587,2002,22,"['scifi', 'animation', 'comedy', 'drama', 'family']",1,8.2,7751,paramount
+ts22456,2004,25,"['comedy', 'family']",3,7.4,18499,paramount
+ts1612,2006,35,"['reality', 'sport']",17,6.8,584,paramount
+ts21457,2005,45,"['drama', 'scifi', 'thriller', 'crime', 'fantasy', 'family']",7,7.1,29109,paramount
+ts31820,2004,23,"['reality', 'drama']",4,4.8,3917,paramount
+ts19036,2001,23,"['comedy', 'scifi', 'family', 'fantasy', 'animation']",10,7.2,38046,paramount
+ts22117,2003,27,"['reality', 'comedy']",6,5.4,742,paramount
+ts30311,2010,24,"['comedy', 'family', 'romance', 'drama', 'music', 'sport']",4,7.0,26452,paramount
+ts31666,2003,22,"['reality', 'documentation', 'comedy']",4,7.3,4971,paramount
+ts4746,2004,25,"['animation', 'comedy', 'family']",4,7.1,3481,paramount
+ts516,2004,22,"['animation', 'comedy', 'reality']",3,7.1,20708,paramount
+ts18569,2002,47,"['drama', 'thriller', 'action', 'crime']",10,6.4,58606,paramount
+ts21464,2005,25,"['drama', 'comedy', 'romance', 'family']",4,6.1,16416,paramount
+ts15200,2005,21,"['comedy', 'drama', 'music']",4,7.5,39086,paramount
+ts17931,2004,47,"['drama', 'thriller', 'action', 'crime', 'reality']",9,6.9,47880,paramount
+ts13001,2004,26,"['scifi', 'action', 'animation', 'comedy', 'family', 'fantasy', 'horror']",3,7.1,19031,paramount
+ts8300,2004,26,"['comedy', 'family']",4,7.7,40880,paramount
+ts2370,2002,26,"['animation', 'action', 'comedy', 'family', 'scifi']",4,6.9,426,paramount
+ts18262,2008,42,"['drama', 'action', 'war', 'thriller', 'crime', 'sport']",5,7.7,17345,paramount
+ts21783,2009,22,['comedy'],12,8.5,12,paramount
+ts23771,2009,41,['reality'],9,3.6,4749,paramount
+ts29760,2010,22,"['animation', 'fantasy', 'horror', 'comedy']",2,8.0,10534,paramount
+ts21508,2005,22,"['comedy', 'animation']",2,8.4,4683,paramount
+ts6212,2002,21,"['comedy', 'animation']",6,6.2,3196,paramount
+ts22180,2010,22,['reality'],15,7.8,3576,paramount
+ts20526,2006,22,"['drama', 'comedy', 'romance', 'sport']",10,6.8,4597,paramount
+ts22187,2007,22,"['comedy', 'animation']",3,4.2,11,paramount
+ts21668,2001,44,"['drama', 'crime']",3,7.4,5446,paramount
+ts23195,2009,42,"['reality', 'romance', 'drama', 'comedy']",6,3.8,23933,paramount
+ts911,2010,40,['reality'],10,3.6,728,paramount
+ts20527,2008,21,"['comedy', 'animation', 'family', 'scifi', 'action']",3,7.5,19832,paramount
+ts928,2009,52,"['war', 'documentation', 'history', 'european']",2,7.3,43,paramount
+ts20358,2002,21,['comedy'],4,7.1,1954,paramount
+ts12815,2009,25,"['comedy', 'drama', 'family', 'music']",4,6.4,13027,paramount
+ts3922,2003,25,"['comedy', 'drama', 'family', 'animation']",5,5.4,5449,paramount
+ts25975,2005,21,"['reality', 'documentation']",10,1.8,3135,paramount
+ts21455,2010,53,['drama'],2,7.5,15019,paramount
+ts21513,2010,25,"['action', 'scifi', 'family', 'animation']",4,6.1,1033,paramount
+ts24584,2002,56,"['reality', 'crime']",13,5.8,749,paramount
+ts37857,2010,50,['documentation'],8,8.9,713,paramount
+ts20667,2009,24,"['scifi', 'comedy', 'action', 'family']",2,6.1,1201,paramount
+ts32764,2007,29,"['animation', 'family']",3,6.7,459,paramount
+ts31652,2004,41,"['comedy', 'european']",17,7.5,689,paramount
+ts7183,2007,24,"['animation', 'family', 'comedy', 'reality']",2,5.7,4106,paramount
+ts12785,2004,24,"['animation', 'comedy', 'family']",2,6.9,179,paramount
+ts18694,2010,22,"['documentation', 'comedy', 'reality']",2,8.6,597,paramount
+ts22217,2010,25,"['animation', 'family', 'comedy']",7,4.3,1828,paramount
+ts21787,2003,25,"['action', 'scifi', 'animation', 'comedy', 'family']",4,7.0,10457,paramount
+ts26564,2008,47,"['documentation', 'history', 'fantasy']",5,6.9,92,paramount
+ts20565,2008,25,"['comedy', 'drama', 'family']",3,5.9,3295,paramount
+ts18557,2007,21,"['drama', 'reality']",3,4.7,154,paramount
+ts21411,2002,16,"['animation', 'family']",7,6.1,2632,paramount
+ts21233,2006,21,"['fantasy', 'comedy', 'war', 'family', 'thriller', 'animation', 'action', 'crime']",7,6.5,2061,paramount
+ts5135,2002,25,"['animation', 'fantasy', 'music', 'comedy', 'family']",5,6.5,3414,paramount
+ts2766,2009,46,"['documentation', 'reality', 'comedy']",6,3.1,2760,paramount
+ts31482,2001,22,"['family', 'animation']",1,7.6,1905,paramount
+ts22042,2007,23,"['comedy', 'action', 'fantasy', 'animation', 'family']",2,3.3,857,paramount
+ts21521,2010,37,['comedy'],4,6.9,236,paramount
+ts17335,2009,20,"['animation', 'action', 'comedy', 'family', 'fantasy', 'scifi']",2,3.3,4209,paramount
+ts21228,2008,24,"['comedy', 'animation', 'family']",2,5.3,2542,paramount
+ts22008,2007,23,"['animation', 'comedy', 'family']",2,4.4,1030,paramount
+ts11772,2009,25,['family'],3,6.6,579,paramount
+ts27643,2005,22,"['documentation', 'family', 'music', 'reality']",6,6.7,957,paramount
+ts22004,2007,25,"['animation', 'family', 'fantasy']",2,5.3,1088,paramount
+ts20508,2009,22,"['reality', 'comedy']",7,7.6,2819,paramount
+ts269614,2009,37,"['reality', 'family']",14,4.2,10,paramount
+ts5961,2004,22,['reality'],6,5.6,141,paramount
+ts25382,2008,56,['documentation'],4,0.0,0,paramount
+ts306018,2005,22,['comedy'],18,6.5,2446,paramount
+ts22303,2010,19,"['action', 'comedy', 'crime', 'family', 'animation']",3,5.6,3528,paramount
+ts30244,2010,22,"['family', 'fantasy', 'animation', 'european']",4,5.9,286,paramount
+ts645,2003,82,['comedy'],1,7.3,80,paramount
+ts36793,2006,27,"['reality', 'comedy', 'romance']",7,3.3,818,paramount
+ts21553,2010,24,"['action', 'comedy', 'family', 'fantasy', 'scifi', 'animation']",2,2.9,2016,paramount
+ts43365,2007,27,"['documentation', 'history']",2,8.1,30,paramount
+ts18817,2008,22,['reality'],2,5.1,1276,paramount
+ts26018,2005,25,"['comedy', 'family']",7,8.7,799,paramount
+ts5398,2010,22,['comedy'],1,7.1,148,paramount
+ts75111,2007,27,[],1,0.0,0,paramount
+ts24179,2009,30,['reality'],1,6.7,65,paramount
+ts163926,2010,27,[],1,0.0,0,paramount
+ts30525,2010,44,"['documentation', 'history']",1,7.7,285,paramount
+ts163934,2009,54,['reality'],1,0.0,0,paramount
+ts192131,2007,47,['reality'],1,0.0,0,paramount
+ts177919,2010,22,['comedy'],1,7.0,15,paramount
+ts20518,2011,42,"['scifi', 'drama', 'action', 'fantasy', 'romance', 'thriller', 'comedy']",6,7.7,153629,paramount
+ts20672,2011,22,['comedy'],7,8.1,53384,paramount
+ts20436,2012,22,"['comedy', 'action']",5,8.3,23166,paramount
+ts17961,2011,41,['reality'],9,7.5,3546,paramount
+ts3522,2011,45,"['documentation', 'drama', 'history', 'reality', 'crime']",23,8.8,4585,paramount
+ts20457,2012,23,"['scifi', 'action', 'drama', 'animation', 'comedy', 'family', 'fantasy']",4,8.4,124910,paramount
+ts21095,2012,24,"['action', 'scifi', 'horror', 'comedy', 'family', 'fantasy', 'thriller', 'animation', 'crime', 'drama']",5,7.9,11964,paramount
+ts4065,2011,22,"['comedy', 'drama', 'romance']",5,7.5,44911,paramount
+ts42135,2012,58,['reality'],7,0.0,0,paramount
+ts20556,2011,41,"['reality', 'romance', 'documentation', 'comedy']",11,4.9,28,paramount
+ts34949,2011,24,"['scifi', 'family', 'fantasy', 'romance', 'horror', 'thriller', 'drama', 'comedy', 'european']",3,7.3,5082,paramount
+ts21144,2011,21,"['comedy', 'reality']",30,6.3,7262,paramount
+ts20608,2011,42,['reality'],10,4.4,213,paramount
+ts19623,2011,24,"['animation', 'family', 'comedy', 'fantasy', 'music']",6,6.3,1714,paramount
+ts28059,2012,41,"['reality', 'family']",11,5.6,875,paramount
+ts21308,2011,42,"['reality', 'comedy', 'crime']",6,7.7,35,paramount
+ts21225,2011,42,"['reality', 'documentation', 'comedy', 'drama', 'romance', 'european']",23,6.0,8,paramount
+ts20589,2011,24,"['action', 'comedy', 'scifi', 'animation', 'family', 'drama', 'fantasy']",3,8.7,33,paramount
+ts945,2011,42,['reality'],6,4.0,340,paramount
+ts34965,2011,21,['comedy'],2,5.0,515,paramount
+ts35000,2011,21,"['comedy', 'romance']",3,6.8,3157,paramount
+ts15606,2011,21,['comedy'],4,6.7,5596,paramount
+ts26599,2012,32,['reality'],4,4.7,13,paramount
+ts22199,2012,21,['comedy'],5,6.0,830,paramount
+ts35075,2011,21,"['documentation', 'reality']",6,6.5,331,paramount
+ts36179,2012,20,"['scifi', 'action', 'comedy', 'family', 'animation']",1,5.8,2038,paramount
+ts27284,2012,25,"['comedy', 'family']",1,5.4,1532,paramount
+ts21187,2011,43,"['drama', 'comedy', 'romance']",4,6.1,2124,paramount
+ts37308,2012,21,['comedy'],5,7.1,105,paramount
+ts13652,2012,47,"['reality', 'history', 'documentation', 'crime']",2,7.7,168,paramount
+ts41259,2012,21,['reality'],5,7.2,595,paramount
+ts17767,2012,22,['comedy'],2,7.7,687,paramount
+ts33983,2011,21,['comedy'],5,7.2,547,paramount
+ts171570,2011,27,['documentation'],1,0.0,0,paramount
+ts170272,2012,20,['comedy'],1,4.2,19,paramount
+ts242067,2012,51,['documentation'],1,0.0,0,paramount
+ts20845,2013,43,"['drama', 'scifi', 'thriller']",3,6.5,107988,paramount
+ts20106,2013,19,"['animation', 'action', 'sport', 'scifi', 'comedy', 'family']",9,6.9,26,paramount
+ts37645,2013,25,"['documentation', 'comedy']",4,8.9,32715,paramount
+ts20773,2014,42,"['action', 'crime', 'drama', 'thriller']",4,7.0,55413,paramount
+ts16045,2014,42,"['reality', 'romance']",9,6.6,2690,paramount
+ts16606,2013,21,"['comedy', 'history', 'family']",7,7.8,11711,paramount
+ts31957,2013,21,['comedy'],5,6.1,13100,paramount
+ts35484,2014,29,"['comedy', 'european']",4,8.4,6128,paramount
+ts20261,2014,43,"['war', 'thriller', 'drama']",6,7.7,24007,paramount
+ts20325,2013,22,['comedy'],3,6.9,5026,paramount
+ts20108,2014,24,"['comedy', 'action', 'scifi', 'drama', 'family']",5,5.8,6083,paramount
+ts43901,2014,49,"['reality', 'romance']",10,3.2,164,paramount
+ts20880,2014,42,"['action', 'drama', 'crime']",7,6.8,19006,paramount
+ts20047,2013,21,['comedy'],5,7.7,4337,paramount
+ts32060,2013,24,"['family', 'comedy', 'drama']",1,5.6,10400,paramount
+ts38135,2014,22,"['action', 'comedy', 'family', 'scifi', 'animation']",7,5.7,948,paramount
+ts37501,2013,19,"['family', 'animation']",3,5.7,575,paramount
+ts32218,2013,24,"['comedy', 'scifi', 'action', 'drama', 'family']",4,5.7,6034,paramount
+ts5368,2014,42,"['drama', 'romance', 'thriller']",5,7.6,4115,paramount
+ts18538,2014,45,"['scifi', 'drama', 'thriller']",2,6.5,24398,paramount
+ts521,2013,42,['reality'],10,5.0,495,paramount
+ts16262,2014,23,"['scifi', 'comedy', 'drama', 'family', 'fantasy', 'romance']",4,4.9,2182,paramount
+ts20883,2014,23,"['comedy', 'family']",4,5.2,2909,paramount
+ts20122,2013,41,"['drama', 'romance']",4,6.9,2668,paramount
+ts33474,2013,22,"['comedy', 'reality']",2,7.6,1468,paramount
+ts37871,2014,49,"['documentation', 'war']",10,7.5,137,paramount
+ts35868,2014,42,['reality'],3,4.5,722,paramount
+ts20285,2014,41,['reality'],6,5.9,524,paramount
+ts20271,2014,41,"['reality', 'drama']",6,5.4,414,paramount
+ts20803,2013,18,"['animation', 'comedy', 'family']",3,4.5,3492,paramount
+ts22416,2013,41,['reality'],1,3.6,464,paramount
+ts75954,2014,8,"['animation', 'comedy', 'family', 'european']",4,8.9,1207,paramount
+ts38140,2014,25,"['family', 'animation']",3,3.6,329,paramount
+ts35982,2014,21,['comedy'],3,7.4,521,paramount
+ts22427,2013,18,"['animation', 'family', 'scifi', 'action', 'comedy']",1,5.7,1315,paramount
+ts33590,2013,24,"['comedy', 'fantasy', 'family']",2,5.1,2664,paramount
+ts4268,2014,20,"['scifi', 'animation', 'comedy', 'action', 'family']",2,2.6,3650,paramount
+ts20084,2014,21,"['animation', 'comedy']",2,6.5,1425,paramount
+ts32115,2013,21,"['comedy', 'reality', 'drama']",4,7.4,1252,paramount
+ts75173,2014,24,"['fantasy', 'animation', 'family']",4,7.8,835,paramount
+ts37583,2013,21,"['comedy', 'drama', 'family']",3,6.5,826,paramount
+ts45603,2013,21,['comedy'],3,6.0,267,paramount
+ts71946,2013,45,"['documentation', 'thriller', 'history']",7,7.7,37,paramount
+ts4104,2013,23,"['comedy', 'family']",2,2.5,379,paramount
+ts136521,2014,45,['documentation'],3,7.8,64,paramount
+ts44178,2013,46,['documentation'],1,8.3,12,paramount
+ts140162,2013,20,[],2,0.0,0,paramount
+ts44106,2014,21,['comedy'],1,8.0,165,paramount
+ts78540,2013,52,"['documentation', 'war', 'history']",1,6.5,60,paramount
+ts99532,2013,38,['documentation'],2,7.5,30,paramount
+ts52207,2014,42,['reality'],1,7.9,28,paramount
+ts98077,2014,1,['comedy'],2,8.5,325,paramount
+ts157351,2013,48,"['action', 'documentation']",3,8.3,10,paramount
+ts70196,2013,41,['reality'],1,6.6,88,paramount
+ts45940,2014,39,['reality'],2,8.4,87,paramount
+ts83035,2014,24,['documentation'],1,7.9,9,paramount
+ts166066,2013,32,['reality'],2,9.0,42,paramount
+ts160567,2013,45,['documentation'],1,8.2,28,paramount
+ts37212,2015,41,['comedy'],8,7.2,14249,paramount
+ts21950,2015,24,"['drama', 'comedy', 'romance']",7,7.8,23985,paramount
+ts41876,2016,43,"['drama', 'crime', 'comedy']",6,7.1,20694,paramount
+ts53159,2016,18,"['horror', 'comedy', 'fantasy', 'action', 'animation', 'music', 'family', 'thriller', 'drama']",7,7.0,7040,paramount
+ts36672,2015,43,"['action', 'scifi', 'comedy', 'crime', 'drama', 'thriller']",1,7.6,68796,paramount
+ts35213,2015,22,"['family', 'comedy', 'music']",5,7.2,3788,paramount
+ts41580,2016,42,"['action', 'drama']",5,5.3,21959,paramount
+ts35549,2015,21,"['comedy', 'history']",3,7.3,5126,paramount
+ts38408,2016,43,"['scifi', 'horror', 'thriller', 'comedy', 'drama']",1,8.0,11508,paramount
+ts35596,2015,23,"['comedy', 'family', 'sport']",2,5.1,2361,paramount
+ts42074,2016,21,['comedy'],4,7.1,10043,paramount
+ts42116,2015,23,['drama'],3,5.6,306,paramount
+ts134246,2015,18,['comedy'],5,6.8,80,paramount
+ts56748,2016,22,"['drama', 'thriller', 'reality']",3,7.1,2242,paramount
+ts38702,2016,22,"['comedy', 'music', 'family']",3,4.3,2241,paramount
+ts44940,2016,22,"['reality', 'comedy']",3,6.9,246,paramount
+ts99530,2015,46,['documentation'],1,0.0,0,paramount
+ts35367,2015,17,"['animation', 'comedy', 'family', 'fantasy']",2,7.1,2223,paramount
+ts35862,2015,21,['comedy'],2,7.5,2670,paramount
+ts38209,2016,20,['comedy'],3,6.5,3472,paramount
+ts43396,2015,20,"['animation', 'family', 'fantasy']",4,5.1,525,paramount
+ts34709,2015,40,['comedy'],9,5.7,10454,paramount
+ts55961,2016,23,"['scifi', 'thriller', 'action', 'drama', 'horror']",2,6.1,2912,paramount
+ts21586,2015,21,['comedy'],3,6.3,9208,paramount
+ts37220,2015,21,"['animation', 'comedy', 'action', 'scifi', 'thriller']",1,6.9,2249,paramount
+ts89128,2015,21,['comedy'],4,8.0,462,paramount
+ts42220,2016,32,['comedy'],3,7.2,649,paramount
+ts53445,2016,23,['reality'],3,6.4,61,paramount
+ts42361,2015,49,['documentation'],1,8.6,1437,paramount
+ts38755,2016,22,"['comedy', 'scifi']",1,6.7,1615,paramount
+ts36461,2016,21,"['drama', 'comedy', 'fantasy']",1,6.2,2680,paramount
+ts42639,2016,45,"['documentation', 'war']",3,7.6,163,paramount
+ts38447,2015,16,"['animation', 'drama', 'comedy', 'family', 'music']",5,4.5,1481,paramount
+ts37995,2015,23,"['comedy', 'family']",3,4.3,2802,paramount
+ts37872,2015,46,['documentation'],1,8.3,39,paramount
+ts35273,2015,22,"['comedy', 'drama']",2,4.9,593,paramount
+ts37889,2015,24,"['scifi', 'drama', 'fantasy', 'comedy']",1,6.0,348,paramount
+ts42180,2016,22,"['drama', 'scifi', 'family', 'fantasy', 'comedy']",1,5.7,291,paramount
+ts43181,2015,22,"['comedy', 'family', 'fantasy', 'scifi', 'animation', 'action']",2,3.4,993,paramount
+ts58377,2015,50,['documentation'],7,0.0,0,paramount
+ts45492,2015,41,['reality'],8,4.8,194,paramount
+ts54024,2016,22,"['family', 'action', 'reality', 'drama']",1,6.6,261,paramount
+ts224405,2016,25,['comedy'],3,0.0,0,paramount
+ts39246,2015,20,['reality'],4,0.0,0,paramount
+ts54154,2016,71,['reality'],1,6.2,72,paramount
+ts143451,2015,23,"['animation', 'action', 'family']",1,7.2,251,paramount
+ts87543,2016,45,['documentation'],4,7.5,95,paramount
+ts77235,2016,22,['comedy'],1,7.0,88,paramount
+ts99533,2016,24,['documentation'],1,7.3,13,paramount
+ts145279,2015,47,"['history', 'documentation']",2,7.7,163,paramount
+ts88391,2016,22,['sport'],3,3.7,124,paramount
+ts41349,2016,20,['comedy'],1,4.7,214,paramount
+ts147018,2015,29,['reality'],2,8.4,85,paramount
+ts70709,2015,44,['documentation'],2,7.8,121,paramount
+ts55469,2016,51,['documentation'],1,7.2,50,paramount
+ts125643,2016,47,"['documentation', 'drama', 'reality']",2,8.0,16,paramount
+ts125638,2015,47,['documentation'],2,8.0,22,paramount
+ts99515,2015,47,"['reality', 'documentation']",3,7.7,34,paramount
+ts42976,2016,21,['comedy'],2,7.9,54,paramount
+ts52896,2015,47,['documentation'],1,7.2,12,paramount
+ts124835,2016,45,['documentation'],1,7.3,8,paramount
+ts80259,2016,48,['documentation'],1,6.7,28,paramount
+ts99527,2016,47,['documentation'],1,7.0,13,paramount
+ts125642,2016,48,['documentation'],1,7.0,8,paramount
+ts99512,2016,48,['documentation'],2,7.2,33,paramount
+ts124282,2016,46,['documentation'],1,7.2,11,paramount
+ts78212,2015,47,['documentation'],3,7.4,38,paramount
+ts76209,2015,43,['documentation'],1,0.0,0,paramount
+ts42240,2016,46,"['documentation', 'sport']",1,8.0,29,paramount
+ts99509,2016,48,['documentation'],1,8.2,21,paramount
+ts137744,2016,50,['documentation'],1,9.0,9,paramount
+ts130940,2016,22,"['history', 'documentation', 'family']",2,7.0,29,paramount
+ts99534,2015,48,['documentation'],1,7.6,22,paramount
+ts269327,2016,48,['documentation'],1,0.0,0,paramount
+ts77073,2015,22,['family'],2,5.7,226,paramount
+ts125641,2016,47,['documentation'],1,6.7,11,paramount
+ts95878,2015,23,"['horror', 'documentation']",1,6.0,26,paramount
+ts83787,2016,50,"['documentation', 'history']",2,7.8,255,paramount
+ts99529,2016,48,['documentation'],1,7.6,23,paramount
+ts90820,2016,48,['documentation'],1,7.4,16,paramount
+ts80545,2016,46,['documentation'],1,7.3,17,paramount
+ts56771,2015,46,['reality'],2,7.1,108,paramount
+ts94865,2016,48,['documentation'],1,7.5,15,paramount
+ts98275,2016,47,['documentation'],1,8.2,19,paramount
+ts99514,2015,28,['documentation'],1,6.7,10,paramount
+ts99518,2015,46,['documentation'],1,7.9,18,paramount
+ts90036,2016,46,['documentation'],1,7.8,25,paramount
+ts9838,2016,35,['documentation'],7,7.1,36,paramount
+ts125646,2015,23,[],1,6.9,26,paramount
+ts77100,2015,45,"['documentation', 'reality']",2,7.9,40,paramount
+ts99508,2016,47,['documentation'],1,8.0,8,paramount
+ts117125,2016,48,['documentation'],3,8.0,20,paramount
+ts58452,2016,46,['documentation'],1,7.6,36,paramount
+ts85241,2015,45,['documentation'],1,7.1,9,paramount
+ts99535,2016,48,['documentation'],1,7.8,15,paramount
+ts99531,2016,46,['documentation'],1,8.0,11,paramount
+ts125206,2016,58,['documentation'],1,7.3,15,paramount
+ts97912,2016,21,"['documentation', 'comedy']",1,0.0,0,paramount
+ts99510,2016,48,['documentation'],1,7.6,10,paramount
+ts142624,2015,46,"['reality', 'documentation']",1,8.0,14,paramount
+ts99519,2015,23,['documentation'],1,8.1,13,paramount
+ts285775,2016,46,[],1,0.0,0,paramount
+ts130625,2015,26,"['drama', 'reality']",5,8.2,16,paramount
+ts99513,2015,25,[],1,0.0,0,paramount
+ts125631,2015,23,[],3,9.0,7,paramount
+ts129306,2016,48,['documentation'],1,7.2,19,paramount
+ts57131,2017,19,['comedy'],6,7.6,67629,paramount
+ts304703,2017,41,"['action', 'drama', 'thriller', 'crime']",6,7.1,25450,paramount
+ts82308,2018,42,"['drama', 'thriller', 'action', 'crime']",6,7.0,19299,paramount
+ts41351,2017,51,"['scifi', 'action', 'drama']",5,7.0,125508,paramount
+ts54025,2017,21,['comedy'],2,8.0,2847,paramount
+ts75815,2018,48,"['drama', 'crime', 'history', 'thriller']",1,7.9,21620,paramount
+ts82704,2018,21,"['comedy', 'drama', 'documentation', 'music', 'reality']",5,6.6,8314,paramount
+ts296864,2017,50,"['drama', 'crime']",6,8.3,29609,paramount
+ts57189,2017,43,"['action', 'war', 'drama']",6,7.8,28186,paramount
+ts80150,2018,41,['reality'],6,6.6,2016,paramount
+ts77030,2017,41,['reality'],5,5.2,921,paramount
+ts67787,2017,41,['reality'],5,4.8,807,paramount
+ts82584,2018,17,"['scifi', 'action', 'animation', 'family', 'comedy', 'drama', 'fantasy']",2,5.5,5376,paramount
+ts82291,2018,27,['comedy'],1,8.3,18545,paramount
+ts77617,2018,21,['comedy'],3,7.7,3692,paramount
+ts78547,2018,53,"['reality', 'family']",3,5.6,855,paramount
+ts75410,2018,54,"['thriller', 'drama']",1,6.6,791,paramount
+ts55653,2017,45,"['scifi', 'thriller', 'drama']",2,6.9,23150,paramount
+ts84328,2018,24,"['scifi', 'fantasy', 'drama', 'family']",2,6.8,2625,paramount
+ts78113,2018,50,"['scifi', 'drama', 'history']",3,6.9,2341,paramount
+ts83296,2018,49,"['drama', 'thriller']",2,7.1,9509,paramount
+ts55081,2017,44,"['drama', 'history', 'music']",1,7.5,995,paramount
+ts58306,2018,42,"['drama', 'thriller', 'crime']",2,6.7,8205,paramount
+ts56201,2017,11,"['comedy', 'action', 'animation', 'family', 'fantasy', 'scifi']",2,3.4,750,paramount
+ts79200,2018,43,['documentation'],1,5.5,495,paramount
+ts58271,2017,48,"['documentation', 'history']",3,8.3,426,paramount
+ts75383,2017,24,"['scifi', 'comedy', 'drama']",2,6.0,961,paramount
+ts82419,2017,20,['drama'],2,7.8,671,paramount
+ts79672,2018,41,['reality'],3,4.5,155,paramount
+ts82975,2018,40,"['crime', 'documentation', 'drama']",2,7.1,71,paramount
+ts57489,2017,21,['comedy'],3,7.4,2333,paramount
+ts82780,2018,41,"['documentation', 'crime']",1,7.0,87,paramount
+ts90869,2018,18,"['drama', 'romance']",1,6.1,173,paramount
+ts79050,2018,41,"['reality', 'romance']",1,3.9,55,paramount
+ts53747,2017,21,['comedy'],2,6.5,3322,paramount
+ts80563,2018,42,"['reality', 'romance', 'european']",6,5.0,568,paramount
+ts76061,2017,41,['reality'],2,5.5,418,paramount
+ts56383,2017,22,"['comedy', 'action', 'family', 'horror', 'drama', 'crime', 'thriller']",4,6.8,701,paramount
+ts56328,2017,22,['comedy'],2,6.4,1513,paramount
+ts90596,2018,14,"['animation', 'comedy', 'family', 'fantasy']",4,6.1,142,paramount
+ts79775,2018,45,"['documentation', 'history']",1,6.8,61,paramount
+ts86945,2018,16,"['family', 'fantasy', 'animation', 'comedy']",3,5.7,199,paramount
+ts75187,2017,43,"['documentation', 'war']",3,6.9,54,paramount
+ts74982,2017,43,"['drama', 'documentation', 'history']",1,7.6,69,paramount
+ts82398,2018,25,"['drama', 'scifi', 'comedy']",1,7.4,573,paramount
+ts76985,2017,51,"['documentation', 'drama', 'history', 'music', 'reality', 'comedy']",1,8.6,9,paramount
+ts77075,2018,22,"['comedy', 'family', 'fantasy']",2,5.4,641,paramount
+ts82523,2018,40,['reality'],1,3.9,45,paramount
+ts53912,2017,21,"['animation', 'comedy', 'scifi']",1,8.0,1772,paramount
+ts74860,2017,48,"['drama', 'thriller']",1,7.0,1563,paramount
+ts53812,2017,42,"['documentation', 'crime']",1,4.6,213,paramount
+ts85257,2018,44,['documentation'],1,7.8,31,paramount
+ts57114,2017,44,"['documentation', 'history']",1,0.0,0,paramount
+ts82063,2018,22,[],2,5.9,134,paramount
+ts53894,2017,77,"['drama', 'music']",1,8.9,2894,paramount
+ts77678,2018,42,"['reality', 'family']",5,0.0,0,paramount
+ts55146,2017,20,"['animation', 'family', 'fantasy', 'european']",2,4.9,175,paramount
+ts272800,2018,57,"['comedy', 'drama', 'romance']",1,6.9,171,paramount
+ts54027,2017,10,"['animation', 'european']",2,7.3,54,paramount
+ts118095,2018,14,"['comedy', 'family', 'fantasy', 'animation']",2,8.1,50,paramount
+ts58591,2017,22,"['animation', 'comedy', 'family', 'fantasy']",2,7.1,497,paramount
+ts55626,2017,20,"['animation', 'comedy', 'family', 'fantasy']",1,4.1,741,paramount
+ts104831,2018,43,['documentation'],5,8.5,97,paramount
+ts89984,2018,44,"['documentation', 'history', 'drama', 'reality']",3,8.2,209,paramount
+ts121292,2017,22,"['family', 'animation', 'comedy']",4,7.0,105,paramount
+ts95569,2018,21,"['animation', 'family', 'fantasy']",3,4.1,214,paramount
+ts78182,2018,21,"['animation', 'action', 'comedy', 'family', 'scifi']",1,2.4,1021,paramount
+ts107506,2018,48,['documentation'],2,9.3,167,paramount
+ts53605,2017,51,['documentation'],1,7.4,66,paramount
+ts91111,2018,51,"['war', 'history']",1,8.5,178,paramount
+ts81086,2018,51,['documentation'],1,8.8,105,paramount
+ts80851,2017,47,['documentation'],3,8.6,99,paramount
+ts80029,2018,48,['documentation'],1,7.3,27,paramount
+ts117128,2017,48,"['history', 'documentation']",1,8.2,41,paramount
+ts75619,2017,20,['comedy'],3,6.4,35,paramount
+ts109900,2018,49,['documentation'],2,8.8,48,paramount
+ts117535,2017,44,[],1,8.1,18,paramount
+ts88331,2017,43,"['documentation', 'history']",1,7.6,350,paramount
+ts232755,2018,44,['documentation'],1,8.5,15,paramount
+ts90942,2018,51,['documentation'],1,7.2,38,paramount
+ts81332,2017,46,"['drama', 'documentation']",2,6.8,24,paramount
+ts58087,2017,21,['comedy'],1,6.2,156,paramount
+ts80543,2018,48,['documentation'],2,8.1,16,paramount
+ts77252,2017,20,"['reality', 'comedy']",1,5.6,98,paramount
+ts349607,2017,51,['documentation'],1,8.2,61,paramount
+ts121350,2017,49,['documentation'],1,7.9,58,paramount
+ts55804,2017,21,['comedy'],1,6.2,56,paramount
+ts80881,2017,46,['documentation'],1,0.0,0,paramount
+ts91982,2017,48,['documentation'],1,8.3,16,paramount
+ts117137,2017,45,['documentation'],1,7.0,13,paramount
+ts280452,2018,46,['documentation'],1,7.2,8,paramount
+ts326817,2018,43,"['drama', 'documentation']",1,0.0,0,paramount
+ts119710,2017,41,['reality'],2,5.9,41,paramount
+ts117478,2017,48,['documentation'],1,7.5,24,paramount
+ts92298,2018,3,['comedy'],1,0.0,0,paramount
+ts110089,2018,51,"['reality', 'documentation']",1,7.7,27,paramount
+ts91074,2017,43,"['documentation', 'history']",1,7.0,72,paramount
+ts109804,2018,21,['comedy'],3,7.4,90,paramount
+ts256120,2017,48,['documentation'],1,6.9,12,paramount
+ts291963,2018,1,['family'],1,0.0,0,paramount
+ts227772,2017,22,['music'],1,0.0,0,paramount
+ts118311,2017,3,['comedy'],2,8.7,14,paramount
+ts244147,2018,44,['documentation'],1,8.2,5,paramount
+ts111175,2018,2,['comedy'],1,0.0,0,paramount
+ts87480,2020,48,"['scifi', 'action', 'drama']",3,7.3,76562,paramount
+ts88950,2019,49,"['drama', 'comedy', 'crime']",2,8.3,25591,paramount
+ts282215,2020,42,"['drama', 'action', 'crime', 'thriller']",4,6.9,8934,paramount
+ts88376,2019,46,"['drama', 'crime', 'horror', 'thriller']",3,7.7,28349,paramount
+ts186931,2019,20,"['romance', 'comedy']",5,6.9,4596,paramount
+ts87479,2020,26,"['scifi', 'comedy', 'animation', 'action']",3,7.5,19424,paramount
+ts87912,2020,57,"['scifi', 'drama', 'horror', 'thriller', 'fantasy']",1,5.6,27507,paramount
+ts89628,2019,46,['action'],2,6.7,6255,paramount
+ts216539,2019,49,['reality'],4,4.9,1186,paramount
+ts252505,2019,44,"['thriller', 'family', 'drama', 'fantasy', 'horror']",3,7.1,2528,paramount
+ts225512,2020,24,"['comedy', 'family', 'scifi', 'action']",2,3.6,1661,paramount
+ts66250,2019,41,['reality'],2,5.5,674,paramount
+ts93336,2019,22,"['animation', 'comedy', 'family']",5,6.9,712,paramount
+ts269710,2020,21,"['comedy', 'reality']",3,4.2,221,paramount
+ts91095,2019,21,"['comedy', 'romance', 'drama', 'family']",2,7.2,4389,paramount
+ts37656,2019,43,"['history', 'sport', 'documentation', 'music']",3,6.7,13,paramount
+ts109806,2019,21,['comedy'],1,7.9,582,paramount
+ts89456,2019,21,"['documentation', 'comedy']",1,7.2,267,paramount
+ts90136,2019,43,['reality'],3,6.1,396,paramount
+ts262778,2020,21,"['action', 'family', 'fantasy', 'animation']",2,6.8,153,paramount
+ts179157,2020,45,['reality'],4,6.4,29,paramount
+ts87153,2019,38,['reality'],1,4.1,526,paramount
+ts90450,2020,40,"['drama', 'comedy', 'war']",1,5.7,2057,paramount
+ts215985,2019,21,['comedy'],1,7.4,294,paramount
+ts271247,2019,14,"['animation', 'action', 'family', 'comedy']",4,6.7,228,paramount
+ts306086,2019,22,"['comedy', 'family', 'music']",1,5.7,236,paramount
+ts89979,2019,41,['documentation'],1,7.1,152,paramount
+ts223862,2020,42,"['documentation', 'crime', 'reality']",2,6.7,105,paramount
+ts255450,2020,43,"['crime', 'documentation']",1,6.7,149,paramount
+ts91117,2019,48,['documentation'],2,8.2,82,paramount
+ts89861,2019,49,"['documentation', 'fantasy', 'history']",2,7.3,90,paramount
+ts190082,2019,40,['reality'],1,4.7,73,paramount
+ts257396,2020,34,"['sport', 'documentation']",2,7.4,223,paramount
+ts221174,2019,12,"['animation', 'family']",2,6.4,102,paramount
+ts279044,2020,43,['documentation'],1,8.6,14,paramount
+ts223523,2019,14,"['action', 'scifi', 'family', 'fantasy', 'animation', 'comedy']",2,8.5,451,paramount
+ts105548,2019,20,"['family', 'drama', 'comedy', 'action', 'thriller', 'animation', 'fantasy']",3,5.7,1438,paramount
+ts224408,2020,18,"['animation', 'comedy', 'family', 'action', 'thriller']",2,6.5,434,paramount
+ts87666,2019,43,['drama'],1,6.2,2071,paramount
+ts225450,2020,22,"['action', 'comedy', 'family']",3,3.0,501,paramount
+ts256533,2019,11,"['comedy', 'family', 'animation', 'action']",1,7.1,60,paramount
+ts89289,2019,23,"['reality', 'comedy', 'thriller']",2,6.6,15,paramount
+ts215782,2019,41,"['drama', 'reality', 'western']",3,6.8,172,paramount
+ts256845,2020,44,['documentation'],3,8.2,60,paramount
+ts90281,2019,40,['drama'],2,6.5,552,paramount
+ts90494,2019,22,"['family', 'comedy']",1,6.4,74,paramount
+ts227724,2019,40,['reality'],1,5.9,137,paramount
+ts101333,2019,52,['documentation'],1,8.4,146,paramount
+ts87994,2019,17,"['animation', 'comedy', 'family', 'fantasy']",1,5.2,189,paramount
+ts187592,2019,8,['family'],4,8.9,167,paramount
+ts89519,2019,23,['family'],3,1.8,430,paramount
+ts108638,2019,45,"['romance', 'comedy', 'crime', 'drama']",1,6.1,92,paramount
+ts280372,2020,27,['reality'],3,1.4,123,paramount
+ts255813,2020,45,['documentation'],1,0.0,0,paramount
+ts225264,2020,18,['comedy'],2,0.0,0,paramount
+ts216123,2019,42,['reality'],2,5.9,407,paramount
+ts91103,2019,51,['documentation'],1,7.3,27,paramount
+ts237681,2020,51,"['documentation', 'history']",1,7.9,98,paramount
+ts234245,2020,44,['documentation'],1,5.3,52,paramount
+ts216991,2019,47,['documentation'],2,8.5,120,paramount
+ts271248,2019,51,"['documentation', 'history']",1,7.4,68,paramount
+ts236724,2019,43,['documentation'],1,7.2,21,paramount
+ts105681,2019,51,['documentation'],1,8.1,65,paramount
+ts237227,2020,23,"['documentation', 'reality', 'history']",1,6.6,18,paramount
+ts237332,2020,21,['comedy'],1,0.0,0,paramount
+ts264956,2019,44,['documentation'],2,8.1,28,paramount
+ts218644,2019,40,"['crime', 'documentation']",1,7.4,50,paramount
+ts221443,2019,44,[],2,8.1,16,paramount
+ts381277,2019,42,['reality'],2,4.7,57,paramount
+ts250614,2019,49,['documentation'],2,8.5,15,paramount
+ts222783,2019,44,['documentation'],1,0.0,0,paramount
+ts269413,2020,50,['documentation'],1,0.0,0,paramount
+ts264086,2020,13,"['comedy', 'documentation']",1,8.4,98,paramount
+ts217989,2019,44,['documentation'],1,0.0,0,paramount
+ts227421,2020,40,"['documentation', 'reality', 'history']",1,4.6,35,paramount
+ts267512,2020,46,"['documentation', 'history']",1,7.2,128,paramount
+ts345044,2020,44,['documentation'],1,8.8,8,paramount
+ts220093,2019,51,['documentation'],1,7.1,20,paramount
+ts222728,2019,43,['family'],1,6.5,48,paramount
+ts292307,2020,6,"['comedy', 'animation']",1,7.4,16,paramount
+ts230942,2019,7,['animation'],1,6.9,10,paramount
+ts223385,2019,48,"['documentation', 'history']",1,7.7,57,paramount
+ts221056,2019,44,['documentation'],1,0.0,0,paramount
+ts240109,2020,21,"['comedy', 'reality']",2,5.6,68,paramount
+ts215433,2020,16,"['comedy', 'family', 'fantasy', 'animation']",2,2.8,683,paramount
+ts109004,2020,23,"['comedy', 'family', 'scifi', 'fantasy', 'animation']",2,6.1,69,paramount
+ts351915,2022,58,"['western', 'drama']",1,8.5,22563,paramount
+ts287975,2021,21,"['comedy', 'fantasy']",2,7.9,20438,paramount
+ts224255,2021,47,"['drama', 'crime', 'thriller']",2,8.2,32888,paramount
+ts272606,2021,56,"['drama', 'western']",1,8.7,85449,paramount
+ts320262,2022,38,"['drama', 'crime']",1,8.1,42076,paramount
+ts353298,2022,46,['drama'],2,7.4,3039,paramount
+ts259709,2022,59,['drama'],1,8.7,29660,paramount
+ts353444,2022,42,['drama'],1,7.2,4700,paramount
+ts237563,2022,53,"['scifi', 'action']",2,8.2,34355,paramount
+ts287434,2021,47,"['drama', 'action', 'crime']",2,6.5,6964,paramount
+ts285960,2021,44,"['crime', 'drama']",2,7.5,7302,paramount
+ts272625,2021,41,"['action', 'drama', 'crime', 'thriller']",3,5.3,13981,paramount
+ts285554,2021,41,"['crime', 'drama', 'thriller', 'action']",2,6.4,4697,paramount
+ts43075,2022,51,"['action', 'scifi', 'thriller', 'war']",1,7.1,64798,paramount
+ts353455,2022,43,['drama'],1,0.0,0,paramount
+ts286275,2021,49,"['western', 'drama']",1,7.7,3200,paramount
+ts251523,2021,24,"['action', 'comedy', 'drama', 'family', 'scifi', 'animation']",1,7.3,3945,paramount
+ts364938,2022,49,['documentation'],1,7.7,298,paramount
+ts354333,2022,49,"['reality', 'action', 'drama', 'sport']",1,6.7,339,paramount
+ts310005,2022,43,['drama'],1,6.3,942,paramount
+ts327455,2022,49,"['drama', 'music']",1,5.9,200,paramount
+ts329876,2022,44,['reality'],1,5.3,147,paramount
+ts273356,2021,24,"['comedy', 'drama', 'romance', 'family']",3,6.6,5030,paramount
+ts297247,2021,24,"['family', 'comedy']",2,4.1,424,paramount
+ts302453,2021,45,['reality'],1,7.0,746,paramount
+ts373611,2022,21,['documentation'],1,5.6,17,paramount
+ts350474,2022,25,"['documentation', 'drama']",3,7.5,132,paramount
+ts343386,2022,44,"['reality', 'romance']",1,4.5,184,paramount
+ts312198,2021,34,"['romance', 'sport', 'comedy', 'drama']",2,6.2,618,paramount
+ts369806,2022,42,['reality'],1,7.0,59,paramount
+ts285148,2021,45,['reality'],3,8.2,531,paramount
+ts376197,2022,47,['documentation'],1,9.3,21,paramount
+ts309678,2021,46,"['documentation', 'music']",1,8.0,51,paramount
+ts343582,2022,49,['drama'],2,7.8,287,paramount
+ts287529,2021,47,['documentation'],1,8.7,260,paramount
+ts291661,2021,46,"['horror', 'thriller', 'crime', 'fantasy', 'action', 'drama']",2,7.2,539,paramount
+ts290928,2022,30,"['comedy', 'drama', 'family', 'scifi', 'animation', 'action']",1,6.2,524,paramount
+ts321156,2021,38,"['comedy', 'drama', 'romance']",1,6.8,89,paramount
+ts320344,2022,22,"['animation', 'comedy', 'family']",1,7.2,483,paramount
+ts225530,2021,16,"['comedy', 'family', 'horror', 'crime', 'fantasy', 'animation']",2,3.6,1335,paramount
+ts310078,2021,21,['comedy'],1,2.7,631,paramount
+ts279253,2021,43,['reality'],2,5.3,57,paramount
+ts343865,2022,51,"['reality', 'family']",1,7.2,69,paramount
+ts260911,2021,64,"['crime', 'thriller', 'war', 'drama']",1,5.4,524,paramount
+ts287397,2021,44,"['crime', 'documentation', 'history']",1,7.7,53,paramount
+ts299835,2021,18,"['animation', 'comedy', 'family', 'fantasy']",1,4.1,1321,paramount
+ts310161,2021,49,"['drama', 'crime']",1,0.0,0,paramount
+ts299030,2021,54,['reality'],2,7.7,35,paramount
+ts271287,2021,44,"['documentation', 'reality']",2,0.0,0,paramount
+ts354339,2022,21,['reality'],1,6.9,25,paramount
+ts317429,2021,21,"['family', 'sport']",2,5.3,35,paramount
+ts296262,2021,44,"['reality', 'documentation']",1,8.8,11,paramount
+ts282236,2021,44,['documentation'],1,8.5,37,paramount
+ts297043,2021,44,"['documentation', 'history']",1,8.0,26,paramount
+ts310234,2021,44,['documentation'],1,0.0,0,paramount
+ts341769,2022,43,"['documentation', 'music']",1,8.0,12,paramount
+ts287358,2021,42,['reality'],2,5.7,34,paramount
+ts312009,2021,44,[],1,0.0,0,paramount
+ts344163,2022,50,"['documentation', 'crime']",1,5.9,96,paramount
+ts321300,2022,51,"['documentation', 'war', 'crime', 'history']",1,4.3,299,paramount
+ts341765,2021,44,['documentation'],1,0.0,0,paramount
+ts284778,2021,44,['documentation'],1,8.3,26,paramount
+ts288550,2021,42,['crime'],1,0.0,0,paramount
+ts369971,2022,1,['family'],1,0.0,0,paramount
+ts373298,2022,88,[],1,0.0,0,paramount
+ts324789,2021,24,[],3,0.0,0,paramount
+ts291097,2021,40,['documentation'],1,4.3,18,paramount
+ts313367,2023,50,"['drama', 'fantasy', 'horror', 'scifi']",1,6.2,4183,paramount
+ts378183,2023,0,['drama'],1,0.0,0,paramount
+ts374339,2023,48,"['documentation', 'history', 'music']",1,7.7,91,paramount
+ts361945,2023,24,"['drama', 'documentation']",1,6.9,25,paramount
+ts378319,2023,42,['reality'],1,5.7,76,paramount

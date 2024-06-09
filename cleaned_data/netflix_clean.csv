@@ -1,0 +1,2307 @@
+id,release_year,runtime,genres,seasons,imdb_score,imdb_votes,platform
+ts300399,1945,51,['documentation'],1,0.0,0,netflix
+ts22164,1969,30,"['comedy', 'european']",4,8.8,75654,netflix
+ts45948,1972,43,['comedy'],1,8.1,2199,netflix
+ts20681,1989,24,['comedy'],9,8.9,326487,netflix
+ts21715,1984,10,"['animation', 'family', 'fantasy', 'music', 'drama', 'comedy', 'action', 'war']",24,6.5,5528,netflix
+ts2760,1987,10,"['comedy', 'animation', 'family', 'crime', 'european']",13,6.1,1875,netflix
+ts987,1981,14,"['animation', 'comedy', 'family', 'scifi', 'action', 'european']",10,7.4,3678,netflix
+ts20981,2000,48,['reality'],44,7.5,25709,netflix
+ts20339,1999,23,"['action', 'comedy', 'animation', 'scifi', 'fantasy', 'drama']",21,8.9,133488,netflix
+ts21223,1997,22,"['scifi', 'action', 'animation', 'comedy', 'fantasy', 'family']",25,7.4,224,netflix
+ts21567,2000,46,"['comedy', 'drama']",8,8.2,131967,netflix
+ts34435,1998,25,"['scifi', 'western', 'action', 'thriller', 'animation', 'comedy', 'drama']",1,8.9,123834,netflix
+ts20983,1995,24,"['scifi', 'animation', 'action', 'fantasy', 'thriller', 'drama']",1,8.5,73413,netflix
+ts21321,1992,32,"['reality', 'comedy', 'animation', 'documentation', 'drama']",33,6.3,28,netflix
+ts20960,1993,22,"['action', 'scifi', 'family', 'fantasy', 'animation']",29,6.5,23091,netflix
+ts6236,2000,43,['reality'],24,5.5,10811,netflix
+ts22193,1994,26,"['animation', 'comedy', 'family', 'fantasy', 'scifi']",4,7.8,10291,netflix
+ts21034,2000,25,"['animation', 'action', 'comedy', 'drama', 'fantasy', 'romance', 'scifi']",9,7.9,16790,netflix
+ts25252,1998,22,"['scifi', 'action', 'family', 'fantasy', 'animation', 'comedy', 'drama']",7,7.3,21954,netflix
+ts11397,1993,22,"['scifi', 'action', 'comedy', 'western', 'family', 'animation', 'fantasy']",4,6.2,4035,netflix
+ts27693,1996,25,"['family', 'comedy']",4,7.8,16037,netflix
+ts21581,2000,21,"['drama', 'comedy']",8,7.4,4715,netflix
+ts22039,1998,25,['comedy'],4,7.4,1803,netflix
+ts16919,1994,24,"['comedy', 'family', 'music']",11,7.5,7913,netflix
+ts21684,1994,45,"['drama', 'romance']",7,7.8,3341,netflix
+ts25249,1998,20,"['family', 'fantasy', 'music', 'comedy', 'european']",10,8.0,165,netflix
+ts22286,1998,25,"['scifi', 'action', 'comedy', 'drama', 'family', 'fantasy', 'romance', 'animation']",4,8.0,5234,netflix
+ts28516,2000,40,"['drama', 'crime']",1,9.0,2630,netflix
+ts20918,1999,19,['comedy'],5,6.9,2486,netflix
+ts20939,1996,21,"['drama', 'family', 'comedy']",6,5.8,3899,netflix
+ts21693,1994,22,"['comedy', 'drama', 'family']",6,6.3,13054,netflix
+ts8570,1992,29,"['comedy', 'family']",14,3.9,7883,netflix
+ts251477,1991,18,['reality'],12,0.0,0,netflix
+ts224786,1991,44,['drama'],1,0.0,0,netflix
+ts4,2008,48,"['drama', 'comedy', 'crime', 'thriller']",5,9.5,1936461,netflix
+ts9,2010,46,"['action', 'drama', 'horror', 'thriller']",11,8.1,1013253,netflix
+ts21469,2005,48,"['drama', 'romance']",19,7.6,316260,netflix
+ts17156,2003,28,['comedy'],5,8.7,309568,netflix
+ts8308,2009,23,['comedy'],6,8.5,271794,netflix
+ts22337,2003,43,"['thriller', 'comedy', 'action', 'crime', 'drama']",20,7.7,137745,netflix
+ts3371,2005,24,"['animation', 'action', 'family', 'fantasy']",3,9.3,324247,netflix
+ts21465,2005,45,"['drama', 'scifi', 'thriller', 'fantasy', 'horror']",15,8.4,453184,netflix
+ts20371,2002,58,"['comedy', 'reality', 'european', 'music']",33,8.7,120892,netflix
+ts288536,2010,58,"['reality', 'european']",13,8.6,11204,netflix
+ts20604,2006,43,"['drama', 'sport']",5,8.7,68182,netflix
+ts20573,2006,25,"['comedy', 'european']",5,8.5,155675,netflix
+ts5716,2001,48,"['reality', 'family', 'action']",34,7.8,14888,netflix
+ts22011,2007,44,"['drama', 'family']",16,8.5,17597,netflix
+ts11313,2006,24,"['animation', 'drama', 'fantasy', 'thriller', 'crime']",1,9.0,334730,netflix
+ts31787,2004,23,"['drama', 'crime', 'thriller', 'animation']",1,8.7,33682,netflix
+ts20305,2002,23,"['action', 'scifi', 'comedy', 'animation', 'fantasy', 'thriller']",6,8.4,107461,netflix
+ts34569,2007,22,"['animation', 'thriller', 'scifi', 'horror', 'fantasy']",1,8.3,2437,netflix
+ts17942,2003,21,"['comedy', 'music']",3,8.8,66715,netflix
+ts327,2010,46,"['scifi', 'documentation', 'fantasy', 'history']",19,8.1,21,netflix
+ts31263,2001,47,['reality'],5,7.7,1269,netflix
+ts15349,2010,46,"['reality', 'documentation']",31,7.0,7997,netflix
+ts12787,2006,24,"['scifi', 'action', 'animation', 'drama', 'thriller', 'war', 'fantasy']",3,8.7,62367,netflix
+ts20640,2009,25,"['reality', 'comedy', 'documentation', 'drama']",21,7.2,17171,netflix
+ts21511,2010,22,"['comedy', 'scifi', 'animation', 'drama', 'music', 'family', 'fantasy']",9,7.7,21497,netflix
+ts29186,2006,23,"['reality', 'drama', 'music']",6,3.7,11389,netflix
+ts6644,2010,58,"['drama', 'european']",4,8.5,27693,netflix
+ts21544,2010,22,"['action', 'scifi', 'animation', 'comedy', 'drama', 'family']",4,7.9,7180,netflix
+ts22018,2007,26,"['family', 'comedy', 'romance']",6,6.7,41021,netflix
+ts22456,2004,25,"['comedy', 'family']",3,7.4,18499,netflix
+ts27541,2005,51,['documentation'],24,0.0,0,netflix
+ts31820,2004,23,"['reality', 'drama']",4,4.8,3917,netflix
+ts19036,2001,23,"['comedy', 'scifi', 'family', 'fantasy', 'animation']",10,7.2,38046,netflix
+ts23752,2009,27,"['comedy', 'drama']",5,8.6,2601,netflix
+ts26091,2004,49,"['crime', 'documentation', 'drama']",2,7.8,21531,netflix
+ts38488,2003,43,"['drama', 'romance']",2,7.8,2632,netflix
+ts30311,2010,24,"['comedy', 'family', 'romance', 'drama', 'music', 'sport']",4,7.0,26452,netflix
+ts22267,2001,25,"['comedy', 'crime']",12,8.6,45813,netflix
+ts22005,2007,23,"['animation', 'drama', 'family', 'action', 'comedy']",6,7.4,11992,netflix
+ts32186,2003,21,"['action', 'family', 'animation', 'comedy', 'fantasy', 'scifi', 'drama', 'thriller']",3,6.2,5003,netflix
+ts22318,2004,23,"['scifi', 'action', 'comedy', 'family', 'fantasy', 'animation', 'thriller', 'european']",8,6.2,6700,netflix
+ts21464,2005,25,"['drama', 'comedy', 'romance', 'family']",4,6.1,16416,netflix
+ts52881,2009,22,"['drama', 'comedy', 'animation', 'music', 'romance']",2,7.8,4300,netflix
+ts1413,2009,58,"['drama', 'romance']",1,7.9,530,netflix
+ts24028,2002,29,"['comedy', 'european']",9,8.9,8365,netflix
+ts21740,2008,25,"['animation', 'comedy', 'drama', 'thriller', 'scifi', 'fantasy', 'crime', 'action', 'horror']",3,8.2,1997,netflix
+ts21688,2009,64,"['comedy', 'drama', 'romance']",1,7.8,12768,netflix
+ts26322,2008,30,"['animation', 'romance', 'comedy', 'drama']",2,8.0,16549,netflix
+ts20544,2006,23,"['comedy', 'drama', 'animation', 'romance']",1,8.2,10614,netflix
+ts14102,2007,22,['animation'],4,4.3,136,netflix
+ts178360,2010,44,"['thriller', 'war', 'action', 'crime', 'horror']",1,6.7,243,netflix
+ts12701,2003,24,"['scifi', 'comedy', 'action', 'fantasy', 'thriller', 'animation', 'family', 'romance']",5,7.3,5361,netflix
+ts20526,2006,22,"['drama', 'comedy', 'romance', 'sport']",10,6.8,4597,netflix
+ts21664,2001,20,['comedy'],5,7.1,2401,netflix
+ts34414,2007,44,['comedy'],1,7.2,236,netflix
+ts21706,2006,25,"['drama', 'scifi', 'family', 'fantasy']",3,7.2,16221,netflix
+ts74928,2009,44,"['documentation', 'history', 'war', 'european']",1,7.6,682,netflix
+ts12444,2010,59,['drama'],1,7.3,106,netflix
+ts1464,2008,44,"['action', 'drama', 'crime', 'thriller', 'comedy']",2,8.0,804,netflix
+ts27459,2008,45,"['action', 'drama']",1,7.0,1422,netflix
+ts911,2010,40,['reality'],10,3.6,728,netflix
+ts20535,2009,18,"['animation', 'comedy', 'family', 'european']",5,5.4,2791,netflix
+ts20358,2002,21,['comedy'],4,7.1,1954,netflix
+ts12815,2009,25,"['comedy', 'drama', 'family', 'music']",4,6.4,13027,netflix
+ts21421,2005,9,"['animation', 'comedy', 'family', 'european']",4,4.0,99,netflix
+ts23797,2009,37,"['action', 'comedy', 'sport', 'crime']",3,7.6,334,netflix
+ts67595,2001,44,"['comedy', 'drama']",1,7.5,365,netflix
+ts23835,2009,6,"['animation', 'comedy', 'family', 'action']",5,7.5,3381,netflix
+ts20398,2002,24,['comedy'],4,8.4,4609,netflix
+ts3666,2007,25,"['scifi', 'comedy', 'drama', 'animation']",1,7.8,936,netflix
+ts21967,2005,18,"['animation', 'drama', 'action', 'comedy', 'family', 'scifi']",6,5.1,8694,netflix
+ts1893,2009,14,"['comedy', 'family', 'fantasy', 'animation', 'european']",3,7.4,1375,netflix
+ts98353,2009,26,"['animation', 'family']",1,6.2,27,netflix
+ts30356,2010,15,"['animation', 'action', 'comedy', 'family']",7,7.6,1207,netflix
+ts17028,2007,21,"['action', 'scifi', 'comedy', 'animation', 'family', 'western']",2,5.8,792,netflix
+ts38159,2008,22,"['scifi', 'animation', 'action', 'drama', 'family', 'fantasy', 'european']",3,8.1,1645,netflix
+ts56589,2010,11,"['animation', 'comedy', 'family']",6,5.3,165,netflix
+ts31593,2003,10,"['family', 'animation', 'action', 'scifi', 'comedy', 'fantasy']",7,6.4,104,netflix
+ts21695,2009,61,"['drama', 'action', 'comedy', 'reality', 'romance', 'thriller']",2,7.8,1951,netflix
+ts18653,2008,22,"['action', 'animation', 'comedy']",12,4.4,995,netflix
+ts63295,2006,72,['drama'],1,8.7,1109,netflix
+ts44053,2009,46,['war'],3,0.0,0,netflix
+ts4866,2008,67,"['drama', 'comedy', 'romance']",1,7.4,510,netflix
+ts70843,2005,44,"['drama', 'romance', 'comedy']",1,6.8,148,netflix
+ts29199,2006,56,"['animation', 'comedy']",1,7.9,455,netflix
+ts42914,2010,7,"['comedy', 'family', 'fantasy', 'romance', 'action', 'animation', 'european']",3,6.8,742,netflix
+ts72322,2009,43,"['drama', 'action']",2,6.5,322,netflix
+ts74931,2008,0,"['action', 'family', 'animation', 'comedy']",1,7.0,101,netflix
+ts44663,2010,10,"['animation', 'drama', 'comedy', 'european']",1,7.4,638,netflix
+ts121176,2010,24,"['animation', 'comedy', 'family', 'fantasy', 'horror', 'music', 'scifi']",1,6.5,427,netflix
+ts23808,2009,55,"['documentation', 'comedy']",1,8.1,1822,netflix
+ts39604,2006,48,['drama'],1,7.3,50,netflix
+ts40702,2009,44,['drama'],1,5.4,6,netflix
+ts8614,2010,44,"['drama', 'action']",1,6.7,8,netflix
+ts204466,2002,0,"['romance', 'comedy', 'drama']",1,8.5,201,netflix
+ts188031,2007,15,"['romance', 'drama', 'comedy']",1,6.2,5,netflix
+ts29581,2010,44,"['action', 'drama', 'thriller']",2,8.0,25,netflix
+ts95855,2002,30,['drama'],1,0.0,0,netflix
+ts160526,2005,19,"['reality', 'scifi', 'family']",11,9.5,3207,netflix
+ts20660,2011,54,"['drama', 'comedy']",11,8.6,248907,netflix
+ts278,2011,59,"['scifi', 'drama', 'thriller', 'european']",5,8.8,560631,netflix
+ts8175,2012,57,"['drama', 'history', 'european']",12,8.6,28078,netflix
+ts20564,2011,21,"['comedy', 'romance']",7,7.8,229926,netflix
+ts17598,2012,42,"['drama', 'action', 'crime', 'scifi']",8,7.5,435150,netflix
+ts20436,2012,22,"['comedy', 'action']",5,8.3,23166,netflix
+ts21580,2012,53,"['western', 'drama', 'action', 'crime']",6,8.3,36835,netflix
+ts32835,2011,23,"['action', 'drama', 'animation', 'comedy', 'fantasy']",1,9.0,106715,netflix
+ts20457,2012,23,"['scifi', 'action', 'drama', 'animation', 'comedy', 'family', 'fantasy']",4,8.4,124910,netflix
+ts21503,2012,22,['comedy'],6,7.5,33349,netflix
+ts21095,2012,24,"['action', 'scifi', 'horror', 'comedy', 'family', 'fantasy', 'thriller', 'animation', 'crime', 'drama']",5,7.9,11964,netflix
+ts27680,2012,59,"['drama', 'romance', 'comedy', 'european']",5,8.4,7694,netflix
+ts20433,2012,24,"['animation', 'action', 'thriller', 'comedy', 'drama', 'fantasy', 'horror']",5,8.5,26839,netflix
+ts20429,2012,23,"['scifi', 'action', 'drama', 'animation', 'thriller', 'fantasy', 'comedy', 'romance']",4,7.5,47535,netflix
+ts83043,2011,42,['reality'],8,7.7,226,netflix
+ts34737,2011,42,"['drama', 'thriller', 'action', 'crime']",3,8.0,2445,netflix
+ts20500,2012,45,"['drama', 'crime', 'comedy']",3,7.9,30686,netflix
+ts20458,2012,18,"['action', 'comedy', 'family', 'fantasy', 'scifi', 'animation', 'european']",16,7.4,5649,netflix
+ts9794,2012,17,"['comedy', 'family', 'animation']",11,8.0,13013,netflix
+ts33338,2011,48,"['drama', 'thriller', 'crime', 'european']",2,8.4,27390,netflix
+ts36647,2012,40,"['drama', 'comedy', 'european']",5,8.1,8718,netflix
+ts32561,2011,45,"['comedy', 'drama', 'romance']",1,6.8,169,netflix
+ts27835,2012,22,['documentation'],10,7.6,1573,netflix
+ts34151,2011,25,"['scifi', 'action', 'comedy', 'crime', 'animation']",2,7.2,1131,netflix
+ts27468,2012,22,"['scifi', 'action', 'comedy', 'family', 'animation']",4,6.6,984,netflix
+ts34552,2011,22,['comedy'],2,6.6,508,netflix
+ts9246,2011,24,"['action', 'comedy', 'scifi', 'drama', 'family', 'animation', 'fantasy', 'horror']",2,7.4,13844,netflix
+ts39093,2012,23,['drama'],4,6.9,2921,netflix
+ts18551,2012,27,"['comedy', 'drama', 'european']",5,5.9,20,netflix
+ts22249,2012,24,"['comedy', 'animation', 'sport']",3,8.3,9610,netflix
+ts6879,2012,43,['drama'],2,8.5,831,netflix
+ts128422,2012,16,['drama'],3,6.6,305,netflix
+ts158608,2012,45,['reality'],5,7.9,43,netflix
+ts21081,2012,44,"['drama', 'crime', 'history', 'thriller']",1,8.4,5325,netflix
+ts32460,2011,43,"['comedy', 'drama', 'family']",1,6.9,117,netflix
+ts55532,2012,16,"['animation', 'european']",6,8.2,23,netflix
+ts27586,2012,24,"['action', 'scifi', 'comedy', 'fantasy', 'animation']",3,7.8,4294,netflix
+ts44064,2011,46,"['comedy', 'drama', 'romance']",1,6.5,114,netflix
+ts19779,2012,7,"['animation', 'comedy', 'family']",7,7.4,2139,netflix
+ts167724,2012,25,['comedy'],3,7.6,94,netflix
+ts35426,2011,3,"['animation', 'european']",3,5.0,37,netflix
+ts45996,2012,44,"['reality', 'documentation']",9,7.4,264,netflix
+ts27875,2012,6,"['animation', 'family']",2,6.3,100,netflix
+ts191698,2011,6,"['music', 'animation', 'family']",4,6.4,108,netflix
+ts69208,2012,45,['drama'],1,7.4,132,netflix
+ts33349,2011,14,"['animation', 'comedy', 'family', 'fantasy']",4,6.0,134,netflix
+ts39112,2011,16,"['action', 'animation', 'comedy', 'family', 'fantasy']",3,5.9,16,netflix
+ts81858,2011,2,"['comedy', 'family', 'animation', 'thriller', 'drama', 'horror']",5,7.1,696,netflix
+ts26776,2012,22,"['action', 'scifi', 'family', 'fantasy', 'animation', 'comedy']",2,6.2,433,netflix
+ts58528,2011,43,['reality'],8,7.2,47,netflix
+ts37864,2011,47,"['drama', 'history', 'romance']",1,6.9,174,netflix
+ts60663,2011,44,"['family', 'drama']",1,0.0,0,netflix
+ts16586,2011,43,"['action', 'crime', 'drama']",3,8.6,1425,netflix
+ts39465,2012,44,"['drama', 'romance', 'comedy']",1,6.7,17,netflix
+ts41114,2011,44,['drama'],1,7.9,10,netflix
+ts99814,2011,14,"['animation', 'comedy']",1,8.2,722,netflix
+ts11188,2014,42,"['scifi', 'drama', 'action']",9,7.5,351348,netflix
+ts1639,2013,43,"['drama', 'crime', 'thriller']",10,8.0,255144,netflix
+ts20682,2013,23,"['horror', 'animation', 'action', 'drama', 'fantasy', 'scifi']",4,9.0,325381,netflix
+ts20837,2014,60,"['drama', 'scifi', 'fantasy', 'romance']",6,8.4,163090,netflix
+ts20110,2013,58,"['drama', 'crime', 'european']",6,8.8,567949,netflix
+ts20351,2014,65,"['reality', 'romance', 'european']",16,6.2,2246,netflix
+ts8146,2014,42,"['drama', 'action', 'scifi']",7,7.6,257437,netflix
+ts16045,2014,42,"['reality', 'romance']",9,6.6,2690,netflix
+ts14583,2014,26,"['comedy', 'drama', 'animation']",6,8.8,164213,netflix
+ts6,2013,52,['drama'],6,8.7,510308,netflix
+ts21374,2014,43,"['drama', 'thriller', 'crime']",6,8.1,155357,netflix
+ts20824,2013,43,"['scifi', 'drama', 'fantasy', 'horror']",5,8.3,139044,netflix
+ts20823,2013,59,"['comedy', 'drama', 'crime']",7,8.1,306873,netflix
+ts20280,2014,55,"['action', 'drama', 'history']",2,8.0,74391,netflix
+ts21367,2014,42,"['drama', 'comedy']",5,7.8,46286,netflix
+ts20261,2014,43,"['war', 'thriller', 'drama']",6,7.7,24007,netflix
+ts20108,2014,24,"['comedy', 'action', 'scifi', 'drama', 'family']",5,5.8,6083,netflix
+ts23238,2014,11,"['action', 'scifi', 'animation', 'comedy', 'family', 'fantasy']",2,6.8,6560,netflix
+ts36836,2013,20,['comedy'],1,8.3,4022,netflix
+ts32271,2013,49,['drama'],3,8.6,7585,netflix
+ts35486,2014,54,"['drama', 'comedy']",1,7.3,451,netflix
+ts2727,2013,26,"['comedy', 'drama', 'european']",3,8.1,33776,netflix
+ts35682,2013,46,"['drama', 'crime', 'thriller']",9,8.6,22886,netflix
+ts75104,2014,45,"['crime', 'action']",2,6.2,730,netflix
+ts88394,2014,28,"['documentation', 'family']",3,8.6,516,netflix
+ts32060,2013,24,"['family', 'comedy', 'drama']",1,5.6,10400,netflix
+ts22426,2014,23,"['action', 'scifi', 'animation', 'drama', 'fantasy', 'romance']",2,7.1,3656,netflix
+ts314002,2014,24,"['action', 'scifi', 'fantasy', 'animation', 'comedy']",5,7.9,33572,netflix
+ts98340,2014,84,['western'],1,0.0,0,netflix
+ts35570,2014,25,"['comedy', 'european']",3,8.0,21080,netflix
+ts353019,2013,34,[],2,0.0,0,netflix
+ts42168,2014,57,"['action', 'drama', 'war', 'history']",5,7.9,37909,netflix
+ts20014,2014,24,"['animation', 'scifi', 'comedy', 'drama', 'fantasy', 'romance', 'action', 'family']",4,7.8,2249,netflix
+ts20709,2013,24,"['comedy', 'drama', 'sport', 'animation']",5,7.7,894,netflix
+ts32218,2013,24,"['comedy', 'scifi', 'action', 'drama', 'family']",4,5.7,6034,netflix
+ts20336,2014,57,"['drama', 'romance', 'action', 'crime', 'thriller', 'european']",4,8.1,6360,netflix
+ts22383,2013,10,"['animation', 'comedy', 'family', 'european']",4,5.4,2023,netflix
+ts21368,2014,76,"['action', 'romance', 'crime', 'drama']",2,7.5,6662,netflix
+ts2161,2013,3,"['animation', 'family', 'comedy', 'fantasy', 'action', 'european']",4,6.2,893,netflix
+ts34066,2013,25,"['comedy', 'scifi', 'drama', 'action', 'family', 'fantasy', 'romance']",4,6.7,4236,netflix
+ts20883,2014,23,"['comedy', 'family']",4,5.2,2909,netflix
+ts57744,2014,14,['animation'],9,0.0,0,netflix
+ts35244,2014,43,['reality'],5,7.1,1230,netflix
+ts83239,2014,4,"['animation', 'family', 'comedy']",4,7.0,452,netflix
+ts53641,2013,23,['animation'],3,4.4,114,netflix
+ts37187,2014,46,"['crime', 'drama', 'romance']",5,6.9,415,netflix
+ts22445,2013,59,"['comedy', 'drama', 'romance']",1,7.5,11588,netflix
+ts34074,2013,63,['drama'],1,7.6,1990,netflix
+ts20781,2014,73,['drama'],1,8.5,2209,netflix
+ts33840,2013,23,"['scifi', 'romance', 'animation', 'drama', 'fantasy']",2,7.4,1263,netflix
+ts10206,2013,29,"['action', 'animation', 'comedy', 'drama', 'family', 'fantasy', 'music', 'romance']",5,7.8,1326,netflix
+ts3799,2014,23,"['comedy', 'family', 'fantasy', 'animation', 'action']",5,7.1,2169,netflix
+ts82979,2014,9,"['comedy', 'drama', 'family', 'action', 'animation', 'fantasy', 'european']",5,6.1,411,netflix
+ts35628,2014,24,"['comedy', 'documentation', 'reality']",4,8.5,22,netflix
+ts36127,2013,19,"['comedy', 'family', 'sport', 'scifi', 'animation', 'action']",3,6.4,648,netflix
+ts76743,2013,23,"['action', 'animation', 'drama', 'fantasy', 'family', 'comedy']",2,6.2,204,netflix
+ts75833,2014,6,"['family', 'animation']",1,6.2,70,netflix
+ts20238,2014,45,"['comedy', 'romance']",1,7.2,511,netflix
+ts32752,2013,44,"['family', 'comedy', 'drama']",1,7.8,68,netflix
+ts121189,2014,29,"['history', 'documentation']",4,8.9,363,netflix
+ts124246,2014,20,"['animation', 'action']",4,4.7,70,netflix
+ts82860,2014,44,['drama'],1,7.7,13,netflix
+ts122290,2014,44,['drama'],1,8.5,339,netflix
+ts271005,2014,44,[],1,0.0,0,netflix
+ts98110,2013,23,['animation'],1,7.3,332,netflix
+ts144527,2014,44,['drama'],1,5.0,7,netflix
+ts8,2015,50,"['drama', 'crime']",6,8.9,554383,netflix
+ts37143,2015,51,"['reality', 'documentation']",9,8.4,5927,netflix
+ts38796,2016,61,"['drama', 'scifi', 'thriller', 'fantasy', 'horror']",5,8.7,1220079,netflix
+ts42069,2016,55,"['drama', 'history', 'european']",5,8.6,226759,netflix
+ts41766,2016,23,"['scifi', 'comedy', 'drama', 'fantasy', 'romance']",4,8.2,166967,netflix
+ts53664,2015,41,"['drama', 'action', 'war', 'thriller']",4,8.3,31881,netflix
+ts36952,2015,22,['comedy'],4,8.1,7225,netflix
+ts36631,2015,52,"['drama', 'crime', 'thriller']",3,8.8,432307,netflix
+ts36577,2015,55,"['action', 'war', 'drama', 'history', 'european']",5,8.5,145471,netflix
+ts37539,2015,24,"['action', 'comedy', 'animation', 'fantasy', 'scifi']",2,8.7,165506,netflix
+ts36147,2016,47,"['scifi', 'crime', 'drama', 'fantasy']",6,8.1,331313,netflix
+ts42062,2015,21,"['action', 'family', 'fantasy', 'romance', 'animation']",6,7.7,10102,netflix
+ts42120,2016,45,"['drama', 'scifi', 'thriller']",3,8.0,58694,netflix
+ts38199,2015,44,"['scifi', 'fantasy', 'drama']",5,7.6,52523,netflix
+ts35554,2015,43,"['drama', 'thriller', 'comedy', 'crime', 'horror']",3,7.1,42255,netflix
+ts36885,2015,30,"['scifi', 'action', 'comedy', 'horror', 'fantasy', 'thriller']",3,8.4,70087,netflix
+ts36129,2015,42,['comedy'],4,7.8,21195,netflix
+ts11670,2015,23,"['comedy', 'family', 'animation', 'fantasy', 'western', 'action']",6,6.6,2092,netflix
+ts53051,2016,55,"['scifi', 'fantasy', 'drama']",2,7.8,107084,netflix
+ts36550,2016,42,"['drama', 'action', 'scifi']",7,6.8,101178,netflix
+ts35563,2015,42,"['drama', 'scifi', 'action']",6,6.2,125626,netflix
+ts41956,2016,44,"['war', 'action', 'drama', 'thriller']",3,7.5,93970,netflix
+ts38718,2016,46,"['crime', 'drama', 'horror', 'thriller']",5,6.7,15108,netflix
+ts21869,2015,62,"['scifi', 'thriller', 'drama']",2,8.2,156667,netflix
+ts21885,2015,30,"['comedy', 'drama']",4,7.6,74019,netflix
+ts38511,2016,32,"['comedy', 'drama', 'romance']",3,7.7,43762,netflix
+ts21981,2015,42,"['scifi', 'drama', 'horror', 'comedy', 'crime']",5,7.8,69960,netflix
+ts47714,2016,22,['comedy'],5,8.2,19955,netflix
+ts35251,2015,29,"['drama', 'comedy']",7,8.2,53536,netflix
+ts35793,2015,42,['reality'],9,8.3,3912,netflix
+ts42077,2016,54,"['drama', 'war', 'history', 'romance', 'thriller', 'european']",3,7.9,20107,netflix
+ts70529,2016,31,"['drama', 'comedy', 'history']",3,7.7,19684,netflix
+ts37866,2015,55,"['drama', 'comedy', 'european']",4,8.3,15307,netflix
+ts41975,2016,41,"['action', 'war', 'drama']",3,7.5,38638,netflix
+ts42014,2016,46,['reality'],7,7.6,2909,netflix
+ts41961,2016,42,"['drama', 'action', 'crime', 'thriller']",5,8.0,31402,netflix
+ts36015,2015,43,"['action', 'drama']",3,7.9,47556,netflix
+ts18010,2015,57,"['drama', 'thriller']",3,7.9,54443,netflix
+ts47636,2016,55,"['drama', 'romance', 'comedy']",1,7.9,1760,netflix
+ts38783,2016,50,"['war', 'thriller']",3,7.4,8566,netflix
+ts81573,2016,50,['reality'],7,5.8,198,netflix
+ts42022,2016,54,"['drama', 'crime', 'thriller', 'action']",5,8.2,4295,netflix
+ts42169,2016,22,"['drama', 'scifi', 'thriller', 'animation', 'fantasy']",1,8.5,50009,netflix
+ts39007,2016,42,"['scifi', 'action', 'drama', 'fantasy', 'horror']",5,6.2,22950,netflix
+ts42170,2016,30,"['comedy', 'european']",1,7.7,22820,netflix
+ts41149,2016,30,"['comedy', 'drama', 'western']",5,7.5,40282,netflix
+ts53287,2016,44,"['drama', 'documentation', 'history', 'war']",3,7.0,8323,netflix
+ts38734,2016,46,"['drama', 'crime', 'european']",3,7.4,33131,netflix
+ts80596,2016,45,"['war', 'drama']",1,7.9,104,netflix
+ts83224,2016,27,['comedy'],2,7.6,959,netflix
+ts38090,2015,54,"['drama', 'history', 'romance', 'war', 'documentation', 'comedy', 'european']",3,7.9,17431,netflix
+ts38731,2016,51,"['war', 'drama', 'history', 'european']",2,7.1,4072,netflix
+ts38204,2015,62,"['documentation', 'crime']",2,8.6,97801,netflix
+ts42119,2016,42,['drama'],5,7.5,5521,netflix
+ts144323,2015,35,"['reality', 'documentation', 'comedy']",1,7.9,13,netflix
+ts42257,2016,71,"['scifi', 'thriller', 'crime', 'drama', 'fantasy']",2,8.5,7677,netflix
+ts38304,2015,29,['comedy'],3,7.3,3861,netflix
+ts42090,2016,59,"['documentation', 'sport']",5,8.4,7166,netflix
+ts37464,2015,45,"['war', 'drama', 'thriller']",3,7.6,9391,netflix
+ts21986,2015,41,"['drama', 'scifi', 'comedy', 'fantasy']",7,7.3,11293,netflix
+ts36046,2015,24,"['comedy', 'family', 'drama']",6,5.3,3549,netflix
+ts37971,2015,32,"['drama', 'comedy']",3,8.2,74164,netflix
+ts42089,2016,29,"['comedy', 'drama', 'family', 'romance']",2,6.0,7489,netflix
+ts38710,2016,43,"['western', 'action', 'drama', 'fantasy', 'thriller']",4,7.3,23521,netflix
+ts36177,2015,53,"['scifi', 'thriller', 'drama', 'horror']",3,7.3,17240,netflix
+ts38415,2016,47,"['action', 'drama', 'history', 'western']",3,7.1,22184,netflix
+ts41852,2016,53,"['drama', 'crime', 'european']",2,7.5,1125,netflix
+ts36856,2015,28,"['comedy', 'animation', 'drama']",5,8.0,38713,netflix
+ts43209,2015,45,"['documentation', 'history', 'european']",2,7.6,1786,netflix
+ts82825,2015,47,['drama'],1,6.3,60,netflix
+ts78442,2016,30,['documentation'],2,6.8,616,netflix
+ts52838,2016,46,"['drama', 'scifi', 'thriller', 'action']",4,7.3,26468,netflix
+ts53099,2016,59,"['drama', 'crime', 'european']",3,7.6,11670,netflix
+ts83450,2016,84,"['crime', 'drama']",1,7.0,249,netflix
+ts42687,2015,15,"['fantasy', 'scifi', 'animation', 'action', 'comedy', 'family', 'european']",5,5.3,1370,netflix
+ts261760,2016,43,['documentation'],1,0.0,0,netflix
+ts84398,2016,24,"['drama', 'comedy', 'romance']",4,8.2,7083,netflix
+ts58068,2016,47,"['crime', 'documentation']",6,7.1,2747,netflix
+ts53249,2016,22,"['scifi', 'action', 'comedy', 'fantasy', 'drama', 'family', 'animation']",3,8.4,17575,netflix
+ts41906,2016,8,"['comedy', 'scifi', 'animation', 'fantasy']",3,8.3,8436,netflix
+ts35596,2015,23,"['comedy', 'family', 'sport']",2,5.1,2361,netflix
+ts36547,2015,45,"['drama', 'comedy', 'sport']",4,8.2,5821,netflix
+ts41948,2016,45,"['documentation', 'music']",4,8.4,5772,netflix
+ts37660,2015,71,"['comedy', 'drama', 'family', 'romance']",1,9.2,8310,netflix
+ts52830,2016,92,"['drama', 'comedy']",1,7.5,40576,netflix
+ts38712,2016,22,"['scifi', 'action', 'animation', 'drama', 'fantasy', 'horror']",2,7.2,5838,netflix
+ts38764,2016,42,"['drama', 'european']",2,6.9,5317,netflix
+ts81483,2016,5,"['comedy', 'family', 'animation']",3,7.0,137,netflix
+ts56748,2016,22,"['drama', 'thriller', 'reality']",3,7.1,2242,netflix
+ts76092,2016,45,"['drama', 'romance', 'thriller', 'action', 'crime']",3,6.1,378,netflix
+ts35256,2015,50,['documentation'],7,8.5,16007,netflix
+ts42127,2016,27,['comedy'],3,7.1,3028,netflix
+ts35362,2015,51,"['drama', 'action', 'thriller', 'european']",4,8.2,23439,netflix
+ts38769,2016,51,['comedy'],2,6.3,2110,netflix
+ts43230,2015,22,"['action', 'family', 'scifi', 'animation']",4,7.9,746,netflix
+ts41963,2016,30,"['drama', 'comedy']",3,6.9,14355,netflix
+ts51368,2016,23,"['action', 'animation', 'family', 'fantasy', 'comedy']",3,6.7,840,netflix
+ts3844,2015,43,"['drama', 'crime', 'thriller', 'european']",2,7.0,12613,netflix
+ts52825,2016,45,"['drama', 'war', 'history', 'romance']",1,7.8,909,netflix
+ts76079,2016,7,"['animation', 'comedy', 'family', 'european']",3,7.1,688,netflix
+ts41154,2016,28,"['comedy', 'european']",3,8.0,3414,netflix
+ts41253,2016,45,"['drama', 'comedy', 'romance']",1,7.8,2885,netflix
+ts55365,2016,25,"['thriller', 'comedy', 'drama', 'family', 'fantasy', 'horror', 'animation']",7,8.3,104,netflix
+ts43501,2015,44,"['documentation', 'history', 'european']",2,7.7,1145,netflix
+ts76956,2016,30,['comedy'],2,7.5,3637,netflix
+ts41883,2016,65,"['action', 'war', 'drama', 'romance', 'thriller']",1,7.8,7359,netflix
+ts37779,2015,12,"['animation', 'action', 'comedy', 'crime', 'family', 'fantasy', 'scifi', 'european']",2,7.1,640,netflix
+ts36983,2016,27,"['comedy', 'family']",5,6.7,28183,netflix
+ts42137,2016,24,"['scifi', 'animation', 'action', 'comedy', 'family', 'drama', 'fantasy']",8,8.1,9168,netflix
+ts41995,2016,50,['reality'],2,6.9,2248,netflix
+ts38717,2016,48,"['comedy', 'drama', 'romance']",2,7.5,3333,netflix
+ts38116,2015,24,"['war', 'action', 'scifi', 'animation', 'drama']",2,7.9,1868,netflix
+ts38758,2016,23,"['animation', 'action', 'thriller', 'drama', 'horror', 'fantasy', 'scifi']",2,7.6,6570,netflix
+ts55559,2016,26,"['animation', 'comedy', 'family']",3,8.5,946,netflix
+ts42156,2016,24,"['drama', 'romance']",6,6.9,3499,netflix
+ts38757,2016,21,"['animation', 'comedy', 'family', 'scifi', 'action']",2,5.8,345,netflix
+ts154625,2015,53,"['drama', 'thriller']",2,7.6,16,netflix
+ts35406,2015,31,"['scifi', 'drama', 'thriller']",2,5.9,9463,netflix
+ts35987,2015,21,"['animation', 'scifi', 'action', 'comedy']",5,6.0,1148,netflix
+ts38772,2016,70,"['comedy', 'drama']",1,8.2,428,netflix
+ts42075,2016,101,['drama'],2,6.6,1329,netflix
+ts38809,2016,61,"['drama', 'music']",2,8.2,22940,netflix
+ts38770,2016,30,"['comedy', 'drama']",2,7.3,3818,netflix
+ts53543,2016,18,"['drama', 'comedy', 'fantasy', 'music']",1,6.2,242,netflix
+ts43258,2015,43,['drama'],1,8.7,1379,netflix
+ts35775,2015,29,['comedy'],2,7.3,24430,netflix
+ts38805,2016,15,"['animation', 'comedy', 'family', 'fantasy']",3,7.6,538,netflix
+ts38568,2016,32,"['drama', 'comedy', 'romance']",2,7.2,11792,netflix
+ts54100,2016,24,"['animation', 'action', 'comedy', 'family', 'fantasy', 'european']",2,6.7,764,netflix
+ts39017,2015,23,"['comedy', 'action', 'animation', 'family']",4,5.8,770,netflix
+ts54022,2016,36,"['reality', 'drama']",4,7.5,1052,netflix
+ts38512,2016,53,['documentation'],1,7.6,43,netflix
+ts55556,2015,46,"['drama', 'war']",1,8.3,382,netflix
+ts86021,2015,4,"['animation', 'comedy', 'family', 'european']",3,8.3,425,netflix
+ts52829,2016,44,"['thriller', 'crime', 'drama', 'european']",1,6.6,9108,netflix
+ts53155,2016,43,"['comedy', 'horror', 'scifi', 'european']",1,7.2,5186,netflix
+ts35360,2015,22,"['action', 'animation', 'comedy', 'family', 'scifi']",4,4.5,653,netflix
+ts43119,2015,31,['comedy'],2,6.4,2981,netflix
+ts36630,2015,23,"['animation', 'action', 'comedy', 'family', 'scifi']",5,6.8,488,netflix
+ts53106,2016,48,"['drama', 'history']",1,7.4,1544,netflix
+ts35463,2015,23,"['drama', 'family', 'comedy']",2,3.2,1201,netflix
+ts54110,2015,11,"['family', 'comedy', 'animation', 'european']",2,8.7,970,netflix
+ts36740,2015,25,['family'],6,6.1,1120,netflix
+ts53346,2016,28,['reality'],1,3.7,513,netflix
+ts74753,2015,28,['documentation'],3,8.2,1982,netflix
+ts42155,2016,20,"['family', 'animation', 'comedy', 'fantasy', 'scifi']",4,6.2,638,netflix
+ts43272,2015,28,"['reality', 'drama']",1,8.1,1737,netflix
+ts35505,2015,47,"['comedy', 'drama', 'european']",1,7.3,518,netflix
+ts21979,2015,58,"['drama', 'comedy', 'crime', 'european']",1,7.7,3743,netflix
+ts39014,2016,24,"['animation', 'comedy', 'drama', 'thriller', 'action', 'scifi']",2,7.2,1348,netflix
+ts42347,2016,13,"['animation', 'family']",5,5.6,366,netflix
+ts52988,2016,63,"['documentation', 'drama', 'european']",1,6.8,783,netflix
+ts56544,2016,40,"['drama', 'comedy']",1,0.0,0,netflix
+ts52950,2016,27,"['comedy', 'drama']",1,7.1,105,netflix
+ts53149,2016,62,['drama'],1,6.9,318,netflix
+ts56674,2015,23,"['family', 'comedy', 'animation', 'history', 'scifi']",4,5.5,486,netflix
+ts37804,2015,35,['comedy'],1,7.4,4160,netflix
+ts52981,2016,48,['reality'],1,6.9,1693,netflix
+ts41151,2016,53,['drama'],1,7.8,1017,netflix
+ts38813,2016,13,"['comedy', 'animation', 'action', 'family']",4,5.3,50,netflix
+ts41485,2016,63,"['scifi', 'action', 'drama', 'thriller', 'crime']",1,8.2,4473,netflix
+ts79799,2015,22,"['action', 'scifi', 'animation', 'family', 'comedy', 'drama', 'fantasy']",6,8.2,6953,netflix
+ts41258,2016,61,"['drama', 'comedy', 'romance']",1,7.4,4405,netflix
+ts38761,2016,67,"['drama', 'fantasy', 'romance', 'comedy']",1,7.8,2049,netflix
+ts56221,2016,12,"['family', 'fantasy', 'animation', 'comedy']",5,6.7,91,netflix
+ts128895,2016,25,['drama'],2,8.4,4452,netflix
+ts119087,2015,3,"['animation', 'family']",5,6.1,114,netflix
+ts54010,2016,24,"['comedy', 'drama', 'fantasy', 'romance']",1,6.3,309,netflix
+ts74929,2015,24,"['fantasy', 'romance', 'animation', 'comedy', 'drama', 'family', 'european']",2,5.5,219,netflix
+ts53065,2016,31,"['drama', 'scifi', 'fantasy']",1,6.8,615,netflix
+ts52943,2016,24,"['drama', 'comedy', 'animation']",2,8.2,1270,netflix
+ts21876,2015,45,"['drama', 'romance']",1,6.6,230,netflix
+ts55966,2016,23,['animation'],2,7.1,55,netflix
+ts82327,2015,6,"['animation', 'comedy', 'family']",3,7.0,115,netflix
+ts86831,2015,28,"['comedy', 'drama']",3,7.6,412,netflix
+ts75829,2016,20,"['animation', 'fantasy', 'scifi', 'action']",2,5.5,198,netflix
+ts83535,2015,25,['animation'],3,6.1,57,netflix
+ts81898,2016,13,"['animation', 'comedy', 'family', 'fantasy']",3,7.4,126,netflix
+ts43341,2015,69,"['drama', 'documentation', 'comedy']",1,5.0,7,netflix
+ts53513,2016,44,"['scifi', 'drama']",1,8.2,126,netflix
+ts74917,2016,27,['documentation'],1,5.7,469,netflix
+ts75897,2016,24,"['action', 'animation', 'comedy', 'drama', 'family', 'fantasy']",2,6.9,267,netflix
+ts54117,2016,24,"['animation', 'family', 'fantasy']",3,6.4,56,netflix
+ts51367,2016,29,"['action', 'comedy', 'crime', 'drama']",2,7.0,2476,netflix
+ts77654,2015,22,['animation'],2,6.8,85,netflix
+ts82582,2016,44,"['drama', 'action']",1,6.9,17,netflix
+ts42628,2016,31,['comedy'],1,5.4,909,netflix
+ts38812,2016,42,"['documentation', 'reality']",2,7.1,318,netflix
+ts98252,2016,31,"['family', 'animation', 'comedy']",1,6.5,117,netflix
+ts95803,2015,13,"['animation', 'family']",3,5.5,35,netflix
+ts83449,2016,87,['family'],1,5.5,329,netflix
+ts55223,2016,45,['documentation'],1,6.3,412,netflix
+ts54156,2016,46,['documentation'],1,8.2,1792,netflix
+ts42260,2016,70,['documentation'],1,7.4,2542,netflix
+ts83454,2016,85,['drama'],1,0.0,0,netflix
+ts91990,2016,29,['documentation'],4,8.3,47,netflix
+ts285233,2016,40,"['scifi', 'drama']",1,0.0,0,netflix
+ts82475,2016,44,"['drama', 'family']",1,6.7,17,netflix
+ts127430,2016,21,"['animation', 'family']",1,8.7,183,netflix
+ts253685,2015,41,['drama'],1,0.0,0,netflix
+ts249161,2015,42,"['drama', 'music']",1,7.2,161,netflix
+ts107658,2015,44,"['action', 'crime', 'drama']",1,7.1,15,netflix
+ts79813,2018,48,"['drama', 'romance', 'thriller', 'crime']",4,7.7,261831,netflix
+ts81927,2018,43,['drama'],5,8.0,43464,netflix
+ts53864,2017,60,"['crime', 'drama', 'thriller']",4,8.5,322557,netflix
+ts55668,2017,56,"['drama', 'scifi', 'crime', 'thriller']",3,8.7,401384,netflix
+ts77795,2018,26,['comedy'],3,8.5,46553,netflix
+ts56683,2017,45,"['drama', 'crime', 'thriller']",4,7.9,128720,netflix
+ts78801,2018,33,"['action', 'drama', 'comedy', 'sport']",6,8.5,190785,netflix
+ts42405,2017,53,"['drama', 'crime', 'thriller']",2,8.6,261429,netflix
+ts42477,2017,47,"['drama', 'crime', 'thriller', 'history', 'european']",4,8.4,26324,netflix
+ts81294,2018,42,"['scifi', 'drama', 'thriller']",4,7.1,71203,netflix
+ts83970,2018,43,"['drama', 'sport']",5,7.6,9704,netflix
+ts54102,2018,52,"['scifi', 'drama', 'thriller', 'action']",2,7.9,174909,netflix
+ts58433,2018,58,"['drama', 'horror', 'thriller']",1,8.6,252856,netflix
+ts81884,2018,60,"['crime', 'war', 'drama', 'thriller', 'european']",2,8.1,128571,netflix
+ts77398,2018,49,"['scifi', 'action', 'drama', 'thriller', 'family']",3,7.3,101268,netflix
+ts56768,2017,49,"['drama', 'thriller', 'action', 'crime', 'european']",5,8.2,488125,netflix
+ts75151,2017,65,"['western', 'drama', 'action']",1,8.3,70703,netflix
+ts75097,2018,39,"['comedy', 'drama', 'scifi']",1,7.7,80805,netflix
+ts53023,2017,42,"['drama', 'thriller', 'romance', 'crime']",7,6.6,147040,netflix
+ts53198,2017,28,"['comedy', 'drama']",4,8.2,17104,netflix
+ts39015,2017,47,"['action', 'comedy', 'drama', 'family']",3,7.8,62922,netflix
+ts75879,2017,27,"['animation', 'romance', 'comedy']",6,7.9,82428,netflix
+ts53663,2017,23,"['comedy', 'drama']",7,7.8,18915,netflix
+ts78305,2018,49,"['crime', 'drama', 'thriller']",6,7.3,82524,netflix
+ts55720,2017,34,"['drama', 'sport', 'comedy', 'reality']",3,8.0,47733,netflix
+ts81064,2018,41,"['scifi', 'drama', 'fantasy', 'horror']",4,7.3,33335,netflix
+ts77955,2018,51,['documentation'],6,8.3,5944,netflix
+ts55982,2017,46,"['drama', 'family']",3,8.7,57921,netflix
+ts77030,2017,41,['reality'],5,5.2,921,netflix
+ts82597,2018,26,"['action', 'scifi', 'drama', 'family', 'fantasy', 'thriller', 'animation']",4,8.3,24590,netflix
+ts56969,2017,31,"['drama', 'comedy']",4,8.3,81643,netflix
+ts80856,2018,57,"['scifi', 'drama', 'thriller', 'fantasy', 'horror']",4,7.4,98700,netflix
+ts76243,2017,21,"['drama', 'comedy', 'crime', 'romance', 'thriller']",2,8.0,198042,netflix
+ts80523,2018,17,"['comedy', 'romance', 'animation', 'drama', 'music']",5,8.0,6746,netflix
+ts57850,2017,43,"['action', 'scifi', 'thriller', 'comedy', 'crime', 'fantasy']",2,8.1,40235,netflix
+ts78356,2018,43,"['scifi', 'drama', 'thriller']",3,7.3,616,netflix
+ts54054,2017,43,"['drama', 'comedy', 'thriller', 'crime']",2,7.8,14216,netflix
+ts53545,2017,29,"['thriller', 'horror', 'comedy']",3,7.8,70415,netflix
+ts82892,2018,48,"['documentation', 'crime']",4,7.4,4659,netflix
+ts82584,2018,17,"['scifi', 'action', 'animation', 'family', 'comedy', 'drama', 'fantasy']",2,5.5,5376,netflix
+ts57120,2018,42,"['drama', 'crime', 'comedy']",4,7.7,54425,netflix
+ts79229,2018,67,"['documentation', 'crime']",1,8.1,32255,netflix
+ts58367,2018,45,"['drama', 'crime', 'thriller', 'european']",1,7.2,45397,netflix
+ts80705,2018,48,"['documentation', 'crime']",1,7.5,29276,netflix
+ts77824,2018,50,[],4,7.9,5948,netflix
+ts84243,2018,45,['drama'],3,6.8,12001,netflix
+ts56261,2017,26,"['scifi', 'animation', 'drama', 'fantasy', 'horror', 'action']",4,8.3,68855,netflix
+ts76458,2018,46,"['drama', 'thriller', 'crime']",3,7.3,11424,netflix
+ts83745,2018,30,['comedy'],1,8.5,3715,netflix
+ts83540,2018,27,"['animation', 'action', 'comedy', 'crime']",4,6.8,17779,netflix
+ts55798,2017,64,"['drama', 'crime', 'thriller', 'romance', 'scifi', 'comedy']",2,8.5,8884,netflix
+ts72247,2018,28,"['action', 'comedy', 'fantasy', 'animation', 'scifi']",4,7.2,64413,netflix
+ts84645,2018,55,"['documentation', 'war']",1,8.3,1795,netflix
+ts80617,2018,43,"['action', 'scifi', 'thriller', 'drama', 'fantasy', 'romance']",4,6.5,35341,netflix
+ts74816,2017,33,"['crime', 'comedy', 'drama']",2,8.1,31562,netflix
+ts86164,2018,25,"['action', 'scifi', 'animation', 'crime']",2,6.2,717,netflix
+ts78382,2018,29,"['comedy', 'drama']",4,7.9,17586,netflix
+ts57465,2017,42,['drama'],5,7.3,23392,netflix
+ts82559,2018,26,['documentation'],1,6.6,844,netflix
+ts84932,2018,25,"['comedy', 'fantasy', 'animation']",1,5.5,1838,netflix
+ts56933,2018,26,"['scifi', 'action', 'comedy', 'fantasy']",2,6.5,4614,netflix
+ts58175,2017,35,['comedy'],2,6.9,4844,netflix
+ts84280,2018,25,"['animation', 'drama', 'fantasy', 'romance', 'thriller']",1,8.1,13191,netflix
+ts83247,2018,32,['reality'],1,7.5,1146,netflix
+ts74809,2017,44,"['action', 'drama', 'history']",2,6.8,20994,netflix
+ts78231,2018,45,"['drama', 'history', 'music', 'thriller', 'crime']",1,7.8,8347,netflix
+ts75263,2017,43,"['crime', 'documentation', 'drama', 'fantasy']",1,7.0,4427,netflix
+ts42294,2017,58,"['drama', 'thriller']",4,7.5,298446,netflix
+ts84644,2018,50,['reality'],1,6.2,168,netflix
+ts78590,2018,46,"['drama', 'crime', 'thriller']",2,8.0,36376,netflix
+ts78145,2018,44,['documentation'],2,6.8,1408,netflix
+ts85732,2018,55,['reality'],1,7.6,4399,netflix
+ts81331,2018,24,"['scifi', 'family', 'drama', 'comedy', 'fantasy', 'animation', 'action', 'romance']",5,8.0,16952,netflix
+ts82526,2018,56,"['drama', 'crime']",3,8.4,86370,netflix
+ts84346,2018,44,"['action', 'thriller', 'crime', 'drama']",2,7.1,384,netflix
+ts85202,2018,24,"['documentation', 'family']",1,8.1,450,netflix
+ts83561,2018,47,"['drama', 'scifi', 'thriller', 'fantasy', 'action', 'music']",1,5.4,3087,netflix
+ts76417,2017,52,"['thriller', 'drama', 'horror', 'european']",1,8.0,10881,netflix
+ts82849,2018,26,"['comedy', 'drama']",3,8.2,41000,netflix
+ts84200,2018,24,"['comedy', 'family']",1,6.3,322,netflix
+ts82192,2018,28,['comedy'],2,6.6,531,netflix
+ts57055,2018,42,"['drama', 'action', 'scifi']",4,6.1,24646,netflix
+ts58225,2017,30,['comedy'],3,6.6,1343,netflix
+ts81208,2018,41,"['scifi', 'drama', 'fantasy']",4,4.7,17126,netflix
+ts269185,2017,43,"['crime', 'thriller', 'documentation']",3,7.9,1428,netflix
+ts84328,2018,24,"['scifi', 'fantasy', 'drama', 'family']",2,6.8,2625,netflix
+ts85659,2018,22,"['scifi', 'action', 'animation', 'comedy', 'family', 'fantasy']",2,7.7,6552,netflix
+ts85175,2018,44,"['drama', 'thriller', 'crime', 'horror', 'fantasy']",2,7.6,5157,netflix
+ts57082,2017,29,"['comedy', 'european']",2,7.4,11934,netflix
+ts79234,2018,23,"['action', 'comedy', 'family', 'fantasy', 'animation']",4,6.5,3941,netflix
+ts81857,2018,32,"['comedy', 'sport', 'drama']",1,6.5,851,netflix
+ts84785,2018,44,"['drama', 'crime']",2,7.2,22569,netflix
+ts79422,2018,33,['reality'],7,7.4,5083,netflix
+ts81886,2018,25,"['comedy', 'music']",1,4.7,750,netflix
+ts77545,2017,44,"['war', 'documentation', 'crime', 'thriller', 'comedy', 'drama']",3,7.3,1739,netflix
+ts55231,2017,45,['documentation'],2,8.4,5306,netflix
+ts76869,2018,25,"['animation', 'scifi', 'drama', 'fantasy', 'romance']",1,8.4,24171,netflix
+ts78692,2018,60,"['documentation', 'horror', 'scifi', 'thriller', 'music']",1,5.3,11,netflix
+ts57210,2017,42,['drama'],1,5.9,3279,netflix
+ts77799,2018,56,['documentation'],2,7.2,3893,netflix
+ts78558,2018,47,['reality'],6,8.5,19435,netflix
+ts82424,2017,38,['documentation'],3,6.3,350,netflix
+ts312241,2017,21,"['scifi', 'horror']",1,6.3,2849,netflix
+ts77525,2017,45,"['documentation', 'comedy', 'history']",3,7.9,5872,netflix
+ts85967,2018,36,['comedy'],1,7.7,1253,netflix
+ts83999,2018,25,"['scifi', 'animation', 'comedy', 'drama', 'family', 'fantasy']",2,8.5,11520,netflix
+ts83070,2018,47,['documentation'],1,6.6,517,netflix
+ts56038,2017,66,"['comedy', 'documentation']",1,8.7,2930,netflix
+ts75355,2017,48,"['drama', 'action', 'crime', 'european']",3,7.9,15189,netflix
+ts80313,2018,61,"['documentation', 'drama']",1,8.2,1905,netflix
+ts55962,2017,30,"['drama', 'comedy']",4,6.3,25755,netflix
+ts54013,2017,56,['drama'],1,7.9,1292,netflix
+ts86949,2018,26,"['drama', 'thriller', 'crime']",2,5.4,3137,netflix
+ts84772,2018,23,"['scifi', 'animation', 'action']",1,6.5,574,netflix
+ts85034,2018,25,['comedy'],6,8.3,7652,netflix
+ts85217,2018,15,"['animation', 'comedy', 'family', 'fantasy', 'music']",2,8.0,303,netflix
+ts57116,2017,28,['documentation'],3,6.5,306,netflix
+ts84779,2018,25,"['documentation', 'reality', 'horror']",3,4.7,3374,netflix
+ts84574,2018,43,['documentation'],1,7.7,2599,netflix
+ts77770,2018,27,"['action', 'fantasy', 'animation']",2,5.3,873,netflix
+ts81036,2018,25,"['comedy', 'family']",1,6.5,634,netflix
+ts80208,2018,52,"['drama', 'thriller', 'action', 'crime']",1,5.7,704,netflix
+ts86302,2018,33,"['drama', 'comedy']",2,7.7,161,netflix
+ts57985,2017,28,"['family', 'action', 'comedy', 'drama', 'documentation']",3,7.2,2246,netflix
+ts84930,2018,27,"['comedy', 'romance']",3,7.1,5627,netflix
+ts75491,2017,55,['documentation'],1,6.6,388,netflix
+ts75772,2017,45,"['reality', 'documentation', 'comedy', 'european']",5,7.6,5751,netflix
+ts53516,2017,21,"['action', 'scifi', 'animation', 'comedy', 'drama', 'family']",2,4.7,289,netflix
+ts80445,2018,32,['comedy'],1,6.8,539,netflix
+ts80057,2018,24,"['scifi', 'animation', 'action']",1,5.8,461,netflix
+ts77852,2018,21,"['comedy', 'romance', 'animation', 'family', 'fantasy']",8,6.0,840,netflix
+ts85138,2018,50,"['documentation', 'history', 'reality']",2,8.0,1323,netflix
+ts56827,2017,61,"['drama', 'romance']",1,7.5,271,netflix
+ts83906,2018,36,['reality'],4,8.4,11045,netflix
+ts80461,2018,42,['reality'],3,6.1,393,netflix
+ts78430,2018,57,"['drama', 'crime', 'thriller']",1,6.7,19153,netflix
+ts83251,2018,23,"['reality', 'comedy']",3,7.2,3529,netflix
+ts76753,2017,75,"['scifi', 'romance', 'comedy', 'fantasy', 'horror']",1,8.0,5244,netflix
+ts79926,2018,52,['comedy'],1,8.4,3976,netflix
+ts79997,2018,73,"['drama', 'romance']",1,8.1,7040,netflix
+ts75012,2017,30,"['drama', 'thriller', 'crime', 'romance', 'comedy']",1,7.5,1971,netflix
+ts80859,2018,45,"['drama', 'romance']",1,7.5,264,netflix
+ts81542,2018,24,"['comedy', 'scifi', 'animation', 'drama', 'family']",2,7.2,4555,netflix
+ts84038,2018,43,['reality'],1,7.1,465,netflix
+ts83663,2018,69,['drama'],2,6.5,168,netflix
+ts84179,2018,50,['reality'],1,3.9,776,netflix
+ts55645,2017,65,"['war', 'history', 'documentation']",1,8.3,4909,netflix
+ts75286,2017,23,['drama'],4,6.6,6463,netflix
+ts79157,2018,25,"['action', 'scifi', 'thriller', 'animation', 'drama', 'crime', 'fantasy', 'horror']",2,7.1,5165,netflix
+ts58155,2017,44,"['drama', 'crime', 'thriller', 'history']",1,7.7,34336,netflix
+ts76511,2017,59,"['reality', 'european']",2,7.1,708,netflix
+ts79045,2018,51,['documentation'],2,7.8,3644,netflix
+ts80035,2018,44,"['scifi', 'drama', 'horror', 'thriller']",1,5.8,13606,netflix
+ts80600,2018,50,"['drama', 'history', 'music', 'romance']",3,8.0,4556,netflix
+ts76949,2017,30,['comedy'],1,0.0,0,netflix
+ts81944,2018,15,"['comedy', 'action']",2,6.0,514,netflix
+ts78789,2017,23,"['drama', 'thriller']",1,4.9,1709,netflix
+ts85810,2017,44,"['drama', 'action', 'crime', 'romance', 'thriller']",5,7.4,1448,netflix
+ts84833,2018,38,"['scifi', 'drama', 'fantasy', 'horror', 'thriller', 'family']",2,6.7,2693,netflix
+ts77197,2018,62,"['crime', 'drama']",1,7.7,15323,netflix
+ts74765,2017,65,['documentation'],1,8.6,955,netflix
+ts81596,2017,44,"['drama', 'war', 'thriller']",1,5.5,338,netflix
+ts80466,2018,59,"['war', 'documentation', 'history', 'reality', 'european']",1,7.7,601,netflix
+ts56511,2017,46,"['drama', 'history', 'european']",5,7.6,13855,netflix
+ts56201,2017,11,"['comedy', 'action', 'animation', 'family', 'fantasy', 'scifi']",2,3.4,750,netflix
+ts87194,2018,49,['reality'],2,7.3,1612,netflix
+ts85250,2018,22,"['animation', 'drama', 'family', 'fantasy', 'action', 'comedy']",1,7.5,101,netflix
+ts80720,2018,16,"['comedy', 'drama', 'action', 'fantasy', 'romance', 'animation']",4,8.4,3270,netflix
+ts55781,2017,55,"['drama', 'horror', 'thriller', 'crime', 'european']",2,7.4,12166,netflix
+ts77518,2018,23,"['comedy', 'romance', 'animation']",3,7.7,2442,netflix
+ts86814,2018,42,"['crime', 'documentation']",1,6.8,3335,netflix
+ts236347,2017,24,"['action', 'scifi', 'thriller', 'animation', 'drama', 'fantasy']",1,7.5,1505,netflix
+ts85618,2018,26,"['comedy', 'family']",2,6.1,533,netflix
+ts80692,2018,42,['reality'],1,6.6,250,netflix
+ts80084,2018,24,"['scifi', 'fantasy', 'animation']",1,6.9,545,netflix
+ts83232,2018,54,"['crime', 'drama', 'thriller']",2,7.0,4717,netflix
+ts9075,2018,27,['comedy'],1,7.0,2056,netflix
+ts78217,2018,48,['comedy'],2,6.7,496,netflix
+ts56648,2017,56,"['crime', 'action', 'drama', 'documentation']",1,8.2,14,netflix
+ts111582,2018,45,['music'],2,5.4,8,netflix
+ts84056,2018,75,['drama'],2,7.4,5199,netflix
+ts78507,2018,26,"['comedy', 'drama']",4,7.5,5451,netflix
+ts55939,2017,44,"['comedy', 'drama', 'reality', 'family', 'documentation', 'music', 'european']",4,2.9,16,netflix
+ts81344,2018,24,['documentation'],3,8.0,9538,netflix
+ts75477,2017,45,"['documentation', 'crime']",2,7.5,5529,netflix
+ts77011,2017,30,"['drama', 'thriller', 'comedy', 'romance']",1,6.8,252,netflix
+ts78913,2018,61,"['drama', 'crime', 'comedy']",1,8.3,1419,netflix
+ts78298,2018,70,"['drama', 'family']",1,9.1,7285,netflix
+ts58480,2017,47,['comedy'],1,0.0,0,netflix
+ts81734,2018,70,['action'],2,5.4,126,netflix
+ts79988,2018,24,"['scifi', 'action', 'romance', 'animation', 'drama', 'fantasy', 'music']",1,7.0,396,netflix
+ts81918,2018,51,['reality'],3,7.0,1623,netflix
+ts76478,2017,91,"['drama', 'comedy']",1,8.4,3881,netflix
+ts84799,2018,53,"['drama', 'crime', 'fantasy', 'action', 'thriller']",1,7.0,2134,netflix
+ts85276,2018,45,"['drama', 'music', 'romance', 'history']",1,7.6,1412,netflix
+ts79856,2018,23,"['action', 'animation', 'scifi', 'fantasy', 'horror']",2,5.8,992,netflix
+ts80030,2018,44,"['reality', 'action', 'documentation']",2,7.1,1384,netflix
+ts82372,2018,23,"['comedy', 'animation', 'action', 'family']",4,6.7,1005,netflix
+ts86279,2018,33,['reality'],2,7.7,1171,netflix
+ts83045,2018,31,"['drama', 'music', 'romance']",1,7.4,1253,netflix
+ts82564,2018,46,"['drama', 'comedy']",1,6.7,84,netflix
+ts89130,2018,52,"['thriller', 'drama', 'scifi', 'fantasy', 'romance']",1,7.7,2283,netflix
+ts77957,2018,62,"['crime', 'documentation']",2,8.1,9607,netflix
+ts82189,2018,24,"['action', 'drama', 'sport', 'animation']",3,6.7,6941,netflix
+ts78291,2018,60,"['drama', 'crime', 'action', 'thriller']",1,7.5,13265,netflix
+ts57439,2017,43,"['western', 'crime', 'drama']",1,7.6,8736,netflix
+ts57464,2018,42,"['drama', 'comedy']",1,6.5,4011,netflix
+ts57947,2017,48,"['thriller', 'drama', 'crime', 'european']",2,6.9,2630,netflix
+ts84602,2018,22,['comedy'],2,7.4,610,netflix
+ts80413,2018,75,"['thriller', 'comedy', 'reality']",3,7.6,1027,netflix
+ts82705,2018,17,"['animation', 'comedy', 'family', 'action']",2,7.6,805,netflix
+ts78353,2018,71,"['crime', 'thriller', 'drama', 'romance']",1,8.0,743,netflix
+ts83457,2018,6,"['animation', 'family']",2,8.1,100,netflix
+ts80959,2018,50,"['action', 'thriller', 'crime', 'drama']",2,8.5,89076,netflix
+ts58152,2018,57,"['drama', 'history']",1,7.5,4779,netflix
+ts84977,2018,51,['documentation'],1,5.3,761,netflix
+ts52821,2018,50,"['animation', 'action', 'drama', 'family', 'fantasy']",1,7.2,6467,netflix
+ts55194,2017,32,['comedy'],3,3.5,7233,netflix
+ts81821,2018,45,"['drama', 'family', 'music']",2,7.7,1366,netflix
+ts89538,2018,71,"['drama', 'thriller']",2,7.2,3274,netflix
+ts75157,2017,25,"['animation', 'family', 'fantasy']",3,6.3,864,netflix
+ts82560,2018,41,"['action', 'documentation']",1,7.5,7664,netflix
+ts87369,2018,48,['documentation'],4,7.7,3084,netflix
+ts56594,2017,27,['comedy'],2,6.7,10697,netflix
+ts89372,2018,18,"['comedy', 'family', 'animation']",2,7.2,25,netflix
+ts83537,2018,47,"['thriller', 'crime', 'european']",2,6.4,1855,netflix
+ts78053,2018,27,"['drama', 'thriller']",2,6.7,1114,netflix
+ts87043,2018,12,"['action', 'scifi', 'animation', 'comedy', 'family']",2,6.2,122,netflix
+ts81757,2018,31,"['drama', 'comedy']",3,7.6,8094,netflix
+ts82302,2018,46,"['drama', 'comedy', 'thriller']",2,6.5,29932,netflix
+ts84533,2018,12,"['action', 'scifi', 'animation']",4,6.8,411,netflix
+ts76771,2017,23,"['animation', 'action', 'comedy', 'scifi']",2,6.3,331,netflix
+ts55491,2017,42,"['drama', 'crime', 'scifi', 'thriller']",1,6.2,6233,netflix
+ts81885,2018,46,"['comedy', 'drama', 'crime', 'documentation']",1,7.0,6150,netflix
+ts56481,2017,21,['comedy'],2,7.0,6810,netflix
+ts85236,2018,54,['drama'],2,0.0,0,netflix
+ts79409,2018,25,"['action', 'scifi', 'animation']",1,6.3,1285,netflix
+ts84372,2018,26,['comedy'],1,6.8,217,netflix
+ts56718,2017,44,"['drama', 'action', 'history', 'crime']",3,7.8,19173,netflix
+ts85515,2018,47,"['drama', 'comedy', 'romance']",1,6.7,224,netflix
+ts78452,2018,58,"['drama', 'thriller', 'animation', 'fantasy']",1,6.4,6937,netflix
+ts84010,2018,56,"['drama', 'thriller']",1,7.2,5626,netflix
+ts77467,2017,39,"['reality', 'drama']",6,7.8,1024,netflix
+ts85895,2018,52,"['scifi', 'drama']",2,7.3,9601,netflix
+ts85837,2018,68,['drama'],1,8.6,3445,netflix
+ts82268,2018,46,"['scifi', 'drama', 'horror', 'fantasy']",2,8.4,6,netflix
+ts84335,2018,57,"['crime', 'thriller', 'drama']",1,6.8,3931,netflix
+ts75320,2017,89,"['drama', 'comedy']",2,7.9,336,netflix
+ts56670,2017,47,['documentation'],1,6.6,2272,netflix
+ts76133,2017,48,['reality'],1,5.7,44,netflix
+ts57424,2017,52,"['drama', 'thriller', 'crime', 'european']",1,7.2,11226,netflix
+ts55936,2017,52,"['comedy', 'romance']",1,7.1,3906,netflix
+ts41527,2017,52,"['drama', 'thriller']",1,6.8,17599,netflix
+ts53101,2017,62,"['crime', 'thriller', 'action']",4,7.6,2230,netflix
+ts57303,2017,30,"['comedy', 'drama']",2,6.9,21814,netflix
+ts77034,2017,43,"['comedy', 'romance']",1,8.0,1552,netflix
+ts82500,2018,24,['animation'],3,7.9,94,netflix
+ts85968,2018,44,"['drama', 'music']",1,7.7,1211,netflix
+ts84135,2018,45,"['drama', 'thriller']",1,6.9,2922,netflix
+ts56480,2018,58,"['action', 'war', 'drama', 'fantasy', 'romance']",1,4.0,14461,netflix
+ts85568,2018,58,"['crime', 'drama', 'thriller']",1,7.1,8536,netflix
+ts57913,2017,55,"['drama', 'romance']",1,7.3,805,netflix
+ts80411,2018,64,"['crime', 'action', 'drama', 'thriller']",1,7.6,2158,netflix
+ts57814,2017,24,"['animation', 'drama', 'thriller']",2,7.2,10716,netflix
+ts53693,2017,28,"['scifi', 'thriller', 'family', 'fantasy', 'european']",4,7.2,2740,netflix
+ts53936,2017,51,"['crime', 'drama', 'thriller']",1,8.4,17727,netflix
+ts57281,2017,23,"['comedy', 'family', 'fantasy', 'animation']",1,7.5,616,netflix
+ts86169,2018,47,"['documentation', 'crime']",1,7.3,6191,netflix
+ts90594,2018,22,"['family', 'animation', 'comedy']",5,6.7,598,netflix
+ts80519,2018,25,"['animation', 'action', 'music', 'scifi', 'thriller', 'comedy', 'romance', 'family', 'drama']",3,4.8,410,netflix
+ts228255,2018,11,"['family', 'animation']",3,4.6,62,netflix
+ts84904,2018,42,"['scifi', 'crime', 'drama', 'fantasy']",1,6.8,8306,netflix
+ts75749,2017,68,"['drama', 'comedy', 'romance']",1,8.1,5676,netflix
+ts82218,2018,27,"['comedy', 'animation', 'romance']",2,8.0,2142,netflix
+ts39016,2017,27,['comedy'],1,7.0,18663,netflix
+ts84646,2018,42,"['action', 'drama', 'crime']",1,6.7,2130,netflix
+ts83071,2018,42,"['reality', 'documentation']",1,5.2,1148,netflix
+ts84555,2017,50,"['action', 'crime']",2,6.6,155,netflix
+ts77520,2018,24,"['comedy', 'thriller', 'action', 'scifi']",1,5.1,559,netflix
+ts83429,2018,46,"['drama', 'family', 'comedy']",1,6.9,186,netflix
+ts82127,2018,25,"['action', 'scifi', 'horror', 'animation', 'history']",1,6.8,2081,netflix
+ts83359,2018,75,"['drama', 'thriller', 'romance', 'action', 'comedy', 'history']",1,7.8,2587,netflix
+ts80090,2018,26,"['drama', 'animation']",2,7.2,997,netflix
+ts78299,2018,17,"['animation', 'family']",2,6.3,277,netflix
+ts57822,2017,24,"['crime', 'comedy']",2,6.8,8084,netflix
+ts81318,2018,48,"['action', 'war', 'drama']",1,7.2,3452,netflix
+ts76603,2017,28,"['drama', 'thriller', 'fantasy', 'scifi']",1,7.8,3985,netflix
+ts83455,2018,57,['drama'],1,7.0,5603,netflix
+ts78707,2018,28,['comedy'],2,7.2,2447,netflix
+ts79660,2017,26,"['scifi', 'thriller', 'history', 'action', 'drama', 'fantasy', 'horror', 'crime', 'family']",2,6.6,2082,netflix
+ts84782,2018,8,"['animation', 'comedy']",2,6.6,455,netflix
+ts77474,2018,76,"['drama', 'war', 'history', 'action', 'romance']",1,8.7,8424,netflix
+ts76313,2017,29,"['drama', 'comedy']",1,7.4,1819,netflix
+ts85126,2018,29,['comedy'],2,6.2,706,netflix
+ts84330,2018,68,"['comedy', 'drama']",1,0.0,0,netflix
+ts83213,2018,45,"['drama', 'history', 'romance']",1,8.4,1608,netflix
+ts56033,2017,45,['drama'],1,7.8,1035,netflix
+ts75887,2017,59,"['documentation', 'european']",1,7.5,223,netflix
+ts89069,2018,11,['animation'],4,6.6,138,netflix
+ts56125,2017,39,"['war', 'crime', 'drama', 'thriller']",3,7.0,3224,netflix
+ts90596,2018,14,"['animation', 'comedy', 'family', 'fantasy']",4,6.1,142,netflix
+ts82085,2017,30,['reality'],2,7.1,296,netflix
+ts80479,2018,60,"['drama', 'comedy', 'romance']",1,7.0,1809,netflix
+ts82445,2018,43,"['drama', 'comedy', 'thriller', 'romance', 'fantasy']",1,8.3,2241,netflix
+ts79026,2018,46,"['scifi', 'thriller', 'drama', 'horror', 'romance']",2,6.2,5995,netflix
+ts83763,2018,59,"['crime', 'drama', 'thriller']",1,7.5,5201,netflix
+ts86296,2018,41,"['documentation', 'sport']",2,8.1,8627,netflix
+ts81485,2018,23,['family'],2,6.1,122,netflix
+ts75676,2017,57,"['drama', 'comedy', 'romance', 'european']",3,7.2,1490,netflix
+ts86945,2018,16,"['family', 'fantasy', 'animation', 'comedy']",3,5.7,199,netflix
+ts55576,2017,23,"['animation', 'action', 'comedy', 'family', 'sport']",2,7.8,518,netflix
+ts82843,2018,27,"['comedy', 'reality', 'horror']",1,7.7,2501,netflix
+ts78767,2018,36,"['scifi', 'documentation', 'reality', 'sport']",2,7.2,2155,netflix
+ts82867,2018,51,"['documentation', 'sport']",1,6.6,470,netflix
+ts85822,2018,25,"['drama', 'comedy', 'sport']",1,7.3,2304,netflix
+ts74805,2018,24,[],1,6.3,252,netflix
+ts81526,2018,54,['documentation'],1,8.3,3391,netflix
+ts76865,2018,25,"['action', 'scifi', 'horror', 'animation', 'drama', 'fantasy']",1,7.6,22909,netflix
+ts82298,2018,62,"['scifi', 'drama', 'fantasy', 'romance']",1,7.6,1227,netflix
+ts83360,2018,65,"['thriller', 'drama', 'crime', 'horror', 'comedy']",1,8.1,1825,netflix
+ts78246,2018,47,"['scifi', 'drama', 'thriller']",1,6.2,4048,netflix
+ts57148,2018,21,['comedy'],1,6.1,4050,netflix
+ts79219,2018,45,"['documentation', 'crime', 'action']",1,7.8,3854,netflix
+ts88234,2017,22,['comedy'],3,8.0,3041,netflix
+ts78206,2018,64,"['drama', 'comedy', 'reality']",3,8.2,2594,netflix
+ts82296,2018,57,"['comedy', 'drama', 'romance']",1,7.3,4777,netflix
+ts74823,2017,27,['comedy'],1,6.9,9055,netflix
+ts79707,2018,40,"['drama', 'thriller']",1,4.9,662,netflix
+ts86682,2018,50,['documentation'],1,6.8,591,netflix
+ts78080,2018,24,"['drama', 'comedy']",1,7.5,21077,netflix
+ts85170,2018,65,"['action', 'scifi', 'thriller', 'drama', 'romance']",1,7.8,6126,netflix
+ts80059,2017,55,"['documentation', 'european']",1,7.2,4181,netflix
+ts79330,2018,43,"['reality', 'documentation']",2,7.3,1164,netflix
+ts55232,2017,25,"['action', 'scifi', 'animation']",1,6.4,186,netflix
+ts76646,2017,26,"['action', 'comedy']",1,6.9,127,netflix
+ts57080,2017,23,"['animation', 'action', 'comedy', 'drama', 'family', 'western', 'documentation']",11,6.5,1061,netflix
+ts54050,2017,62,"['action', 'reality']",3,7.3,2359,netflix
+ts55627,2017,43,['documentation'],1,8.5,2769,netflix
+ts84780,2018,45,"['drama', 'thriller', 'action', 'crime']",2,8.1,2018,netflix
+ts70631,2017,24,"['scifi', 'action', 'drama', 'animation', 'fantasy']",1,7.0,1666,netflix
+ts57964,2017,15,"['animation', 'comedy', 'family', 'fantasy', 'horror']",2,5.5,774,netflix
+ts90994,2018,18,"['fantasy', 'animation', 'comedy', 'family']",3,6.5,186,netflix
+ts74962,2017,21,"['comedy', 'family', 'fantasy', 'animation']",4,7.2,480,netflix
+ts75750,2017,68,"['comedy', 'romance']",1,6.9,777,netflix
+ts53399,2017,45,"['drama', 'scifi', 'romance', 'fantasy', 'family']",1,8.3,2534,netflix
+ts76486,2017,73,"['drama', 'romance']",1,8.2,2378,netflix
+ts83554,2018,49,"['crime', 'documentation']",1,5.4,1154,netflix
+ts55533,2017,26,"['animation', 'comedy', 'family', 'fantasy']",1,7.3,491,netflix
+ts55978,2017,21,['comedy'],1,8.1,2201,netflix
+ts78444,2018,24,['animation'],2,5.1,48,netflix
+ts116101,2017,47,['reality'],1,9.6,14,netflix
+ts76245,2017,55,['documentation'],1,6.8,1135,netflix
+ts82181,2018,24,"['comedy', 'animation']",1,6.6,948,netflix
+ts53264,2017,71,"['comedy', 'drama', 'romance']",1,7.1,1831,netflix
+ts84985,2018,23,"['animation', 'family']",3,6.8,103,netflix
+ts224746,2018,33,['drama'],3,0.0,0,netflix
+ts57811,2017,23,"['action', 'scifi', 'animation', 'drama', 'fantasy']",1,6.6,2471,netflix
+ts58442,2017,69,"['drama', 'romance', 'fantasy']",1,8.0,1578,netflix
+ts56636,2017,47,"['comedy', 'romance']",1,6.8,712,netflix
+ts81583,2018,65,"['drama', 'thriller']",1,7.6,792,netflix
+ts80342,2018,24,"['drama', 'crime']",1,6.5,416,netflix
+ts82565,2018,53,"['drama', 'thriller']",1,6.7,482,netflix
+ts57300,2017,21,['comedy'],2,7.0,4411,netflix
+ts58297,2017,43,"['drama', 'crime', 'comedy']",1,6.5,3270,netflix
+ts82323,2018,62,"['drama', 'scifi', 'family']",1,7.4,417,netflix
+ts83710,2018,41,['documentation'],1,6.7,464,netflix
+ts79020,2018,52,"['documentation', 'war', 'history']",1,8.0,4594,netflix
+ts81827,2018,24,['animation'],1,0.0,0,netflix
+ts76159,2017,17,"['animation', 'comedy', 'family', 'horror']",3,6.4,436,netflix
+ts75718,2017,23,"['scifi', 'comedy', 'animation', 'action', 'fantasy']",2,5.9,3471,netflix
+ts86067,2018,35,['reality'],1,6.1,688,netflix
+ts84597,2018,42,['documentation'],1,7.5,879,netflix
+ts83407,2018,18,['documentation'],3,5.0,727,netflix
+ts85183,2018,30,"['documentation', 'reality']",2,5.5,473,netflix
+ts53367,2017,25,"['scifi', 'comedy', 'animation', 'drama', 'family', 'fantasy']",1,7.8,3555,netflix
+ts80042,2018,23,"['scifi', 'action', 'comedy', 'drama']",2,3.7,1233,netflix
+ts75341,2017,30,"['drama', 'family']",1,7.2,629,netflix
+ts76793,2017,37,"['reality', 'documentation', 'thriller']",1,7.9,1892,netflix
+ts83204,2018,60,['reality'],2,6.6,611,netflix
+ts80751,2018,26,['comedy'],1,5.5,1894,netflix
+ts82160,2018,24,"['comedy', 'action', 'family', 'animation']",4,6.9,275,netflix
+ts92825,2018,22,"['action', 'comedy', 'family', 'scifi', 'animation']",1,6.2,282,netflix
+ts53166,2017,28,"['comedy', 'family']",1,8.3,336,netflix
+ts83790,2018,68,"['drama', 'comedy', 'scifi', 'fantasy', 'romance']",1,7.6,2356,netflix
+ts77219,2017,40,"['drama', 'comedy', 'family', 'music']",1,6.7,130,netflix
+ts81414,2018,45,"['family', 'drama', 'comedy', 'romance']",1,7.9,4471,netflix
+ts55484,2017,29,"['drama', 'comedy', 'fantasy', 'romance']",1,7.0,730,netflix
+ts56251,2017,24,"['scifi', 'drama', 'animation', 'action']",1,6.1,336,netflix
+ts54112,2017,80,['drama'],1,7.8,123,netflix
+ts86360,2018,35,['family'],2,0.0,0,netflix
+ts76509,2017,21,['documentation'],1,7.4,1883,netflix
+ts77014,2018,80,"['action', 'reality', 'war', 'drama', 'thriller']",1,8.1,7833,netflix
+ts55581,2017,67,"['scifi', 'comedy', 'fantasy', 'romance']",1,6.9,3217,netflix
+ts113109,2017,5,"['animation', 'family']",6,8.6,264,netflix
+ts82875,2018,39,"['scifi', 'drama']",1,7.1,1547,netflix
+ts255677,2018,24,['animation'],1,0.0,0,netflix
+ts90880,2018,12,"['animation', 'comedy', 'action', 'family', 'music']",5,6.2,298,netflix
+ts85660,2018,34,['comedy'],2,5.9,154,netflix
+ts79585,2017,23,"['animation', 'family', 'action', 'comedy']",3,7.5,102,netflix
+ts78099,2017,43,['documentation'],1,6.6,624,netflix
+ts83814,2018,58,"['drama', 'action']",1,7.1,230,netflix
+ts78031,2017,46,"['drama', 'crime', 'european']",2,6.9,1681,netflix
+ts75164,2017,22,"['comedy', 'family', 'music', 'animation']",3,4.6,128,netflix
+ts55735,2017,44,['drama'],1,0.0,0,netflix
+ts89067,2018,24,"['drama', 'romance']",1,7.3,615,netflix
+ts75357,2017,24,"['scifi', 'animation', 'fantasy']",1,6.6,189,netflix
+ts83430,2018,24,"['crime', 'drama', 'comedy']",2,7.4,510,netflix
+ts58061,2018,44,"['drama', 'romance']",1,5.2,23,netflix
+ts80410,2017,30,"['comedy', 'drama']",1,7.5,851,netflix
+ts77563,2017,86,"['scifi', 'comedy', 'drama', 'horror', 'thriller']",2,8.2,3848,netflix
+ts84484,2018,41,"['reality', 'music']",1,7.1,1655,netflix
+ts77755,2017,24,"['action', 'scifi', 'drama', 'thriller']",2,5.9,995,netflix
+ts80993,2017,24,['scifi'],2,6.5,18,netflix
+ts95569,2018,21,"['animation', 'family', 'fantasy']",3,4.1,214,netflix
+ts83025,2017,45,['documentation'],2,7.7,221,netflix
+ts57291,2017,33,['drama'],1,6.7,11,netflix
+ts95274,2017,54,"['documentation', 'history']",1,7.3,979,netflix
+ts82770,2018,52,"['documentation', 'reality']",1,0.0,0,netflix
+ts321277,2018,60,['comedy'],1,8.5,3758,netflix
+ts317239,2018,40,['reality'],3,7.1,14,netflix
+ts81632,2017,85,"['drama', 'horror']",1,2.4,138,netflix
+ts118696,2017,13,"['action', 'comedy', 'family', 'fantasy', 'scifi', 'animation']",3,6.6,103,netflix
+ts103638,2018,25,['comedy'],1,5.7,414,netflix
+ts84341,2017,85,['drama'],1,7.0,34,netflix
+ts259770,2018,46,"['war', 'drama']",1,7.2,61,netflix
+ts236619,2018,3,[],1,0.0,0,netflix
+ts83489,2018,60,"['drama', 'crime']",1,6.8,150,netflix
+ts81856,2018,24,['comedy'],2,6.2,181,netflix
+ts78757,2017,57,['comedy'],1,0.0,0,netflix
+ts82887,2018,23,"['comedy', 'drama']",1,6.8,110,netflix
+ts268283,2018,22,['documentation'],3,0.0,0,netflix
+ts104093,2018,2,"['family', 'animation']",1,7.0,7,netflix
+ts250172,2017,0,['documentation'],1,7.7,10,netflix
+ts362754,2017,57,['drama'],1,0.0,0,netflix
+ts84167,2018,72,"['drama', 'romance', 'crime']",1,8.6,56,netflix
+ts112279,2018,49,"['documentation', 'history']",1,5.8,329,netflix
+ts119220,2017,34,['documentation'],3,7.3,90,netflix
+ts80671,2018,22,['documentation'],1,7.4,154,netflix
+ts81828,2018,24,['animation'],1,0.0,0,netflix
+ts93947,2018,16,"['comedy', 'drama']",1,7.8,168,netflix
+ts97584,2017,20,['documentation'],1,6.2,25,netflix
+ts83925,2018,42,"['documentation', 'sport']",1,6.4,373,netflix
+ts94470,2018,29,['comedy'],2,7.4,7,netflix
+ts229123,2018,12,"['animation', 'action']",3,2.9,114,netflix
+ts231159,2017,30,"['music', 'animation', 'family']",1,5.0,11,netflix
+ts363931,2017,20,[],1,0.0,0,netflix
+ts272185,2017,11,"['animation', 'comedy']",1,8.2,42,netflix
+ts82375,2018,22,"['action', 'scifi']",1,0.0,0,netflix
+ts374410,2018,43,"['documentation', 'family']",1,0.0,0,netflix
+ts107543,2017,26,"['comedy', 'romance']",1,7.0,19,netflix
+ts266916,2018,45,['drama'],1,0.0,0,netflix
+ts265844,2018,78,[],1,9.6,7,netflix
+ts119730,2018,11,['animation'],1,8.2,40,netflix
+ts106612,2018,40,['reality'],1,0.0,0,netflix
+ts383019,2018,40,"['fantasy', 'drama']",1,0.0,0,netflix
+ts86600,2019,49,"['drama', 'history']",3,9.3,33844,netflix
+ts235655,2020,50,"['drama', 'action', 'thriller', 'crime', 'romance']",3,7.6,60629,netflix
+ts88613,2019,38,"['documentation', 'sport']",6,8.6,43437,netflix
+ts87466,2019,25,"['action', 'animation', 'fantasy', 'thriller', 'horror']",4,8.7,110478,netflix
+ts89259,2020,56,"['drama', 'sport']",1,8.6,473352,netflix
+ts82914,2019,31,"['drama', 'comedy', 'crime']",3,8.0,91336,netflix
+ts90311,2019,25,"['action', 'drama', 'war', 'history', 'animation']",2,8.8,45176,netflix
+ts86497,2019,28,"['drama', 'comedy']",2,7.8,98712,netflix
+ts57327,2019,58,"['scifi', 'drama', 'action', 'fantasy', 'horror']",4,8.1,510035,netflix
+ts219660,2020,55,"['scifi', 'thriller', 'fantasy', 'action', 'drama']",2,7.7,79262,netflix
+ts88361,2019,13,"['scifi', 'animation', 'thriller', 'comedy', 'horror', 'fantasy', 'drama', 'action']",3,8.4,131937,netflix
+ts76645,2019,50,"['drama', 'fantasy', 'scifi', 'action', 'comedy']",4,7.9,254387,netflix
+ts84146,2020,30,"['drama', 'comedy', 'romance']",3,6.9,103994,netflix
+ts81007,2019,28,"['drama', 'comedy']",3,8.4,140257,netflix
+ts304505,2020,54,"['reality', 'romance']",5,6.1,9308,netflix
+ts359690,2020,5,[],1,0.0,0,netflix
+ts216679,2020,62,"['drama', 'history', 'romance']",4,7.4,142426,netflix
+ts87248,2019,41,"['comedy', 'drama', 'crime', 'horror', 'action']",4,7.5,14071,netflix
+ts82915,2019,52,"['drama', 'comedy']",4,8.3,251168,netflix
+ts216746,2020,42,"['reality', 'horror']",3,6.2,3232,netflix
+ts87953,2020,46,"['scifi', 'drama', 'thriller', 'fantasy', 'horror']",3,7.4,72031,netflix
+ts223986,2020,52,['reality'],5,7.3,7582,netflix
+ts81120,2020,50,"['documentation', 'history', 'sport']",1,9.1,129406,netflix
+ts89210,2020,43,"['action', 'drama', 'fantasy']",2,7.0,51439,netflix
+ts236531,2020,42,"['reality', 'romance']",4,4.7,13596,netflix
+ts90234,2019,16,['comedy'],3,7.9,14228,netflix
+ts57213,2019,51,"['action', 'fantasy', 'drama', 'family', 'horror', 'animation', 'scifi']",1,8.4,25632,netflix
+ts89840,2019,44,"['drama', 'romance']",4,7.4,43462,netflix
+ts221904,2019,48,"['drama', 'crime']",1,8.4,106646,netflix
+ts92547,2020,46,"['history', 'war', 'documentation', 'drama', 'action']",2,7.9,27452,netflix
+ts213820,2020,48,['reality'],2,7.3,4115,netflix
+ts281928,2020,47,"['documentation', 'crime', 'drama']",3,7.3,11276,netflix
+ts235758,2020,27,"['comedy', 'drama', 'reality']",4,7.8,61971,netflix
+ts88577,2020,50,"['drama', 'history']",1,7.5,38043,netflix
+ts280367,2020,44,['drama'],1,0.0,0,netflix
+ts82913,2019,74,"['drama', 'crime', 'history']",1,8.9,125181,netflix
+ts216539,2019,49,['reality'],4,4.9,1186,netflix
+ts88379,2020,88,"['drama', 'action', 'fantasy', 'horror', 'thriller']",1,6.8,45971,netflix
+ts221200,2020,55,"['drama', 'thriller', 'scifi', 'horror']",1,7.4,110042,netflix
+ts88262,2019,51,"['war', 'drama', 'thriller', 'history']",1,6.6,3465,netflix
+ts100116,2019,26,"['reality', 'history', 'documentation', 'comedy']",3,7.2,3508,netflix
+ts252505,2019,44,"['thriller', 'family', 'drama', 'fantasy', 'horror']",3,7.1,2528,netflix
+ts89564,2019,39,"['action', 'scifi', 'drama', 'horror', 'thriller']",2,6.6,31511,netflix
+ts250997,2020,39,"['documentation', 'history', 'reality']",2,8.0,7485,netflix
+ts83555,2019,42,"['scifi', 'drama', 'romance']",4,6.3,13332,netflix
+ts55762,2019,48,"['drama', 'scifi', 'thriller', 'action', 'horror', 'history']",2,8.3,48541,netflix
+ts225522,2020,54,['drama'],1,8.0,83907,netflix
+ts224901,2020,45,"['thriller', 'crime', 'drama']",1,7.3,52906,netflix
+ts223210,2019,62,"['documentation', 'crime']",1,8.0,56379,netflix
+ts103133,2020,21,"['fantasy', 'scifi', 'comedy', 'drama']",1,7.5,65650,netflix
+ts237104,2020,22,"['documentation', 'history']",2,6.8,4580,netflix
+ts237488,2020,48,['drama'],3,0.0,0,netflix
+ts237109,2020,37,"['drama', 'thriller']",3,6.8,9988,netflix
+ts246072,2020,47,"['action', 'drama', 'history']",2,7.2,28030,netflix
+ts87453,2020,30,['comedy'],2,6.7,66800,netflix
+ts227305,2020,44,"['crime', 'documentation']",2,7.5,81824,netflix
+ts255427,2020,31,"['action', 'scifi', 'fantasy', 'animation']",1,7.5,19163,netflix
+ts189422,2019,29,"['comedy', 'drama', 'romance']",2,7.7,15474,netflix
+ts250912,2020,52,"['documentation', 'crime']",1,7.1,7819,netflix
+ts268508,2020,44,"['documentation', 'scifi', 'animation']",1,6.5,3855,netflix
+ts222439,2019,85,"['war', 'comedy', 'romance', 'drama']",1,8.7,31758,netflix
+ts161737,2019,43,"['thriller', 'crime', 'drama', 'reality']",1,6.6,5763,netflix
+ts80962,2019,24,"['comedy', 'animation']",3,7.4,7712,netflix
+ts251094,2020,37,"['reality', 'romance', 'documentation']",2,6.2,3882,netflix
+ts225512,2020,24,"['comedy', 'family', 'scifi', 'action']",2,3.6,1661,netflix
+ts222988,2019,42,"['documentation', 'reality', 'romance']",2,8.6,6377,netflix
+ts82361,2019,24,"['action', 'scifi', 'animation', 'drama', 'fantasy']",3,6.8,2204,netflix
+ts89028,2019,48,"['crime', 'drama']",2,8.5,23957,netflix
+ts251028,2020,49,"['thriller', 'drama', 'horror']",1,6.3,567,netflix
+ts89339,2019,36,['reality'],5,6.5,6888,netflix
+ts250801,2020,34,"['thriller', 'drama']",2,6.5,8258,netflix
+ts251615,2020,52,"['reality', 'documentation']",1,6.4,1131,netflix
+ts103702,2020,45,"['drama', 'thriller', 'crime']",2,6.9,12363,netflix
+ts222917,2019,32,['documentation'],1,6.5,2080,netflix
+ts254537,2020,48,"['crime', 'thriller', 'drama']",2,7.5,4952,netflix
+ts225860,2020,29,"['action', 'scifi', 'thriller']",1,0.0,0,netflix
+ts219895,2020,56,"['drama', 'thriller']",1,5.9,9769,netflix
+ts224303,2020,19,"['action', 'scifi', 'animation', 'comedy', 'fantasy']",3,7.2,1758,netflix
+ts255104,2020,19,"['reality', 'documentation', 'drama']",1,6.4,489,netflix
+ts254656,2020,24,"['action', 'family', 'scifi', 'animation']",5,7.5,9390,netflix
+ts87008,2019,27,"['comedy', 'drama', 'music']",1,7.1,7720,netflix
+ts89747,2019,43,"['drama', 'crime', 'comedy']",3,6.8,7773,netflix
+ts223548,2020,26,['scifi'],1,0.0,0,netflix
+ts249891,2020,82,"['drama', 'war']",1,7.5,9388,netflix
+ts223530,2020,52,"['drama', 'scifi']",2,0.0,0,netflix
+ts252756,2020,71,"['drama', 'scifi', 'comedy', 'fantasy', 'romance']",1,8.7,6269,netflix
+ts84993,2019,47,"['scifi', 'action', 'thriller', 'comedy', 'drama', 'fantasy', 'horror']",1,6.7,21397,netflix
+ts255585,2020,68,"['drama', 'comedy']",1,7.7,220,netflix
+ts90280,2019,38,"['crime', 'drama']",1,5.9,763,netflix
+ts268758,2020,35,"['drama', 'romance', 'comedy']",2,5.5,3712,netflix
+ts237513,2020,29,"['thriller', 'drama', 'horror']",1,6.1,4897,netflix
+ts287836,2020,36,"['scifi', 'thriller', 'drama']",2,7.1,33513,netflix
+ts217356,2020,47,"['action', 'horror', 'thriller']",1,5.4,9294,netflix
+ts224164,2020,49,['documentation'],1,0.0,0,netflix
+ts235915,2019,46,['drama'],1,0.0,0,netflix
+ts225544,2020,55,"['crime', 'documentation']",1,8.1,12272,netflix
+ts87698,2019,52,"['documentation', 'history', 'crime']",1,7.8,465,netflix
+ts254916,2020,27,"['reality', 'comedy']",1,6.6,1637,netflix
+ts103213,2020,43,"['crime', 'drama', 'thriller', 'action']",2,6.1,1302,netflix
+ts269280,2020,48,"['crime', 'thriller']",2,5.1,641,netflix
+ts237499,2020,51,"['thriller', 'drama', 'crime']",1,6.5,5735,netflix
+ts223981,2020,56,"['documentation', 'sport', 'reality']",2,8.1,6554,netflix
+ts251420,2020,29,['comedy'],1,0.0,0,netflix
+ts103209,2019,36,"['documentation', 'thriller', 'crime', 'family']",1,6.3,1133,netflix
+ts105645,2019,29,['comedy'],1,5.4,1779,netflix
+ts88469,2019,49,"['crime', 'drama', 'thriller']",3,7.8,18142,netflix
+ts91034,2019,46,"['war', 'scifi', 'drama']",1,5.0,9107,netflix
+ts190452,2020,48,"['crime', 'drama', 'thriller', 'action']",1,7.2,2494,netflix
+ts215046,2019,29,"['crime', 'drama', 'thriller']",2,6.6,5814,netflix
+ts235672,2020,40,['drama'],2,0.0,0,netflix
+ts224023,2019,27,['documentation'],1,7.1,11,netflix
+ts223589,2020,22,['documentation'],1,6.9,3376,netflix
+ts223948,2020,33,"['documentation', 'reality']",1,2.6,3406,netflix
+ts224198,2020,64,"['action', 'thriller', 'scifi', 'drama']",1,0.0,0,netflix
+ts256783,2020,32,['documentation'],1,7.1,1517,netflix
+ts84633,2019,23,"['animation', 'thriller', 'scifi', 'action', 'drama', 'crime', 'horror', 'fantasy']",2,8.3,40243,netflix
+ts252098,2020,23,"['comedy', 'drama']",1,6.7,5700,netflix
+ts90019,2019,17,"['drama', 'comedy']",2,7.1,16883,netflix
+ts100359,2020,24,['comedy'],1,6.0,4410,netflix
+ts221016,2019,47,['drama'],3,0.0,0,netflix
+ts223344,2019,43,"['scifi', 'drama', 'fantasy', 'romance']",3,7.0,22762,netflix
+ts257949,2020,63,"['romance', 'crime', 'drama', 'fantasy', 'documentation']",1,7.5,744,netflix
+ts236685,2020,47,['thriller'],1,0.0,0,netflix
+ts189405,2019,50,"['documentation', 'crime']",1,7.6,1812,netflix
+ts223982,2020,21,"['reality', 'comedy']",1,2.4,151,netflix
+ts101060,2019,26,['comedy'],1,6.4,4542,netflix
+ts95997,2019,43,"['drama', 'scifi']",2,7.1,15610,netflix
+ts266966,2019,40,"['drama', 'romance']",1,5.0,153,netflix
+ts105192,2019,24,"['thriller', 'family', 'scifi']",1,6.7,1125,netflix
+ts254767,2020,25,['documentation'],1,7.3,1242,netflix
+ts88937,2019,44,"['action', 'crime', 'drama', 'thriller']",1,6.6,1013,netflix
+ts254600,2020,34,"['documentation', 'sport']",1,7.4,1551,netflix
+ts223240,2020,70,"['drama', 'romance']",1,8.2,15232,netflix
+ts86912,2019,52,"['crime', 'documentation', 'music']",3,7.5,4906,netflix
+ts251621,2020,47,"['documentation', 'crime']",1,7.1,2715,netflix
+ts237107,2020,50,"['drama', 'romance']",2,7.3,19704,netflix
+ts256606,2020,55,"['documentation', 'crime']",1,7.4,2182,netflix
+ts241486,2020,23,"['animation', 'action', 'scifi', 'comedy', 'family', 'fantasy']",2,7.1,795,netflix
+ts88352,2019,75,"['war', 'crime', 'thriller', 'drama']",1,8.1,1438,netflix
+ts256898,2020,45,['drama'],1,0.0,0,netflix
+ts256007,2020,31,"['comedy', 'drama', 'romance']",2,7.4,7896,netflix
+ts237096,2020,62,"['crime', 'documentation']",1,7.1,3344,netflix
+ts191559,2019,42,['documentation'],4,7.2,1360,netflix
+ts89876,2019,36,['comedy'],1,6.6,3358,netflix
+ts219101,2019,45,"['thriller', 'horror', 'drama']",1,7.4,16373,netflix
+ts225669,2020,26,"['action', 'scifi', 'animation']",1,0.0,0,netflix
+ts251618,2020,25,"['documentation', 'family', 'drama']",1,5.1,1315,netflix
+ts255418,2020,59,"['documentation', 'crime']",1,7.9,3245,netflix
+ts85619,2019,45,"['drama', 'crime', 'thriller']",2,6.5,1745,netflix
+ts256309,2020,20,['comedy'],1,7.9,6702,netflix
+ts191121,2020,31,"['comedy', 'horror', 'scifi']",1,5.6,2649,netflix
+ts86413,2020,53,"['comedy', 'drama']",1,7.5,8552,netflix
+ts89231,2019,19,"['reality', 'action']",2,6.6,2709,netflix
+ts223077,2019,60,['documentation'],1,0.0,0,netflix
+ts87489,2019,26,"['documentation', 'comedy']",1,7.0,1274,netflix
+ts90729,2020,50,"['scifi', 'drama', 'romance']",1,6.6,24640,netflix
+ts91087,2019,47,"['drama', 'romance']",1,7.9,3025,netflix
+ts103574,2020,51,"['action', 'crime', 'comedy']",1,6.7,148,netflix
+ts222705,2019,65,['drama'],1,8.3,199,netflix
+ts254592,2020,25,"['documentation', 'music']",2,7.4,828,netflix
+ts85480,2019,24,"['scifi', 'drama', 'animation', 'music']",1,7.8,2216,netflix
+ts275111,2020,7,"['family', 'animation', 'comedy']",5,5.9,167,netflix
+ts252758,2020,42,['reality'],2,5.5,1658,netflix
+ts89119,2019,50,"['crime', 'documentation']",1,6.6,11129,netflix
+ts243036,2020,38,"['drama', 'music']",2,6.9,4714,netflix
+ts107724,2020,55,"['history', 'thriller', 'drama']",1,7.0,7030,netflix
+ts90508,2019,24,['reality'],1,4.3,768,netflix
+ts216593,2019,29,['documentation'],3,7.8,905,netflix
+ts251782,2020,42,"['documentation', 'history']",1,7.4,8347,netflix
+ts113842,2019,58,"['crime', 'drama', 'thriller']",1,7.8,15131,netflix
+ts255434,2020,61,"['thriller', 'drama', 'crime', 'romance']",1,8.6,9761,netflix
+ts84639,2019,22,"['scifi', 'action', 'animation']",1,5.9,653,netflix
+ts251378,2020,26,"['comedy', 'documentation', 'animation', 'family']",1,7.4,827,netflix
+ts218776,2019,34,['documentation'],1,6.9,260,netflix
+ts252341,2020,44,['documentation'],1,7.8,1132,netflix
+ts251157,2020,24,"['action', 'comedy', 'scifi', 'animation']",1,0.0,0,netflix
+ts223126,2019,48,"['crime', 'documentation']",1,7.4,9639,netflix
+ts104449,2020,49,"['drama', 'war', 'animation', 'action']",1,7.6,6540,netflix
+ts84586,2020,49,"['drama', 'sport']",1,7.6,15402,netflix
+ts221749,2020,23,"['action', 'scifi', 'horror', 'animation', 'comedy', 'fantasy']",1,8.1,9465,netflix
+ts103329,2020,25,"['drama', 'action', 'scifi', 'animation', 'crime', 'thriller']",2,6.3,2683,netflix
+ts105542,2020,32,"['comedy', 'drama', 'romance']",1,7.3,4530,netflix
+ts250800,2020,41,"['thriller', 'drama']",1,0.0,0,netflix
+ts237208,2020,39,['reality'],1,7.4,1290,netflix
+ts89696,2019,41,"['crime', 'drama']",1,7.0,347,netflix
+ts85451,2019,57,"['drama', 'music']",1,7.2,559,netflix
+ts254568,2020,45,"['drama', 'comedy']",1,7.1,1041,netflix
+ts251617,2020,44,"['documentation', 'comedy']",1,7.5,1797,netflix
+ts89315,2019,31,['comedy'],1,6.8,2961,netflix
+ts89740,2019,42,"['drama', 'crime']",1,7.3,82,netflix
+ts80709,2019,42,"['scifi', 'drama', 'thriller']",2,5.3,36571,netflix
+ts84661,2020,55,"['scifi', 'action', 'drama', 'fantasy']",1,5.9,31177,netflix
+ts268560,2020,64,"['action', 'fantasy', 'horror']",1,8.1,7399,netflix
+ts254982,2020,29,['documentation'],1,0.0,0,netflix
+ts251654,2020,33,"['drama', 'scifi']",1,0.0,0,netflix
+ts89326,2019,23,['drama'],2,6.6,1306,netflix
+ts225102,2020,73,"['drama', 'romance']",1,7.2,2769,netflix
+ts90789,2019,41,"['reality', 'crime', 'thriller']",1,7.0,1260,netflix
+ts237751,2020,27,"['drama', 'romance']",2,8.4,1226,netflix
+ts225513,2020,44,['scifi'],1,0.0,0,netflix
+ts104401,2020,47,"['action', 'drama', 'fantasy', 'thriller', 'scifi']",2,7.5,39438,netflix
+ts93054,2019,26,"['comedy', 'crime', 'drama']",2,7.1,12134,netflix
+ts116814,2019,54,"['drama', 'thriller']",1,7.4,5636,netflix
+ts268608,2020,49,"['documentation', 'crime']",1,7.1,10060,netflix
+ts252849,2020,35,"['documentation', 'crime']",1,5.2,825,netflix
+ts88471,2019,54,"['drama', 'romance']",2,7.8,3648,netflix
+ts215341,2019,104,['reality'],2,0.0,0,netflix
+ts87320,2019,23,"['drama', 'comedy']",3,7.8,768,netflix
+ts215691,2020,49,"['drama', 'action', 'comedy', 'crime']",1,7.7,12863,netflix
+ts93981,2019,44,['drama'],2,7.8,3442,netflix
+ts105441,2019,50,"['war', 'documentation', 'history']",1,8.7,9359,netflix
+ts110635,2020,45,"['drama', 'fantasy', 'thriller', 'scifi']",1,5.9,3183,netflix
+ts91124,2019,52,"['drama', 'scifi', 'reality', 'comedy', 'romance']",2,6.7,6344,netflix
+ts242820,2020,28,['reality'],3,5.3,2718,netflix
+ts218569,2019,47,"['documentation', 'family', 'history']",3,7.6,6748,netflix
+ts112733,2019,45,"['action', 'drama', 'thriller']",2,6.8,11767,netflix
+ts223659,2020,35,"['drama', 'crime']",2,7.3,8228,netflix
+ts90095,2019,32,"['scifi', 'horror', 'drama', 'fantasy', 'thriller']",1,3.5,10296,netflix
+ts216522,2019,23,"['drama', 'fantasy', 'romance', 'thriller', 'animation', 'crime']",2,7.7,10802,netflix
+ts88296,2020,29,"['thriller', 'drama', 'horror']",1,5.7,4597,netflix
+ts188840,2019,27,"['fantasy', 'animation', 'action', 'crime', 'drama']",1,7.1,1749,netflix
+ts233530,2020,59,"['documentation', 'reality']",1,6.9,807,netflix
+ts89744,2019,32,"['drama', 'comedy', 'crime', 'romance']",3,7.8,35001,netflix
+ts222438,2020,28,"['scifi', 'action']",1,0.0,0,netflix
+ts110637,2019,52,"['drama', 'fantasy', 'horror', 'scifi', 'crime']",2,6.5,1581,netflix
+ts89656,2019,46,"['scifi', 'fantasy', 'romance', 'drama']",1,7.3,268,netflix
+ts93066,2019,40,"['scifi', 'drama', 'reality']",1,4.6,16918,netflix
+ts269442,2020,54,['documentation'],1,8.5,1100,netflix
+ts215869,2019,38,"['reality', 'documentation']",1,5.7,395,netflix
+ts87372,2019,24,"['action', 'animation', 'fantasy']",1,6.1,690,netflix
+ts225651,2020,25,"['drama', 'comedy', 'romance']",2,7.5,11977,netflix
+ts86726,2019,37,['reality'],1,6.6,3741,netflix
+ts361288,2019,39,"['family', 'fantasy', 'scifi', 'animation', 'action', 'comedy']",4,8.0,1419,netflix
+ts87224,2019,38,"['scifi', 'drama', 'fantasy']",2,6.3,2588,netflix
+ts226602,2020,53,"['crime', 'documentation']",1,7.0,3475,netflix
+ts95011,2020,48,['documentation'],1,7.4,129,netflix
+ts269397,2020,12,"['comedy', 'animation']",3,5.9,421,netflix
+ts218564,2019,44,['documentation'],1,6.7,1101,netflix
+ts217719,2019,34,"['documentation', 'sport']",1,7.3,669,netflix
+ts252856,2020,45,"['documentation', 'history']",1,7.8,7348,netflix
+ts187541,2019,80,"['comedy', 'scifi', 'drama', 'romance', 'action', 'fantasy', 'horror']",1,8.1,10323,netflix
+ts268648,2020,30,"['documentation', 'music']",1,6.9,427,netflix
+ts222609,2019,30,"['drama', 'romance', 'reality']",1,7.6,1347,netflix
+ts224906,2020,45,"['drama', 'romance']",1,7.7,276,netflix
+ts236033,2020,37,['comedy'],1,0.0,0,netflix
+ts242210,2020,62,"['scifi', 'drama', 'fantasy', 'thriller']",1,7.1,561,netflix
+ts88076,2019,66,"['drama', 'comedy', 'scifi', 'fantasy', 'romance']",1,7.9,881,netflix
+ts82912,2020,54,"['drama', 'thriller', 'crime', 'history']",2,7.3,61510,netflix
+ts221293,2020,72,"['drama', 'scifi']",1,0.0,0,netflix
+ts87488,2019,24,"['comedy', 'family', 'action']",1,5.6,1064,netflix
+ts272134,2020,24,"['animation', 'action', 'scifi']",1,0.0,0,netflix
+ts236747,2020,51,['comedy'],1,8.6,5631,netflix
+ts89291,2019,46,"['drama', 'comedy']",2,6.8,1429,netflix
+ts225430,2020,68,"['comedy', 'drama', 'scifi', 'fantasy']",1,8.0,2390,netflix
+ts306187,2019,29,"['comedy', 'family']",5,6.6,3177,netflix
+ts237560,2020,57,"['crime', 'documentation']",1,7.1,25858,netflix
+ts90356,2019,44,"['reality', 'drama']",4,7.4,746,netflix
+ts88721,2019,30,"['comedy', 'drama']",2,7.6,9821,netflix
+ts269157,2020,49,"['documentation', 'crime']",1,7.0,2405,netflix
+ts121489,2019,22,"['horror', 'thriller', 'drama']",4,5.6,2080,netflix
+ts221851,2019,60,"['thriller', 'drama', 'crime']",1,7.0,450,netflix
+ts255926,2020,25,"['comedy', 'drama', 'romance']",1,7.5,16978,netflix
+ts129445,2019,53,"['drama', 'history']",1,7.9,44358,netflix
+ts88909,2019,54,['reality'],4,6.9,2559,netflix
+ts256297,2020,70,"['scifi', 'fantasy', 'romance']",1,5.8,182,netflix
+ts252166,2020,67,"['action', 'crime', 'romance', 'thriller', 'drama']",1,6.5,692,netflix
+ts215683,2019,44,"['action', 'drama', 'fantasy', 'horror', 'romance', 'comedy']",1,8.8,7131,netflix
+ts225101,2020,80,"['drama', 'comedy', 'romance']",1,8.0,11556,netflix
+ts90980,2019,15,['comedy'],1,7.5,3075,netflix
+ts226468,2020,43,"['drama', 'romance']",3,6.1,2919,netflix
+ts258169,2020,38,['reality'],1,5.9,320,netflix
+ts224891,2020,40,"['drama', 'comedy']",1,0.0,0,netflix
+ts89282,2019,61,"['drama', 'thriller', 'action', 'crime']",2,6.5,7953,netflix
+ts215378,2020,46,"['comedy', 'drama', 'romance']",2,7.4,15426,netflix
+ts86165,2019,56,"['drama', 'scifi', 'thriller']",1,7.1,32272,netflix
+ts251779,2020,67,"['thriller', 'scifi', 'drama', 'fantasy']",2,7.8,692,netflix
+ts251560,2020,60,"['drama', 'comedy', 'romance', 'music']",1,7.3,1928,netflix
+ts190462,2020,30,"['comedy', 'drama']",2,7.5,2873,netflix
+ts89679,2019,71,['drama'],1,7.0,105,netflix
+ts223238,2020,53,"['scifi', 'drama', 'romance']",1,7.6,2864,netflix
+ts225912,2020,42,"['action', 'thriller', 'drama', 'scifi']",2,6.8,10381,netflix
+ts226403,2020,50,['reality'],1,6.8,816,netflix
+ts223192,2020,92,"['comedy', 'drama']",2,8.8,6035,netflix
+ts105825,2019,47,"['crime', 'drama', 'thriller', 'scifi']",1,7.1,14925,netflix
+ts83810,2019,24,"['scifi', 'action', 'fantasy', 'animation']",1,6.7,1270,netflix
+ts236725,2020,48,['documentation'],1,8.7,2441,netflix
+ts106141,2019,44,"['thriller', 'drama']",2,5.8,720,netflix
+ts214718,2019,55,"['drama', 'comedy']",1,0.0,0,netflix
+ts236850,2020,41,"['action', 'drama']",1,7.7,224,netflix
+ts83491,2019,52,"['drama', 'thriller', 'romance']",1,6.3,15975,netflix
+ts255880,2020,28,['reality'],4,5.7,1400,netflix
+ts223759,2020,67,"['crime', 'documentation', 'sport']",1,7.4,17873,netflix
+ts219162,2019,53,['documentation'],1,7.8,11250,netflix
+ts106536,2020,55,"['crime', 'drama', 'thriller']",1,6.6,17527,netflix
+ts82739,2019,47,"['drama', 'crime']",2,6.4,955,netflix
+ts83082,2019,27,"['comedy', 'drama', 'scifi']",1,7.2,32941,netflix
+ts250871,2020,43,"['crime', 'documentation']",1,7.2,1758,netflix
+ts88744,2019,8,"['documentation', 'sport', 'comedy', 'european']",1,7.6,1872,netflix
+ts224907,2020,62,"['comedy', 'drama', 'romance', 'action']",1,7.5,3259,netflix
+ts87986,2019,65,"['drama', 'music', 'comedy']",1,7.6,2107,netflix
+ts219080,2020,48,"['war', 'drama', 'crime', 'thriller']",1,8.2,19637,netflix
+ts268799,2020,46,"['scifi', 'drama']",1,0.0,0,netflix
+ts218176,2020,26,"['comedy', 'family']",1,6.3,2559,netflix
+ts226617,2020,64,"['documentation', 'crime', 'drama']",1,8.0,2622,netflix
+ts221151,2019,43,['documentation'],1,7.0,595,netflix
+ts223456,2020,48,['documentation'],1,6.4,2820,netflix
+ts225379,2020,67,"['drama', 'thriller', 'crime']",2,0.0,0,netflix
+ts224859,2020,54,"['documentation', 'crime']",1,7.7,7742,netflix
+ts254817,2020,43,"['crime', 'documentation']",1,7.3,1394,netflix
+ts236332,2020,20,['documentation'],1,3.9,1571,netflix
+ts213544,2019,50,"['comedy', 'drama', 'history', 'romance']",1,8.1,2415,netflix
+ts251929,2020,28,['reality'],1,6.5,114,netflix
+ts236501,2020,41,"['drama', 'comedy', 'romance']",2,6.5,6140,netflix
+ts225867,2020,47,['drama'],1,0.0,0,netflix
+ts268551,2020,70,"['drama', 'romance']",1,7.5,3970,netflix
+ts85398,2019,50,['documentation'],1,9.3,45070,netflix
+ts252318,2020,28,['reality'],1,4.2,859,netflix
+ts89182,2019,49,"['drama', 'comedy', 'horror', 'thriller']",1,6.4,136,netflix
+ts286390,2019,45,"['drama', 'comedy']",2,7.7,3010,netflix
+ts215012,2020,23,"['family', 'fantasy', 'scifi', 'animation', 'action', 'comedy']",3,8.3,6278,netflix
+ts252015,2020,28,"['comedy', 'family']",2,5.6,244,netflix
+ts83657,2019,48,"['scifi', 'horror', 'drama', 'fantasy']",2,6.7,30346,netflix
+ts225716,2019,46,"['comedy', 'family']",3,7.4,4477,netflix
+ts225460,2020,53,"['drama', 'thriller', 'crime']",1,0.0,0,netflix
+ts84663,2019,43,"['comedy', 'drama']",2,7.5,23346,netflix
+ts86365,2019,12,"['animation', 'comedy', 'drama', 'family']",1,8.3,1764,netflix
+ts269740,2020,50,"['drama', 'comedy']",3,6.4,616,netflix
+ts254045,2020,24,['comedy'],1,0.0,0,netflix
+ts90937,2020,53,['drama'],1,7.5,9957,netflix
+ts106126,2019,50,"['drama', 'history']",1,7.6,5382,netflix
+ts236769,2020,23,['documentation'],1,7.6,2341,netflix
+ts218888,2020,24,"['action', 'animation', 'scifi', 'comedy', 'fantasy']",1,7.2,2940,netflix
+ts89048,2019,48,['drama'],2,7.5,2535,netflix
+ts218890,2020,24,"['action', 'scifi', 'animation', 'fantasy']",1,6.1,648,netflix
+ts254293,2020,44,['reality'],1,7.1,1295,netflix
+ts222802,2019,44,"['scifi', 'action', 'comedy', 'drama', 'fantasy', 'romance']",2,7.2,331,netflix
+ts251512,2020,63,['documentation'],1,7.6,1171,netflix
+ts219561,2019,22,['documentation'],2,8.0,5651,netflix
+ts104840,2019,57,"['music', 'crime', 'drama', 'documentation', 'reality']",1,7.5,2794,netflix
+ts90621,2019,41,"['comedy', 'drama']",2,9.0,73794,netflix
+ts87680,2019,58,['drama'],1,5.9,1061,netflix
+ts89881,2019,29,['comedy'],3,7.1,7365,netflix
+ts88485,2019,27,"['animation', 'action', 'family', 'comedy', 'drama', 'romance', 'fantasy']",2,8.2,2844,netflix
+ts91125,2019,66,['war'],2,0.0,0,netflix
+ts222367,2019,49,['drama'],1,6.2,2859,netflix
+ts88146,2019,59,"['documentation', 'comedy']",1,7.3,600,netflix
+ts223895,2020,57,"['scifi', 'comedy', 'drama', 'fantasy']",2,7.9,1835,netflix
+ts188991,2020,50,"['crime', 'drama', 'thriller']",1,6.3,5196,netflix
+ts87364,2019,59,"['documentation', 'crime', 'history']",1,7.8,27439,netflix
+ts284800,2019,44,"['drama', 'crime', 'thriller']",2,7.6,19511,netflix
+ts251119,2020,43,"['drama', 'romance', 'sport']",1,6.5,25,netflix
+ts269690,2020,17,['comedy'],1,7.4,1167,netflix
+ts113748,2019,14,"['comedy', 'family', 'fantasy', 'animation', 'action']",1,6.8,734,netflix
+ts213071,2019,48,"['thriller', 'drama']",1,6.0,53,netflix
+ts93611,2020,41,"['drama', 'fantasy', 'horror', 'scifi']",1,6.2,11611,netflix
+ts257301,2020,54,['reality'],3,6.9,921,netflix
+ts262778,2020,21,"['action', 'family', 'fantasy', 'animation']",2,6.8,153,netflix
+ts216513,2020,25,"['comedy', 'drama', 'family', 'fantasy', 'action']",1,6.6,997,netflix
+ts89075,2019,75,"['drama', 'comedy', 'romance']",2,7.7,4836,netflix
+ts243256,2020,20,"['comedy', 'drama']",1,5.9,688,netflix
+ts221653,2019,14,"['scifi', 'comedy', 'animation']",3,8.0,44,netflix
+ts224072,2020,47,"['drama', 'history']",1,7.3,12523,netflix
+ts79695,2019,44,"['drama', 'crime', 'music']",3,6.7,1282,netflix
+ts83107,2019,42,"['drama', 'scifi', 'horror']",1,6.0,14357,netflix
+ts82851,2020,45,"['drama', 'thriller']",1,7.6,44294,netflix
+ts223308,2019,20,['comedy'],1,7.0,634,netflix
+ts105047,2019,51,"['drama', 'scifi', 'thriller']",2,7.2,13752,netflix
+ts216493,2019,50,"['drama', 'comedy']",2,7.7,6475,netflix
+ts237773,2020,47,"['drama', 'thriller', 'scifi']",1,0.0,0,netflix
+ts218986,2019,67,['drama'],1,0.0,0,netflix
+ts218803,2019,27,"['documentation', 'reality']",2,7.5,12,netflix
+ts222455,2019,46,"['documentation', 'crime', 'history']",1,7.5,14087,netflix
+ts101408,2020,45,"['thriller', 'crime', 'drama']",1,6.8,9725,netflix
+ts87599,2019,58,"['drama', 'romance']",1,7.2,189,netflix
+ts91039,2019,31,['documentation'],2,8.2,5327,netflix
+ts251587,2020,47,"['drama', 'crime']",1,7.1,485,netflix
+ts222838,2019,33,['reality'],1,0.0,0,netflix
+ts90648,2019,45,['drama'],1,0.0,0,netflix
+ts217045,2019,25,"['animation', 'action', 'scifi']",1,7.0,589,netflix
+ts215166,2019,24,"['action', 'crime', 'drama']",1,6.4,409,netflix
+ts90645,2019,64,"['action', 'drama', 'romance', 'thriller']",1,6.8,626,netflix
+ts225410,2020,38,"['drama', 'documentation']",1,0.0,0,netflix
+ts271247,2019,14,"['animation', 'action', 'family', 'comedy']",4,6.7,228,netflix
+ts221365,2019,40,['drama'],1,0.0,0,netflix
+ts87473,2020,24,"['scifi', 'animation', 'romance', 'action', 'drama', 'horror']",2,6.3,1561,netflix
+ts225718,2020,46,"['drama', 'action', 'fantasy', 'thriller']",1,6.6,5887,netflix
+ts269073,2020,37,"['reality', 'romance', 'documentation']",2,4.3,10206,netflix
+ts223404,2020,76,"['drama', 'comedy', 'romance']",1,8.6,26432,netflix
+ts86946,2019,42,"['scifi', 'romance']",1,5.8,3178,netflix
+ts89014,2019,10,"['animation', 'comedy', 'family', 'fantasy', 'scifi', 'drama', 'action']",2,7.2,1442,netflix
+ts221366,2019,40,"['thriller', 'drama']",1,0.0,0,netflix
+ts251067,2020,27,"['comedy', 'drama', 'family']",2,7.5,4288,netflix
+ts217389,2020,34,"['drama', 'comedy']",2,6.7,2221,netflix
+ts59542,2020,41,"['drama', 'comedy']",1,0.0,0,netflix
+ts255809,2020,58,"['crime', 'documentation']",1,7.0,2599,netflix
+ts220751,2019,22,"['family', 'scifi', 'animation', 'comedy', 'action']",1,6.8,332,netflix
+ts217891,2019,24,"['action', 'scifi', 'animation', 'fantasy']",2,4.6,1981,netflix
+ts241248,2020,9,"['family', 'comedy', 'animation']",6,4.6,732,netflix
+ts89895,2019,6,"['animation', 'comedy', 'family', 'fantasy']",3,6.6,276,netflix
+ts88841,2020,51,"['scifi', 'comedy', 'drama', 'fantasy']",1,6.4,1337,netflix
+ts314529,2020,12,[],3,0.0,0,netflix
+ts236653,2020,37,['reality'],1,6.6,403,netflix
+ts225162,2020,51,"['documentation', 'reality']",2,0.0,0,netflix
+ts227385,2020,19,"['scifi', 'action']",3,0.0,0,netflix
+ts223242,2020,66,"['drama', 'romance', 'comedy']",1,7.1,971,netflix
+ts88271,2019,12,['documentation'],4,7.7,676,netflix
+ts251616,2020,38,"['reality', 'music']",1,5.7,146,netflix
+ts269501,2020,50,"['documentation', 'music']",1,7.6,1294,netflix
+ts236091,2020,68,"['drama', 'comedy', 'family', 'romance']",1,7.1,292,netflix
+ts100354,2019,45,"['crime', 'drama', 'history', 'sport']",1,7.9,786,netflix
+ts236051,2020,32,"['documentation', 'sport']",3,7.4,827,netflix
+ts104168,2019,45,"['action', 'drama']",2,6.9,1952,netflix
+ts242244,2020,26,"['scifi', 'animation', 'action', 'drama']",1,6.4,3215,netflix
+ts225377,2020,34,"['drama', 'romance', 'comedy']",1,7.5,1616,netflix
+ts216698,2019,29,['reality'],1,0.0,0,netflix
+ts222325,2019,34,['documentation'],2,7.7,590,netflix
+ts108392,2020,47,"['family', 'fantasy', 'action', 'scifi']",1,6.0,7884,netflix
+ts224261,2020,35,['reality'],1,5.9,109,netflix
+ts187443,2020,53,"['thriller', 'crime', 'drama']",1,6.6,4385,netflix
+ts86928,2019,75,"['action', 'drama', 'history', 'romance']",1,8.0,1156,netflix
+ts113637,2019,61,"['documentation', 'crime']",1,7.1,2127,netflix
+ts256764,2020,24,"['scifi', 'drama', 'animation', 'action', 'comedy', 'fantasy', 'history', 'war']",2,8.3,1807,netflix
+ts225539,2020,59,"['drama', 'romance']",1,7.7,920,netflix
+ts76382,2019,24,"['action', 'family', 'thriller', 'animation']",4,7.9,6171,netflix
+ts256134,2020,24,"['reality', 'music']",1,6.9,180,netflix
+ts228502,2020,19,['comedy'],1,5.0,965,netflix
+ts90812,2019,62,['drama'],1,7.9,102,netflix
+ts237111,2020,27,['comedy'],2,6.9,1017,netflix
+ts235689,2020,64,['reality'],2,5.1,122,netflix
+ts251072,2020,55,['drama'],1,6.7,70,netflix
+ts87221,2019,65,"['comedy', 'drama']",1,6.8,145,netflix
+ts237556,2020,29,['comedy'],2,4.3,192,netflix
+ts257243,2020,37,"['music', 'reality']",1,6.9,405,netflix
+ts222933,2019,60,"['crime', 'documentation', 'drama', 'thriller']",1,7.4,3101,netflix
+ts218307,2019,36,['reality'],1,6.6,377,netflix
+ts270742,2020,48,['documentation'],1,7.7,81,netflix
+ts92405,2020,33,"['crime', 'drama', 'thriller', 'comedy']",1,5.3,2742,netflix
+ts235979,2020,59,"['drama', 'crime', 'thriller']",1,7.3,1557,netflix
+ts231260,2019,36,"['scifi', 'thriller', 'drama']",1,6.7,23,netflix
+ts222599,2019,50,['reality'],1,8.2,2692,netflix
+ts88552,2019,40,"['drama', 'comedy', 'family', 'romance']",2,6.8,720,netflix
+ts238316,2020,58,['reality'],1,8.4,522,netflix
+ts222942,2019,40,"['documentation', 'crime']",1,6.5,345,netflix
+ts251061,2020,21,"['drama', 'scifi', 'animation', 'fantasy', 'history', 'romance', 'action']",2,7.1,136,netflix
+ts236388,2020,47,['reality'],1,7.4,765,netflix
+ts216474,2019,50,"['crime', 'thriller', 'drama']",1,7.2,3484,netflix
+ts90902,2019,63,"['drama', 'romance']",1,7.8,1651,netflix
+ts236859,2020,0,[],1,0.0,0,netflix
+ts252661,2020,30,"['crime', 'documentation']",1,6.4,427,netflix
+ts218802,2019,25,"['documentation', 'sport', 'reality']",1,6.4,3491,netflix
+ts221041,2019,43,"['drama', 'fantasy', 'romance']",1,5.2,25,netflix
+ts250872,2020,30,['reality'],1,5.3,481,netflix
+ts238242,2020,44,"['crime', 'drama', 'thriller']",1,7.3,2706,netflix
+ts251272,2020,40,['reality'],1,5.9,430,netflix
+ts222380,2019,50,"['drama', 'action', 'crime', 'thriller']",2,7.5,1583,netflix
+ts105601,2019,23,"['comedy', 'family', 'fantasy', 'scifi', 'animation', 'action']",2,7.7,296,netflix
+ts215178,2020,52,['drama'],1,7.5,7856,netflix
+ts89361,2020,27,"['scifi', 'animation', 'action', 'fantasy']",2,5.4,610,netflix
+ts88283,2019,44,"['crime', 'scifi', 'drama', 'action', 'fantasy']",1,6.4,13569,netflix
+ts223062,2019,62,"['thriller', 'drama']",1,0.0,0,netflix
+ts214861,2019,23,"['comedy', 'horror', 'reality', 'scifi']",2,5.3,2915,netflix
+ts215718,2020,55,['crime'],1,0.0,0,netflix
+ts88608,2019,38,"['documentation', 'sport']",1,7.3,732,netflix
+ts87471,2020,24,"['action', 'scifi', 'animation', 'drama']",1,7.2,2830,netflix
+ts270465,2020,60,"['documentation', 'crime', 'history']",1,7.8,1624,netflix
+ts222835,2019,38,['drama'],1,6.5,1234,netflix
+ts270439,2020,36,['reality'],1,5.7,587,netflix
+ts253722,2020,36,"['reality', 'music']",1,6.5,446,netflix
+ts237014,2020,44,['drama'],1,0.0,0,netflix
+ts237239,2020,46,[],1,0.0,0,netflix
+ts104485,2019,49,"['drama', 'action', 'thriller']",1,6.2,1372,netflix
+ts104507,2019,42,['drama'],1,6.7,809,netflix
+ts256784,2020,14,[],2,0.0,0,netflix
+ts88151,2019,46,"['crime', 'drama', 'thriller']",1,7.4,23001,netflix
+ts106015,2019,25,"['animation', 'action', 'sport']",2,8.0,5411,netflix
+ts86978,2019,23,"['scifi', 'action', 'animation', 'comedy', 'drama', 'fantasy', 'thriller']",2,6.7,664,netflix
+ts78324,2019,13,"['comedy', 'family', 'animation']",3,5.7,1134,netflix
+ts103360,2020,52,"['fantasy', 'thriller', 'action', 'drama', 'scifi', 'war']",1,6.8,3706,netflix
+ts268099,2020,4,"['action', 'animation']",1,6.6,112,netflix
+ts224794,2020,26,['scifi'],2,0.0,0,netflix
+ts268997,2020,40,['scifi'],1,6.5,197,netflix
+ts101874,2019,41,"['crime', 'drama', 'thriller', 'scifi']",1,7.3,2684,netflix
+ts214579,2019,9,"['fantasy', 'scifi', 'animation', 'comedy', 'family']",2,7.4,85,netflix
+ts235862,2020,73,['drama'],1,7.6,196,netflix
+ts81646,2019,44,"['thriller', 'drama', 'fantasy', 'horror']",1,6.4,8843,netflix
+ts187070,2019,27,['family'],2,6.7,573,netflix
+ts220248,2019,48,['reality'],1,0.0,0,netflix
+ts252141,2020,24,"['comedy', 'family', 'animation']",2,6.3,334,netflix
+ts111206,2019,26,"['action', 'comedy', 'crime', 'drama', 'family', 'animation']",6,5.9,1557,netflix
+ts104483,2019,50,"['thriller', 'horror', 'drama']",1,6.5,4051,netflix
+ts236182,2020,28,"['comedy', 'drama']",1,5.1,2019,netflix
+ts89336,2019,23,"['animation', 'comedy', 'family', 'fantasy']",4,6.6,157,netflix
+ts88166,2019,33,['reality'],3,6.3,324,netflix
+ts89251,2019,56,['drama'],1,7.4,8443,netflix
+ts223110,2019,51,['reality'],2,6.9,654,netflix
+ts88312,2020,58,"['drama', 'music']",1,7.2,3075,netflix
+ts189314,2019,23,"['comedy', 'reality']",2,6.7,581,netflix
+ts185885,2020,48,"['history', 'thriller', 'drama']",1,6.8,2370,netflix
+ts214463,2019,46,['drama'],2,7.9,157,netflix
+ts86927,2019,63,"['drama', 'comedy', 'romance']",1,7.6,3856,netflix
+ts225328,2020,26,"['thriller', 'drama']",1,0.0,0,netflix
+ts218367,2019,26,"['drama', 'romance']",1,5.0,211,netflix
+ts277126,2020,47,"['crime', 'drama', 'thriller']",2,6.7,2058,netflix
+ts214462,2020,48,"['drama', 'history']",1,6.6,194,netflix
+ts88133,2019,45,"['drama', 'comedy', 'romance']",2,7.2,1613,netflix
+ts89583,2019,25,"['comedy', 'animation']",2,7.5,3217,netflix
+ts113506,2019,45,"['documentation', 'drama', 'history', 'romance', 'war']",1,7.3,8834,netflix
+ts105608,2020,41,"['crime', 'drama', 'thriller']",1,5.6,586,netflix
+ts90696,2019,46,['drama'],1,7.5,57,netflix
+ts256853,2019,35,"['action', 'fantasy']",1,8.1,1303,netflix
+ts219049,2019,28,"['scifi', 'thriller']",1,6.2,203,netflix
+ts223098,2019,15,['comedy'],1,5.0,43,netflix
+ts227412,2020,9,"['animation', 'comedy', 'family']",1,8.0,662,netflix
+ts220983,2019,39,"['drama', 'action']",1,0.0,0,netflix
+ts221472,2020,37,['comedy'],1,5.2,248,netflix
+ts89958,2019,76,"['action', 'drama', 'fantasy', 'history', 'romance']",3,8.3,4833,netflix
+ts250803,2020,55,['reality'],1,7.9,559,netflix
+ts222049,2020,43,"['history', 'documentation', 'crime']",1,7.6,2253,netflix
+ts222606,2019,80,"['drama', 'comedy', 'action']",1,7.7,213,netflix
+ts89347,2019,34,['documentation'],2,7.9,3011,netflix
+ts214280,2019,45,"['action', 'crime']",1,6.4,1185,netflix
+ts222803,2019,33,"['documentation', 'comedy', 'drama', 'sport']",1,7.2,1167,netflix
+ts84129,2019,29,"['comedy', 'family', 'drama']",2,6.0,3210,netflix
+ts114080,2019,48,"['drama', 'romance', 'scifi', 'thriller', 'comedy']",1,6.2,1112,netflix
+ts225647,2020,68,['drama'],1,0.0,0,netflix
+ts86744,2019,63,"['drama', 'romance']",1,8.0,6189,netflix
+ts222512,2019,34,['reality'],1,6.6,119,netflix
+ts93482,2019,24,"['animation', 'comedy', 'family', 'horror', 'scifi']",4,7.3,1505,netflix
+ts251783,2020,13,[],1,0.0,0,netflix
+ts266898,2020,44,['reality'],1,6.1,158,netflix
+ts89832,2019,63,"['scifi', 'crime', 'fantasy', 'romance', 'comedy']",1,7.1,2786,netflix
+ts90413,2019,11,['animation'],3,6.6,200,netflix
+ts101503,2019,29,['comedy'],3,4.6,374,netflix
+ts253549,2020,16,"['family', 'documentation']",2,0.0,0,netflix
+ts267956,2020,50,"['thriller', 'drama']",1,0.0,0,netflix
+ts102933,2019,52,"['drama', 'sport']",2,6.9,495,netflix
+ts112667,2020,9,"['animation', 'comedy', 'family']",6,7.8,270,netflix
+ts88699,2019,44,"['drama', 'family']",1,7.0,4425,netflix
+ts221174,2019,12,"['animation', 'family']",2,6.4,102,netflix
+ts218277,2019,47,"['thriller', 'crime', 'drama', 'sport']",1,7.3,1714,netflix
+ts314648,2020,6,['documentation'],1,7.0,169,netflix
+ts90511,2019,44,['crime'],1,7.3,901,netflix
+ts189629,2020,62,"['thriller', 'documentation', 'crime', 'history']",1,7.5,611,netflix
+ts222634,2019,24,"['comedy', 'fantasy', 'drama']",1,7.7,2223,netflix
+ts90995,2019,178,"['documentation', 'history']",1,7.6,554,netflix
+ts241460,2020,39,"['drama', 'thriller']",2,0.0,0,netflix
+ts268890,2020,30,"['drama', 'romance']",1,7.6,2914,netflix
+ts237071,2020,40,"['drama', 'crime', 'horror', 'thriller']",1,6.9,517,netflix
+ts269283,2020,29,"['comedy', 'drama']",1,0.0,0,netflix
+ts252122,2020,9,"['horror', 'thriller']",1,5.7,1109,netflix
+ts221363,2019,44,"['drama', 'crime']",1,7.6,5483,netflix
+ts89331,2019,35,"['drama', 'romance']",1,6.6,883,netflix
+ts219422,2019,55,"['romance', 'thriller', 'comedy', 'drama']",1,7.9,2723,netflix
+ts88821,2019,45,"['drama', 'comedy', 'romance']",1,7.2,687,netflix
+ts88336,2019,27,"['reality', 'romance']",2,6.3,1248,netflix
+ts85510,2019,56,"['reality', 'music']",2,7.6,1677,netflix
+ts222980,2019,38,['reality'],1,4.6,1424,netflix
+ts357033,2020,23,"['drama', 'comedy']",1,0.0,0,netflix
+ts88169,2019,64,"['thriller', 'drama', 'romance', 'comedy', 'crime', 'horror']",1,6.7,874,netflix
+ts224956,2020,47,['reality'],1,0.0,0,netflix
+ts90063,2019,40,"['drama', 'comedy', 'romance']",1,8.1,2511,netflix
+ts45322,2019,36,"['drama', 'romance']",1,7.9,141,netflix
+ts222362,2019,6,"['comedy', 'animation']",1,8.0,36,netflix
+ts223115,2019,46,"['family', 'romance', 'comedy']",1,8.0,23,netflix
+ts86940,2019,30,['comedy'],1,6.5,450,netflix
+ts187386,2020,25,['family'],1,6.7,206,netflix
+ts223078,2019,33,['reality'],1,0.0,0,netflix
+ts237304,2020,14,[],4,0.0,0,netflix
+ts269844,2020,37,['drama'],1,8.0,6900,netflix
+ts222625,2019,42,"['comedy', 'drama', 'romance']",1,7.8,453,netflix
+ts306090,2020,24,"['action', 'animation', 'comedy', 'crime', 'drama']",1,7.9,5679,netflix
+ts103935,2019,53,"['drama', 'romance', 'action']",1,7.4,809,netflix
+ts321758,2019,63,"['drama', 'thriller', 'romance', 'action']",1,8.1,9225,netflix
+ts315066,2020,40,"['scifi', 'drama', 'fantasy', 'horror']",1,5.7,1360,netflix
+ts288350,2020,2,"['comedy', 'scifi', 'music', 'drama', 'family', 'fantasy', 'documentation']",1,8.4,10697,netflix
+ts89340,2019,42,"['war', 'drama', 'thriller', 'crime']",1,7.6,848,netflix
+ts103890,2019,19,"['crime', 'family', 'comedy']",2,8.2,933,netflix
+ts226410,2020,46,"['drama', 'fantasy', 'romance', 'action', 'comedy']",1,7.9,682,netflix
+ts245653,2019,34,"['drama', 'comedy']",1,0.0,0,netflix
+ts267987,2020,54,['reality'],3,7.5,795,netflix
+ts288353,2020,46,"['scifi', 'drama', 'thriller']",1,6.5,2281,netflix
+ts89363,2019,13,['family'],3,7.1,60,netflix
+ts218500,2019,23,"['action', 'comedy', 'family', 'fantasy', 'animation', 'scifi']",2,6.0,363,netflix
+ts351349,2020,32,['documentation'],1,7.8,1470,netflix
+ts317497,2019,29,"['comedy', 'action']",2,6.5,2281,netflix
+ts91741,2019,58,['drama'],1,6.8,1388,netflix
+ts227426,2020,55,"['drama', 'romance']",1,7.5,462,netflix
+ts110703,2019,54,['reality'],4,6.5,1505,netflix
+ts254737,2020,14,[],7,0.0,0,netflix
+ts296153,2020,29,['comedy'],3,6.8,1296,netflix
+ts224796,2020,49,"['drama', 'fantasy']",1,6.3,811,netflix
+ts236197,2020,12,['animation'],4,0.0,0,netflix
+ts101042,2019,56,"['documentation', 'war']",1,7.1,154,netflix
+ts221891,2019,25,"['action', 'animation', 'family']",1,7.3,152,netflix
+ts225787,2020,44,"['crime', 'documentation']",1,7.2,3729,netflix
+ts226588,2020,37,"['documentation', 'reality']",1,5.8,4343,netflix
+ts191285,2019,45,"['drama', 'sport']",1,7.6,249,netflix
+ts89330,2019,44,['comedy'],1,7.4,390,netflix
+ts312044,2020,23,"['animation', 'action', 'fantasy', 'thriller']",1,8.9,59,netflix
+ts218504,2019,13,"['action', 'comedy', 'family', 'fantasy', 'animation']",4,6.9,130,netflix
+ts105589,2020,22,"['comedy', 'family', 'animation']",2,7.8,83,netflix
+ts233367,2020,39,"['music', 'family', 'reality']",1,6.3,141,netflix
+ts237487,2020,8,"['animation', 'family']",1,6.9,26,netflix
+ts192297,2019,16,"['family', 'animation']",5,5.3,96,netflix
+ts90643,2019,33,"['drama', 'romance']",1,5.9,138,netflix
+ts223084,2019,60,"['crime', 'drama', 'thriller', 'action']",1,5.7,395,netflix
+ts90640,2019,36,"['drama', 'crime']",1,8.2,35,netflix
+ts223690,2019,45,['drama'],1,0.0,0,netflix
+ts213611,2019,44,['drama'],1,7.3,61,netflix
+ts223121,2019,40,"['drama', 'comedy']",1,7.1,18,netflix
+ts230973,2019,31,"['documentation', 'music']",1,7.8,46,netflix
+ts252695,2020,7,['family'],1,5.6,168,netflix
+ts218000,2019,40,"['action', 'drama', 'romance']",1,6.7,620,netflix
+ts255823,2020,26,"['comedy', 'romance']",1,5.5,147,netflix
+ts217553,2019,28,"['comedy', 'drama']",1,0.0,0,netflix
+ts234505,2020,54,['comedy'],1,6.4,138,netflix
+ts103918,2019,44,"['drama', 'comedy', 'crime', 'family']",1,6.8,105,netflix
+ts90466,2019,22,"['drama', 'comedy']",2,6.6,6,netflix
+ts213232,2019,38,['reality'],1,6.0,837,netflix
+ts250920,2020,29,"['documentation', 'sport']",1,7.0,911,netflix
+ts220552,2019,11,"['comedy', 'fantasy', 'scifi', 'animation', 'action']",2,6.0,91,netflix
+ts89531,2019,39,['drama'],1,0.0,0,netflix
+ts223454,2019,46,[],1,0.0,0,netflix
+ts90568,2019,42,"['comedy', 'crime', 'drama']",1,0.0,0,netflix
+ts215862,2019,3,"['family', 'animation']",1,8.7,13,netflix
+ts222687,2019,43,['reality'],1,5.9,86,netflix
+ts269085,2020,46,"['comedy', 'crime']",1,0.0,0,netflix
+ts253288,2020,62,['comedy'],1,5.4,184,netflix
+ts235916,2020,17,"['reality', 'comedy']",1,4.4,253,netflix
+ts241246,2020,49,['drama'],2,6.5,124,netflix
+ts283159,2020,23,"['drama', 'romance']",1,5.0,25,netflix
+ts251607,2020,0,"['animation', 'family']",1,4.0,19,netflix
+ts233732,2020,6,"['animation', 'comedy']",1,7.8,38,netflix
+ts234501,2020,10,"['comedy', 'family', 'fantasy', 'animation']",2,7.4,62,netflix
+ts374043,2019,16,[],1,0.0,0,netflix
+ts268592,2019,0,"['action', 'scifi', 'thriller', 'animation', 'fantasy', 'sport']",1,6.0,193,netflix
+ts262228,2020,13,['animation'],2,6.6,17,netflix
+ts192440,2019,86,"['documentation', 'reality']",1,7.4,318,netflix
+ts229700,2019,22,['comedy'],1,0.0,0,netflix
+ts304136,2020,17,[],1,0.0,0,netflix
+ts255867,2020,14,['animation'],1,0.0,0,netflix
+ts222901,2019,24,"['family', 'drama']",1,5.8,23,netflix
+ts262037,2020,12,"['comedy', 'fantasy', 'animation']",3,7.1,172,netflix
+ts243189,2020,3,"['animation', 'comedy', 'family']",1,8.5,53,netflix
+ts314647,2020,60,[],1,0.0,0,netflix
+ts216744,2019,12,"['scifi', 'animation', 'action', 'comedy']",1,8.0,33,netflix
+ts107963,2019,47,['reality'],2,6.8,1021,netflix
+ts298837,2020,13,['animation'],1,6.8,10,netflix
+ts364947,2022,29,"['comedy', 'documentation']",1,8.1,11817,netflix
+ts274631,2022,49,"['comedy', 'scifi', 'family', 'crime', 'fantasy', 'horror']",2,8.1,287649,netflix
+ts351204,2022,45,"['drama', 'horror', 'thriller']",1,6.4,4071,netflix
+ts104019,2022,53,"['thriller', 'drama', 'scifi', 'history', 'horror']",1,7.4,93155,netflix
+ts215712,2022,49,"['drama', 'fantasy', 'horror', 'scifi', 'action']",2,7.7,152493,netflix
+ts322798,2022,55,"['drama', 'thriller', 'action', 'crime']",1,7.4,31519,netflix
+ts289334,2021,50,"['comedy', 'drama', 'romance']",2,5.5,23739,netflix
+ts279892,2021,56,"['drama', 'comedy']",2,7.5,67453,netflix
+ts85187,2022,56,"['drama', 'thriller', 'horror']",1,7.0,46227,netflix
+ts270910,2022,50,"['war', 'action', 'drama', 'history', 'romance']",2,7.3,49057,netflix
+ts220305,2021,55,"['action', 'drama', 'thriller']",2,8.0,463410,netflix
+ts285577,2022,60,"['drama', 'crime', 'thriller']",1,6.6,25528,netflix
+ts87242,2021,56,"['scifi', 'drama', 'fantasy', 'action']",2,7.6,90403,netflix
+ts365032,2022,48,"['thriller', 'drama', 'horror']",1,6.5,66515,netflix
+ts324785,2022,42,"['action', 'drama', 'thriller']",1,6.3,16564,netflix
+ts258748,2022,53,"['crime', 'drama', 'thriller']",1,7.9,134515,netflix
+ts354402,2022,114,"['reality', 'sport']",1,0.0,0,netflix
+ts251602,2022,51,"['action', 'scifi', 'drama', 'fantasy']",1,4.7,37828,netflix
+ts222333,2021,41,"['scifi', 'action', 'drama', 'animation', 'fantasy']",1,9.0,219168,netflix
+ts271450,2022,56,"['drama', 'crime', 'thriller']",1,7.7,40162,netflix
+ts250831,2022,24,"['animation', 'action', 'crime', 'scifi', 'thriller', 'fantasy']",1,8.3,54177,netflix
+ts344162,2022,71,"['drama', 'comedy']",1,0.0,0,netflix
+ts215951,2021,64,"['action', 'drama', 'fantasy', 'horror', 'scifi']",1,7.7,121193,netflix
+ts305816,2022,56,"['drama', 'history', 'romance']",2,7.8,10926,netflix
+ts288268,2022,54,"['drama', 'thriller', 'horror']",1,6.5,26423,netflix
+ts88578,2021,51,"['drama', 'romance']",2,7.4,26425,netflix
+ts314025,2022,50,"['drama', 'thriller']",2,7.9,7638,netflix
+ts369505,2022,39,"['documentation', 'history']",1,7.0,8793,netflix
+ts108385,2022,68,['drama'],1,6.8,71039,netflix
+ts322321,2022,52,['war'],1,0.0,0,netflix
+ts296046,2021,46,"['thriller', 'drama', 'action', 'crime', 'comedy']",3,7.5,114047,netflix
+ts307973,2022,33,"['comedy', 'crime']",1,6.9,13966,netflix
+ts230110,2022,54,['drama'],1,7.9,13252,netflix
+ts309827,2022,43,"['crime', 'drama', 'horror', 'thriller']",1,5.9,16404,netflix
+ts304777,2022,51,"['action', 'crime', 'drama', 'thriller']",1,7.5,10038,netflix
+ts311985,2021,27,"['animation', 'comedy', 'fantasy', 'scifi']",2,7.7,23919,netflix
+ts368156,2022,75,"['drama', 'romance']",1,6.7,584,netflix
+ts269881,2021,25,"['scifi', 'action', 'animation', 'drama', 'fantasy', 'thriller']",2,6.3,6583,netflix
+ts281225,2022,73,"['action', 'crime', 'drama', 'thriller']",3,6.8,2588,netflix
+ts323091,2022,27,['comedy'],1,5.1,7335,netflix
+ts365037,2022,49,"['scifi', 'drama', 'fantasy', 'action']",1,7.5,10793,netflix
+ts312082,2022,80,"['action', 'fantasy', 'romance', 'thriller', 'comedy', 'drama']",2,8.8,9657,netflix
+ts217231,2022,29,"['romance', 'drama']",3,8.7,56680,netflix
+ts102086,2021,50,"['drama', 'thriller']",1,7.2,65456,netflix
+ts356131,2022,0,"['animation', 'action', 'scifi', 'fantasy']",1,6.4,2856,netflix
+ts373465,2022,54,['documentation'],1,4.9,21699,netflix
+ts320183,2021,67,['reality'],2,7.2,2343,netflix
+ts357344,2022,54,"['documentation', 'crime']",1,6.8,7015,netflix
+ts304058,2021,46,"['action', 'drama', 'thriller', 'crime']",2,7.1,3566,netflix
+ts225855,2022,61,"['scifi', 'action', 'thriller', 'drama', 'fantasy', 'horror']",2,7.5,53764,netflix
+ts134602,2022,47,"['crime', 'drama', 'thriller']",1,6.8,4259,netflix
+ts354408,2022,43,"['action', 'drama', 'scifi', 'fantasy']",1,6.4,6478,netflix
+ts369223,2022,50,"['crime', 'documentation']",1,6.7,4510,netflix
+ts369966,2022,31,"['documentation', 'history']",1,7.4,7762,netflix
+ts321084,2022,30,"['comedy', 'crime']",2,6.8,1226,netflix
+ts245169,2022,60,"['scifi', 'thriller', 'drama']",1,7.2,5809,netflix
+ts360281,2022,42,"['documentation', 'crime']",1,6.7,5448,netflix
+ts346012,2022,60,['drama'],1,7.0,231,netflix
+ts363091,2022,46,"['crime', 'documentation']",1,7.0,4842,netflix
+ts301961,2022,47,"['thriller', 'drama']",1,5.9,12871,netflix
+ts366880,2022,34,"['reality', 'horror']",1,3.5,2328,netflix
+ts226392,2021,42,"['drama', 'comedy']",2,6.5,6033,netflix
+ts311620,2022,74,"['drama', 'action', 'thriller']",1,7.8,4696,netflix
+ts349518,2022,26,"['drama', 'comedy']",1,7.6,7906,netflix
+ts252861,2022,51,"['scifi', 'horror', 'thriller', 'action']",1,4.1,42301,netflix
+ts328381,2022,46,"['drama', 'family', 'fantasy', 'animation']",1,7.8,1636,netflix
+ts302264,2022,30,"['scifi', 'horror', 'thriller', 'animation', 'drama']",1,6.5,885,netflix
+ts316484,2022,34,"['drama', 'comedy']",1,7.1,3563,netflix
+ts232073,2022,45,"['drama', 'music']",1,7.5,10588,netflix
+ts356995,2022,54,['documentation'],1,7.9,2506,netflix
+ts270459,2022,27,"['animation', 'romance', 'scifi', 'action', 'comedy', 'family', 'fantasy']",1,7.3,1370,netflix
+ts369462,2022,32,"['comedy', 'romance']",1,6.4,1335,netflix
+ts256710,2022,54,"['scifi', 'horror', 'thriller', 'drama']",1,7.3,52271,netflix
+ts350214,2022,27,"['comedy', 'crime', 'drama', 'thriller']",1,6.0,638,netflix
+ts373254,2022,48,"['documentation', 'crime']",1,6.7,1949,netflix
+ts269096,2021,64,"['drama', 'romance']",1,7.5,1159,netflix
+ts223537,2021,54,"['drama', 'comedy']",1,8.4,85958,netflix
+ts371616,2022,50,"['crime', 'documentation', 'history']",1,6.6,3037,netflix
+ts369634,2022,55,"['crime', 'sport', 'documentation']",1,7.4,5485,netflix
+ts344643,2022,34,['comedy'],1,7.4,3610,netflix
+ts357030,2022,43,"['documentation', 'crime', 'history']",1,5.4,2890,netflix
+ts369846,2022,43,['documentation'],1,7.6,1743,netflix
+ts363797,2022,43,['reality'],1,7.6,2779,netflix
+ts237713,2021,46,"['drama', 'scifi', 'fantasy', 'action']",2,7.8,54032,netflix
+ts264270,2022,46,"['drama', 'thriller']",1,7.0,31700,netflix
+ts271888,2021,51,"['scifi', 'drama', 'fantasy', 'action']",2,6.8,50814,netflix
+ts256072,2022,26,"['thriller', 'drama', 'comedy', 'crime']",1,6.4,47923,netflix
+ts284297,2022,41,"['drama', 'sport']",2,6.2,1063,netflix
+ts255888,2022,49,"['drama', 'horror', 'fantasy']",1,6.5,27678,netflix
+ts353837,2022,57,"['documentation', 'crime']",1,6.5,2042,netflix
+ts252119,2021,45,['drama'],3,7.2,852,netflix
+ts302807,2022,43,['drama'],1,7.2,5049,netflix
+ts372525,2022,36,"['comedy', 'romance']",1,8.0,5440,netflix
+ts271437,2022,70,"['action', 'drama', 'thriller', 'crime']",2,5.6,7145,netflix
+ts286317,2021,60,"['crime', 'documentation', 'history']",1,7.0,9331,netflix
+ts368848,2022,58,"['documentation', 'history', 'crime']",1,7.1,3749,netflix
+ts349631,2022,29,"['comedy', 'drama', 'romance']",1,7.0,17143,netflix
+ts360095,2022,48,"['documentation', 'music', 'history']",1,7.4,18450,netflix
+ts368091,2022,45,['documentation'],1,7.2,1009,netflix
+ts374546,2022,39,['reality'],1,6.1,156,netflix
+ts301847,2022,47,"['history', 'documentation', 'crime']",1,5.7,1628,netflix
+ts366651,2022,53,"['drama', 'thriller', 'crime']",1,7.5,168,netflix
+ts360549,2022,58,"['drama', 'crime']",1,5.6,542,netflix
+ts108621,2021,29,"['action', 'drama', 'crime', 'thriller']",3,6.6,10178,netflix
+ts364317,2022,52,"['drama', 'documentation', 'crime']",1,6.0,2095,netflix
+ts353844,2022,49,"['documentation', 'crime']",1,7.3,13409,netflix
+ts342732,2022,54,['documentation'],1,8.1,2440,netflix
+ts273100,2021,26,"['action', 'animation', 'scifi', 'fantasy', 'thriller']",3,7.8,20119,netflix
+ts282664,2022,37,['documentation'],1,6.1,3262,netflix
+ts345200,2022,57,"['drama', 'war']",1,8.2,165,netflix
+ts269179,2022,30,"['comedy', 'documentation']",1,6.6,1030,netflix
+ts364007,2022,50,['documentation'],1,7.3,3040,netflix
+ts372861,2022,44,"['documentation', 'drama', 'history']",1,5.9,1194,netflix
+ts362950,2022,62,"['documentation', 'sport']",1,7.2,6614,netflix
+ts330347,2022,52,"['scifi', 'drama', 'fantasy', 'horror', 'thriller']",1,5.5,2050,netflix
+ts237972,2021,45,"['scifi', 'drama', 'fantasy', 'thriller']",1,7.0,14699,netflix
+ts241363,2021,50,['drama'],1,6.4,1661,netflix
+ts296743,2022,41,"['action', 'scifi', 'drama', 'thriller']",1,5.5,5130,netflix
+ts303513,2022,45,"['drama', 'thriller', 'crime']",1,6.5,1409,netflix
+ts301625,2022,47,"['crime', 'drama', 'thriller']",1,6.2,3213,netflix
+ts215989,2021,44,"['crime', 'action', 'drama', 'thriller']",2,7.6,10869,netflix
+ts287976,2021,44,"['drama', 'romance']",3,8.3,35509,netflix
+ts329538,2022,37,"['drama', 'action']",1,6.2,620,netflix
+ts232107,2021,45,"['drama', 'scifi', 'thriller', 'horror']",1,6.9,22093,netflix
+ts331681,2022,9,"['family', 'fantasy', 'animation']",1,5.7,247,netflix
+ts251675,2021,52,"['drama', 'scifi', 'crime', 'fantasy', 'horror', 'thriller']",2,6.6,25814,netflix
+ts291150,2021,46,"['drama', 'comedy']",1,7.2,980,netflix
+ts343599,2022,85,"['documentation', 'crime']",1,6.7,8074,netflix
+ts369108,2022,41,"['documentation', 'crime', 'history']",1,6.3,1990,netflix
+ts95572,2021,57,"['crime', 'drama', 'thriller']",1,7.6,45495,netflix
+ts225061,2022,51,"['crime', 'thriller', 'drama']",1,6.3,27893,netflix
+ts344184,2022,61,"['documentation', 'crime']",1,7.1,10777,netflix
+ts283676,2021,60,"['documentation', 'sport']",2,8.3,3144,netflix
+ts237722,2022,16,"['comedy', 'action', 'family', 'fantasy', 'animation']",3,7.4,8659,netflix
+ts90093,2022,26,['comedy'],1,6.1,10569,netflix
+ts240453,2022,60,"['drama', 'thriller', 'action', 'comedy', 'crime']",1,7.4,11299,netflix
+ts288087,2021,55,"['documentation', 'crime', 'thriller', 'history']",1,6.8,5649,netflix
+ts357293,2022,35,"['action', 'drama', 'thriller']",1,5.3,12517,netflix
+ts287328,2021,29,"['animation', 'drama', 'action', 'scifi', 'fantasy', 'thriller', 'history']",1,6.2,5575,netflix
+ts269395,2022,27,"['comedy', 'fantasy']",1,5.7,6268,netflix
+ts314135,2021,20,['documentation'],1,6.8,1489,netflix
+ts306262,2022,45,"['drama', 'crime', 'thriller']",1,6.6,1128,netflix
+ts330425,2022,51,['documentation'],1,5.9,1443,netflix
+ts258415,2021,24,"['fantasy', 'horror', 'thriller', 'family', 'drama', 'scifi']",1,5.6,4660,netflix
+ts259765,2022,47,"['thriller', 'scifi', 'drama', 'horror']",1,6.2,2237,netflix
+ts301161,2022,46,"['comedy', 'drama']",1,7.5,1248,netflix
+ts343124,2022,26,"['scifi', 'thriller', 'animation', 'action', 'fantasy']",1,6.6,4256,netflix
+ts346959,2022,44,"['documentation', 'history']",1,6.8,4514,netflix
+ts314550,2022,54,"['comedy', 'scifi', 'drama', 'thriller']",1,6.2,864,netflix
+ts222522,2022,46,"['animation', 'action', 'war', 'scifi', 'drama', 'thriller']",1,6.8,1213,netflix
+ts302437,2022,25,"['action', 'animation', 'comedy', 'family', 'fantasy']",2,6.0,1847,netflix
+ts360396,2022,77,"['crime', 'drama', 'thriller']",1,7.3,1163,netflix
+ts366832,2022,19,"['action', 'animation', 'comedy', 'family']",2,6.4,949,netflix
+ts349630,2022,41,"['reality', 'romance', 'documentation', 'comedy', 'drama']",1,8.2,1537,netflix
+ts224246,2022,62,"['drama', 'thriller', 'action', 'crime']",1,7.3,4225,netflix
+ts363837,2022,47,['documentation'],1,7.3,714,netflix
+ts301999,2021,47,"['scifi', 'drama', 'thriller']",1,6.5,1658,netflix
+ts272463,2021,32,"['drama', 'sport']",1,6.0,7706,netflix
+ts296752,2022,46,"['drama', 'crime', 'thriller', 'action']",1,5.0,905,netflix
+ts372676,2022,43,['reality'],1,5.8,245,netflix
+ts296291,2022,24,"['scifi', 'fantasy', 'animation', 'comedy']",1,7.3,1001,netflix
+ts287722,2021,26,"['comedy', 'family']",3,6.9,3124,netflix
+ts300281,2022,49,['drama'],1,5.1,594,netflix
+ts343432,2022,48,"['scifi', 'action', 'drama', 'thriller']",1,6.1,7213,netflix
+ts354073,2022,20,['documentation'],1,5.4,460,netflix
+ts282155,2021,24,"['scifi', 'action', 'comedy', 'drama', 'fantasy']",1,5.8,1409,netflix
+ts328336,2022,37,['drama'],1,6.5,1867,netflix
+ts295712,2021,44,"['documentation', 'crime']",2,5.9,262,netflix
+ts357137,2022,43,['reality'],1,2.6,143,netflix
+ts310873,2022,59,['drama'],1,6.7,6131,netflix
+ts357930,2022,42,"['crime', 'documentation', 'history']",1,6.0,2388,netflix
+ts319426,2021,56,"['drama', 'crime']",1,6.8,6463,netflix
+ts312071,2021,17,"['comedy', 'crime', 'drama', 'romance', 'animation', 'action']",2,7.3,3724,netflix
+ts377283,2022,46,['reality'],1,0.0,0,netflix
+ts351128,2022,32,"['crime', 'comedy']",1,6.5,704,netflix
+ts256310,2021,24,"['scifi', 'animation', 'action']",2,7.1,5598,netflix
+ts311101,2022,47,"['comedy', 'drama', 'thriller', 'crime']",1,6.7,1389,netflix
+ts292965,2022,54,"['thriller', 'crime', 'drama']",1,7.5,3537,netflix
+ts306335,2022,25,"['scifi', 'comedy', 'drama', 'fantasy']",1,5.8,4264,netflix
+ts308317,2022,38,['reality'],1,5.5,1515,netflix
+ts321513,2022,68,"['drama', 'romance']",1,8.3,2898,netflix
+ts364209,2022,60,"['documentation', 'crime']",1,7.3,7266,netflix
+ts328625,2022,29,"['comedy', 'scifi', 'action']",1,0.0,0,netflix
+ts368953,2022,44,"['drama', 'thriller', 'crime']",1,7.0,2095,netflix
+ts356833,2022,12,"['action', 'family', 'animation', 'comedy']",1,7.3,1155,netflix
+ts349921,2022,18,['comedy'],1,6.7,232,netflix
+ts292970,2022,45,"['family', 'comedy', 'drama']",1,6.7,3803,netflix
+ts306203,2021,61,"['documentation', 'crime']",1,6.2,4157,netflix
+ts250998,2022,46,"['drama', 'history']",1,7.4,2432,netflix
+ts328671,2022,25,"['animation', 'action', 'scifi', 'comedy', 'fantasy']",1,6.5,1856,netflix
+ts331680,2022,43,['reality'],1,7.1,702,netflix
+ts342308,2022,35,['comedy'],1,5.7,166,netflix
+ts309840,2022,36,"['drama', 'comedy', 'romance']",1,7.0,989,netflix
+ts85985,2021,45,"['scifi', 'action', 'comedy', 'crime', 'drama', 'fantasy']",1,6.6,35427,netflix
+ts234817,2022,49,"['scifi', 'thriller', 'action', 'crime', 'drama']",1,6.3,8484,netflix
+ts314594,2021,40,"['documentation', 'crime']",2,7.1,4106,netflix
+ts299958,2021,33,"['documentation', 'crime']",1,6.0,954,netflix
+ts343424,2022,11,"['animation', 'comedy']",1,6.6,204,netflix
+ts277084,2022,12,"['comedy', 'family']",1,6.7,29863,netflix
+ts329700,2022,0,['reality'],1,6.1,1114,netflix
+ts347762,2022,31,"['drama', 'comedy', 'romance']",1,6.5,881,netflix
+ts314164,2022,60,"['drama', 'action', 'comedy', 'fantasy']",1,7.9,10395,netflix
+ts330402,2022,39,['reality'],1,5.8,2951,netflix
+ts324870,2022,49,"['thriller', 'crime', 'drama']",1,6.4,1262,netflix
+ts287045,2021,43,"['crime', 'drama', 'thriller']",1,7.4,8890,netflix
+ts322279,2022,64,"['drama', 'comedy', 'fantasy', 'thriller']",1,7.0,151,netflix
+ts340376,2022,44,"['drama', 'thriller']",2,6.5,2285,netflix
+ts310376,2021,35,"['reality', 'comedy', 'romance']",1,5.1,851,netflix
+ts301609,2021,54,"['romance', 'reality']",2,6.2,575,netflix
+ts359090,2022,41,['reality'],1,5.4,623,netflix
+ts356887,2022,42,['reality'],1,6.9,1045,netflix
+ts343430,2022,41,"['drama', 'thriller', 'crime', 'fantasy']",1,7.5,4097,netflix
+ts287294,2021,23,['documentation'],1,6.9,2478,netflix
+ts282876,2021,38,"['documentation', 'crime']",1,6.9,705,netflix
+ts330185,2022,49,"['drama', 'romance']",1,7.7,7494,netflix
+ts302721,2022,43,"['drama', 'scifi', 'fantasy', 'romance', 'history', 'comedy']",1,8.6,1285,netflix
+ts373723,2022,32,['drama'],1,0.0,0,netflix
+ts227473,2021,43,"['thriller', 'drama', 'horror', 'scifi']",1,7.1,16608,netflix
+ts300456,2021,41,['reality'],2,5.7,1525,netflix
+ts296825,2021,49,"['crime', 'drama', 'thriller']",1,6.3,4427,netflix
+ts329699,2022,56,['documentation'],1,7.7,2315,netflix
+ts283080,2021,41,"['drama', 'thriller', 'crime']",3,6.4,15004,netflix
+ts289620,2021,45,"['history', 'documentation', 'crime']",1,7.4,11306,netflix
+ts313656,2021,47,"['drama', 'thriller', 'crime', 'romance']",1,7.1,218,netflix
+ts272092,2021,32,"['documentation', 'reality']",1,6.6,941,netflix
+ts305788,2022,48,"['drama', 'thriller']",1,5.9,1328,netflix
+ts288540,2021,59,"['drama', 'crime', 'thriller']",1,7.1,9078,netflix
+ts366970,2022,43,['documentation'],1,6.8,223,netflix
+ts313234,2022,23,"['comedy', 'crime']",1,6.4,1073,netflix
+ts369564,2022,42,"['documentation', 'horror']",1,4.5,191,netflix
+ts304053,2021,50,['documentation'],1,7.8,1997,netflix
+ts328051,2022,48,['reality'],1,7.1,838,netflix
+ts286731,2021,24,"['drama', 'animation', 'comedy', 'romance']",2,7.8,7142,netflix
+ts328364,2022,25,"['action', 'animation', 'comedy', 'family', 'fantasy']",2,6.9,423,netflix
+ts319015,2022,33,['reality'],3,5.5,1017,netflix
+ts328605,2022,45,"['drama', 'thriller', 'history']",1,7.0,9066,netflix
+ts311987,2022,52,"['crime', 'documentation']",1,5.9,7418,netflix
+ts304709,2021,37,['reality'],2,6.9,918,netflix
+ts359504,2022,20,['comedy'],1,7.2,519,netflix
+ts306322,2021,47,"['drama', 'crime']",1,7.0,4524,netflix
+ts330198,2022,27,"['animation', 'comedy', 'family', 'fantasy', 'horror']",2,6.9,2557,netflix
+ts296472,2021,55,"['drama', 'crime', 'thriller']",1,7.7,47717,netflix
+ts283528,2021,44,"['documentation', 'music']",1,6.9,1248,netflix
+ts358141,2022,47,"['documentation', 'crime']",1,6.7,813,netflix
+ts364382,2022,41,['documentation'],1,6.8,663,netflix
+ts307649,2021,62,"['documentation', 'war', 'history']",1,7.9,9989,netflix
+ts304928,2021,70,"['action', 'comedy', 'crime', 'drama', 'fantasy', 'romance', 'thriller', 'scifi']",1,8.0,2702,netflix
+ts360550,2022,60,"['drama', 'thriller']",1,7.8,1941,netflix
+ts299212,2022,53,"['drama', 'romance']",1,6.3,4413,netflix
+ts297061,2021,21,"['drama', 'animation', 'comedy']",2,8.1,1951,netflix
+ts297247,2021,24,"['family', 'comedy']",2,4.1,424,netflix
+ts235563,2021,38,"['comedy', 'drama', 'romance', 'fantasy']",3,7.3,2209,netflix
+ts311989,2022,93,"['documentation', 'music']",1,8.0,9720,netflix
+ts369921,2022,51,"['drama', 'action', 'crime']",1,8.2,8324,netflix
+ts281927,2021,47,"['crime', 'drama', 'thriller']",1,6.9,32871,netflix
+ts321918,2022,27,"['animation', 'comedy', 'romance']",1,7.2,7743,netflix
+ts369839,2022,33,['reality'],1,5.9,281,netflix
+ts330132,2022,52,"['documentation', 'crime']",1,7.0,709,netflix
+ts331449,2022,61,"['documentation', 'crime']",1,6.4,625,netflix
+ts104499,2021,29,"['thriller', 'crime', 'scifi', 'fantasy', 'horror', 'action', 'animation']",1,7.0,4273,netflix
+ts225690,2022,26,"['action', 'scifi', 'drama', 'fantasy', 'thriller', 'animation']",1,6.7,1408,netflix
+ts269676,2021,21,"['comedy', 'documentation']",1,6.4,5177,netflix
+ts351136,2022,45,"['comedy', 'drama', 'romance', 'family']",1,6.0,578,netflix
+ts291718,2021,23,"['comedy', 'drama', 'romance']",1,5.8,5010,netflix
+ts225645,2021,30,"['drama', 'comedy']",1,7.2,17587,netflix
+ts313902,2021,37,"['comedy', 'documentation']",1,5.5,89,netflix
+ts297846,2021,34,"['comedy', 'romance']",2,7.1,3621,netflix
+ts320426,2021,49,"['thriller', 'documentation', 'crime', 'history']",1,6.5,4893,netflix
+ts361022,2022,50,"['crime', 'documentation']",1,7.0,390,netflix
+ts346007,2022,0,['drama'],1,5.6,460,netflix
+ts288195,2021,36,"['scifi', 'drama', 'thriller', 'crime', 'fantasy']",2,7.5,20,netflix
+ts299874,2021,46,"['documentation', 'crime', 'history']",1,7.1,2922,netflix
+ts288807,2022,35,"['scifi', 'drama', 'comedy']",1,6.2,984,netflix
+ts288064,2021,52,"['drama', 'history', 'crime']",1,7.1,1215,netflix
+ts271729,2021,48,"['drama', 'family', 'comedy']",1,0.0,0,netflix
+ts352579,2022,0,"['drama', 'comedy']",1,6.3,4613,netflix
+ts330329,2022,45,"['crime', 'drama']",1,0.0,0,netflix
+ts268220,2021,36,['documentation'],1,0.0,0,netflix
+ts300325,2022,28,"['drama', 'family']",1,6.5,2099,netflix
+ts357345,2022,32,['documentation'],1,6.8,567,netflix
+ts310335,2021,48,['reality'],2,4.2,826,netflix
+ts229335,2021,29,"['crime', 'drama', 'comedy']",1,6.8,4463,netflix
+ts374545,2022,29,['documentation'],1,4.6,733,netflix
+ts326029,2022,40,"['drama', 'music']",1,6.3,28,netflix
+ts257504,2022,53,"['drama', 'scifi', 'history', 'comedy']",1,7.1,1301,netflix
+ts302058,2021,29,"['drama', 'comedy']",1,6.3,359,netflix
+ts269286,2022,0,"['scifi', 'comedy', 'fantasy']",1,5.4,584,netflix
+ts320502,2022,26,"['comedy', 'reality']",1,6.9,811,netflix
+ts306526,2022,49,['drama'],1,7.1,1456,netflix
+ts294338,2022,26,"['comedy', 'documentation', 'sport']",1,6.4,1862,netflix
+ts329882,2022,31,"['drama', 'family', 'music']",2,6.0,204,netflix
+ts294227,2022,28,"['comedy', 'scifi', 'animation', 'action']",1,5.5,2361,netflix
+ts90023,2021,48,['drama'],2,7.3,6416,netflix
+ts296563,2022,46,"['drama', 'action', 'fantasy', 'romance']",1,8.3,1137,netflix
+ts304310,2022,71,"['drama', 'romance']",1,6.5,43,netflix
+ts343251,2022,70,"['drama', 'thriller']",1,7.0,225,netflix
+ts273229,2022,50,"['scifi', 'thriller', 'crime', 'drama', 'fantasy', 'horror']",1,5.7,1532,netflix
+ts255037,2021,27,"['scifi', 'drama', 'action', 'animation', 'horror']",1,5.8,9500,netflix
+ts246178,2021,25,"['animation', 'reality', 'scifi', 'fantasy', 'action', 'drama', 'family']",1,6.6,1283,netflix
+ts314742,2021,26,"['animation', 'action', 'comedy', 'drama', 'family', 'fantasy', 'scifi']",3,5.8,1985,netflix
+ts311198,2021,22,"['comedy', 'family', 'fantasy', 'scifi', 'animation', 'action']",3,7.6,306,netflix
+ts308845,2021,67,"['drama', 'thriller', 'crime']",1,8.0,9639,netflix
+ts298766,2022,29,['reality'],1,4.7,1120,netflix
+ts299865,2021,43,"['documentation', 'crime']",1,6.8,1904,netflix
+ts367042,2022,25,"['drama', 'animation', 'romance', 'action']",1,7.6,3281,netflix
+ts271517,2021,27,['comedy'],1,6.5,5931,netflix
+ts308838,2021,65,"['crime', 'documentation', 'sport']",1,7.3,2531,netflix
+ts365154,2022,38,['reality'],1,5.4,616,netflix
+ts281062,2021,31,"['thriller', 'drama']",1,6.3,3430,netflix
+ts359613,2022,39,['reality'],1,4.4,107,netflix
+ts308321,2022,0,['reality'],1,4.6,593,netflix
+ts321298,2022,60,"['drama', 'comedy', 'romance']",1,8.1,13945,netflix
+ts1475,2022,44,"['scifi', 'drama', 'thriller']",1,4.6,1473,netflix
+ts108042,2021,131,"['comedy', 'drama', 'family', 'fantasy', 'animation', 'action']",1,8.1,4342,netflix
+ts284885,2021,25,"['drama', 'comedy', 'crime']",1,6.6,462,netflix
+ts300391,2021,46,"['thriller', 'crime', 'drama']",1,7.2,55043,netflix
+ts288472,2021,69,"['drama', 'thriller', 'fantasy', 'romance']",1,7.4,723,netflix
+ts256311,2021,26,"['action', 'scifi', 'thriller', 'animation', 'horror']",1,6.6,2575,netflix
+ts308002,2021,39,['drama'],1,6.9,1992,netflix
+ts349845,2022,50,"['documentation', 'crime']",1,6.8,565,netflix
+ts365099,2022,47,['reality'],1,3.6,1470,netflix
+ts268104,2022,55,"['crime', 'drama']",1,0.0,0,netflix
+ts367110,2022,54,"['drama', 'romance']",1,8.4,3252,netflix
+ts297065,2021,26,['reality'],1,5.9,846,netflix
+ts271025,2021,36,['reality'],3,5.8,3519,netflix
+ts265991,2021,54,"['drama', 'romance']",1,7.4,4342,netflix
+ts272980,2021,42,"['crime', 'drama', 'scifi', 'thriller', 'action']",1,6.6,13114,netflix
+ts329711,2022,27,"['drama', 'comedy', 'romance']",1,5.6,113,netflix
+ts363093,2022,27,"['animation', 'comedy', 'fantasy', 'romance']",1,7.6,1486,netflix
+ts225657,2021,47,['drama'],1,7.5,15729,netflix
+ts341760,2022,45,['reality'],1,2.9,532,netflix
+ts312094,2021,52,"['scifi', 'drama', 'war']",1,6.2,9,netflix
+ts354381,2022,49,"['drama', 'thriller', 'horror']",1,5.4,528,netflix
+ts368868,2022,31,"['action', 'comedy', 'horror']",1,5.8,489,netflix
+ts326955,2022,47,['drama'],1,0.0,0,netflix
+ts287532,2021,53,['documentation'],1,0.0,0,netflix
+ts270405,2021,29,"['comedy', 'documentation']",1,8.1,7810,netflix
+ts296214,2021,27,"['documentation', 'war', 'history']",1,7.4,9701,netflix
+ts272939,2021,53,"['documentation', 'drama', 'history']",1,6.6,3068,netflix
+ts285106,2021,36,"['crime', 'documentation']",1,6.3,779,netflix
+ts311915,2022,40,"['drama', 'comedy', 'music', 'romance', 'family']",2,6.4,6574,netflix
+ts234971,2021,45,"['drama', 'crime', 'action', 'war']",1,7.6,92,netflix
+ts373945,2022,43,['drama'],1,5.8,309,netflix
+ts270807,2021,61,"['scifi', 'comedy', 'drama', 'fantasy', 'romance']",1,7.3,694,netflix
+ts287352,2021,44,"['action', 'thriller', 'crime', 'drama']",1,7.0,9716,netflix
+ts287559,2021,45,"['scifi', 'drama', 'fantasy', 'action']",1,6.7,39430,netflix
+ts260477,2021,45,"['thriller', 'comedy', 'drama']",1,7.1,3663,netflix
+ts288065,2021,37,"['documentation', 'sport']",1,6.3,1370,netflix
+ts216407,2021,43,"['drama', 'history', 'war', 'documentation', 'action']",1,7.4,4450,netflix
+ts246073,2021,47,"['scifi', 'drama', 'fantasy', 'action']",1,6.7,12869,netflix
+ts272515,2021,45,"['action', 'crime', 'drama', 'thriller']",1,6.2,722,netflix
+ts344043,2022,37,"['drama', 'romance']",1,6.2,181,netflix
+ts302489,2021,24,"['animation', 'comedy']",2,5.6,1988,netflix
+ts271867,2021,81,"['action', 'comedy', 'crime', 'drama', 'romance']",1,8.4,20709,netflix
+ts315611,2021,46,['documentation'],2,7.9,1387,netflix
+ts317612,2022,57,"['romance', 'reality']",2,7.1,708,netflix
+ts346034,2022,56,"['crime', 'drama', 'thriller']",1,5.5,1023,netflix
+ts349451,2022,42,"['action', 'family', 'fantasy', 'animation']",1,8.2,924,netflix
+ts284862,2021,30,"['drama', 'comedy', 'family']",1,0.0,0,netflix
+ts297675,2021,23,"['reality', 'romance']",2,4.7,1223,netflix
+ts302312,2021,45,"['war', 'drama', 'action', 'history']",1,5.8,1972,netflix
+ts365153,2022,39,['reality'],1,6.7,915,netflix
+ts219423,2021,26,"['family', 'drama', 'scifi', 'animation', 'action', 'comedy', 'fantasy']",2,5.4,27254,netflix
+ts327074,2022,32,['reality'],1,6.2,990,netflix
+ts273436,2021,53,"['crime', 'documentation', 'history']",1,7.0,6796,netflix
+ts285854,2021,52,['drama'],2,0.0,0,netflix
+ts310081,2022,46,"['drama', 'thriller']",1,6.8,3977,netflix
+ts297763,2021,44,"['documentation', 'crime']",1,6.8,1176,netflix
+ts320075,2021,2,"['crime', 'thriller', 'drama']",1,7.9,7629,netflix
+ts329885,2022,47,"['comedy', 'drama']",1,7.5,1317,netflix
+ts287703,2021,70,"['drama', 'thriller']",1,7.7,1413,netflix
+ts310057,2021,39,"['drama', 'crime', 'thriller', 'comedy']",1,7.4,19285,netflix
+ts366878,2022,25,"['family', 'fantasy', 'horror', 'comedy']",1,6.0,176,netflix
+ts239188,2021,44,"['drama', 'thriller']",1,5.8,2705,netflix
+ts344128,2022,50,"['drama', 'romance']",1,7.9,554,netflix
+ts367183,2022,38,['reality'],1,6.4,383,netflix
+ts311791,2021,48,"['documentation', 'crime', 'history']",1,6.4,2630,netflix
+ts328617,2021,55,"['reality', 'romance']",2,5.4,562,netflix
+ts349842,2022,43,"['reality', 'music']",1,6.2,166,netflix
+ts273275,2021,40,['reality'],1,5.3,466,netflix
+ts365155,2022,36,['reality'],1,6.4,281,netflix
+ts288808,2022,45,"['drama', 'thriller', 'action', 'crime']",1,5.9,2543,netflix
+ts275448,2021,64,['drama'],1,8.7,2545,netflix
+ts300274,2021,23,['reality'],1,5.4,1155,netflix
+ts312227,2021,27,['drama'],1,8.3,153,netflix
+ts320302,2022,55,"['documentation', 'sport']",1,6.6,3922,netflix
+ts310331,2021,30,['reality'],1,6.2,534,netflix
+ts364946,2022,43,"['drama', 'sport']",1,6.5,107,netflix
+ts29800,2021,54,"['documentation', 'reality']",1,6.2,2198,netflix
+ts192196,2021,25,"['fantasy', 'scifi', 'animation', 'action', 'comedy', 'crime']",1,6.6,5939,netflix
+ts271604,2021,25,"['animation', 'drama']",1,7.7,2711,netflix
+ts272366,2021,58,"['war', 'documentation', 'history']",1,7.8,1281,netflix
+ts292662,2022,35,"['documentation', 'music']",1,7.1,141,netflix
+ts250092,2021,25,"['fantasy', 'animation', 'action', 'comedy', 'scifi']",1,7.0,2066,netflix
+ts367120,2022,37,"['drama', 'comedy', 'romance']",1,6.9,113,netflix
+ts297031,2021,24,"['action', 'scifi']",1,0.0,0,netflix
+ts280892,2022,40,"['drama', 'romance']",1,6.4,1994,netflix
+ts293814,2021,42,"['comedy', 'drama', 'history', 'reality']",1,6.4,432,netflix
+ts220553,2021,53,"['crime', 'drama', 'fantasy', 'scifi']",1,6.0,15953,netflix
+ts289982,2021,60,"['drama', 'thriller', 'action', 'crime']",1,5.8,321,netflix
+ts356951,2022,50,"['drama', 'sport']",1,7.4,270,netflix
+ts312200,2022,41,['reality'],2,4.0,3312,netflix
+ts273318,2021,25,"['comedy', 'drama', 'family', 'music', 'action']",1,6.8,3778,netflix
+ts287802,2021,28,"['documentation', 'drama', 'family', 'comedy']",1,7.9,929,netflix
+ts296179,2021,33,['comedy'],2,5.7,492,netflix
+ts292696,2022,48,"['drama', 'crime']",1,6.8,2896,netflix
+ts367738,2022,43,['documentation'],1,7.8,690,netflix
+ts305264,2021,38,['reality'],1,7.6,2107,netflix
+ts315400,2022,45,"['documentation', 'crime']",1,6.4,484,netflix
+ts290647,2022,16,"['drama', 'family', 'animation', 'comedy', 'action']",1,6.7,199,netflix
+ts270798,2021,69,"['drama', 'romance']",3,6.8,538,netflix
+ts293346,2022,47,"['documentation', 'sport']",1,6.5,511,netflix
+ts313668,2021,19,"['drama', 'comedy', 'animation']",1,8.6,9391,netflix
+ts287438,2021,58,"['crime', 'thriller', 'drama']",1,7.8,32471,netflix
+ts320073,2021,45,"['documentation', 'history']",1,7.5,264,netflix
+ts306149,2021,29,['documentation'],1,0.0,0,netflix
+ts268835,2021,71,"['scifi', 'action', 'drama', 'fantasy', 'romance']",1,7.0,4292,netflix
+ts257873,2021,27,"['drama', 'family']",1,6.2,1006,netflix
+ts283639,2021,30,"['comedy', 'drama']",1,8.0,6379,netflix
+ts345844,2022,47,"['drama', 'crime', 'thriller']",1,6.9,426,netflix
+ts312089,2022,56,"['comedy', 'drama', 'romance']",1,6.5,948,netflix
+ts305263,2021,49,['reality'],1,7.0,1300,netflix
+ts302053,2021,68,['reality'],2,0.0,0,netflix
+ts313689,2021,60,['drama'],1,0.0,0,netflix
+ts373887,2022,56,"['documentation', 'crime']",1,7.2,586,netflix
+ts282131,2021,51,['documentation'],1,8.2,3587,netflix
+ts284702,2021,53,"['crime', 'documentation', 'history']",1,6.5,4566,netflix
+ts285469,2021,19,"['animation', 'documentation']",1,6.8,517,netflix
+ts373250,2022,43,['reality'],1,7.1,31,netflix
+ts285724,2021,45,"['drama', 'crime', 'thriller']",2,7.7,505,netflix
+ts306068,2021,50,"['drama', 'romance']",1,6.6,844,netflix
+ts355168,2022,32,['documentation'],1,7.2,800,netflix
+ts296201,2021,49,"['crime', 'documentation']",1,5.9,2336,netflix
+ts273461,2021,43,"['drama', 'action', 'scifi', 'history', 'romance', 'fantasy']",1,8.5,3225,netflix
+ts276067,2022,36,"['comedy', 'drama']",1,5.7,1116,netflix
+ts240807,2021,21,"['scifi', 'thriller', 'action', 'comedy', 'drama', 'fantasy']",3,6.8,732,netflix
+ts273245,2021,26,"['comedy', 'family']",1,4.2,2032,netflix
+ts364498,2022,48,"['drama', 'comedy']",1,7.9,53,netflix
+ts294936,2022,0,"['documentation', 'sport']",1,6.7,5335,netflix
+ts319333,2021,42,"['documentation', 'crime']",1,6.2,1797,netflix
+ts299323,2022,24,"['scifi', 'animation', 'action', 'comedy', 'family', 'fantasy']",1,6.6,188,netflix
+ts373918,2022,47,"['crime', 'documentation']",1,6.1,414,netflix
+ts288489,2021,81,['action'],1,0.0,0,netflix
+ts303605,2022,30,"['thriller', 'comedy']",1,5.0,184,netflix
+ts341767,2022,27,"['animation', 'drama', 'comedy']",1,8.4,3303,netflix
+ts281167,2022,32,['reality'],1,6.0,205,netflix
+ts282291,2021,30,"['comedy', 'drama', 'romance']",1,7.4,2655,netflix
+ts302363,2022,75,"['drama', 'romance']",1,8.6,8943,netflix
+ts359091,2022,33,['reality'],1,5.8,227,netflix
+ts308516,2022,43,['reality'],1,4.9,457,netflix
+ts301915,2021,66,['drama'],1,0.0,0,netflix
+ts357031,2022,18,"['drama', 'music', 'comedy']",1,5.1,169,netflix
+ts328194,2021,50,"['thriller', 'action', 'crime', 'drama']",1,7.8,24130,netflix
+ts287838,2021,35,"['comedy', 'drama', 'romance']",1,7.9,2102,netflix
+ts272669,2021,28,['family'],1,7.7,531,netflix
+ts341883,2022,29,"['drama', 'family', 'thriller']",1,4.7,221,netflix
+ts344098,2022,66,"['comedy', 'drama']",1,0.0,0,netflix
+ts271413,2021,47,"['crime', 'documentation']",1,7.5,27514,netflix
+ts289364,2021,32,['documentation'],1,6.5,349,netflix
+ts287149,2022,25,['reality'],1,1.9,3042,netflix
+ts269999,2022,33,"['scifi', 'drama', 'comedy', 'fantasy']",1,5.6,391,netflix
+ts310950,2022,43,"['comedy', 'drama']",1,7.6,1417,netflix
+ts293097,2022,53,"['drama', 'sport', 'comedy']",1,7.1,249,netflix
+ts232506,2021,49,"['drama', 'thriller', 'comedy', 'crime']",1,6.9,5952,netflix
+ts343749,2022,42,[],1,0.0,0,netflix
+ts285931,2021,49,['drama'],2,6.8,596,netflix
+ts317720,2021,33,['reality'],1,6.8,1245,netflix
+ts268102,2022,61,"['drama', 'crime']",1,7.9,3793,netflix
+ts362635,2022,52,['reality'],1,6.4,70,netflix
+ts330289,2022,25,['comedy'],1,4.6,157,netflix
+ts253813,2021,44,"['drama', 'history', 'thriller']",1,7.9,4516,netflix
+ts342636,2022,15,['drama'],1,0.0,0,netflix
+ts288545,2021,5,"['animation', 'comedy', 'family', 'music']",1,4.2,794,netflix
+ts285422,2021,41,"['drama', 'thriller']",1,8.0,1845,netflix
+ts313781,2021,49,"['drama', 'comedy']",2,7.9,7810,netflix
+ts328317,2022,30,"['comedy', 'documentation', 'reality']",1,6.6,236,netflix
+ts315041,2021,71,"['drama', 'scifi', 'action', 'fantasy', 'thriller']",1,7.4,2604,netflix
+ts282840,2021,30,['documentation'],1,6.7,329,netflix
+ts293103,2022,25,"['comedy', 'drama']",1,6.7,370,netflix
+ts325756,2022,37,['documentation'],1,6.6,618,netflix
+ts310628,2022,23,"['drama', 'family', 'sport', 'action', 'comedy']",1,6.1,181,netflix
+ts287741,2021,25,"['documentation', 'reality']",1,6.3,696,netflix
+ts285767,2021,14,"['drama', 'comedy', 'scifi', 'war', 'fantasy', 'history', 'romance', 'animation']",2,8.5,11,netflix
+ts274939,2021,20,"['crime', 'documentation']",1,6.4,133,netflix
+ts94677,2022,47,"['crime', 'documentation', 'drama', 'thriller']",1,8.1,8,netflix
+ts262246,2022,35,"['scifi', 'drama', 'family', 'fantasy', 'comedy']",1,5.2,775,netflix
+ts285194,2022,49,['drama'],1,0.0,0,netflix
+ts290643,2021,30,"['scifi', 'drama', 'animation', 'action', 'crime', 'fantasy']",1,7.1,2740,netflix
+ts269493,2021,22,"['animation', 'documentation']",1,8.4,1713,netflix
+ts321254,2022,40,"['thriller', 'drama', 'action', 'comedy', 'crime', 'romance']",1,7.0,8076,netflix
+ts258358,2022,49,['comedy'],2,6.7,13804,netflix
+ts297483,2021,78,"['romance', 'comedy', 'drama']",1,8.4,14258,netflix
+ts368341,2022,20,"['family', 'animation', 'comedy']",1,7.6,52,netflix
+ts314395,2021,35,"['crime', 'documentation']",1,5.2,1634,netflix
+ts255486,2021,25,"['scifi', 'action', 'animation', 'thriller']",1,6.5,1849,netflix
+ts305732,2021,35,['reality'],1,5.7,627,netflix
+ts367192,2022,16,"['animation', 'family', 'fantasy']",1,5.4,103,netflix
+ts352881,2022,28,"['comedy', 'drama', 'family', 'romance']",1,7.0,461,netflix
+ts288744,2022,69,"['drama', 'scifi', 'fantasy', 'music']",1,7.6,3954,netflix
+ts301914,2021,69,"['crime', 'action', 'comedy', 'thriller']",1,7.1,817,netflix
+ts273485,2021,24,"['sport', 'thriller', 'animation', 'action', 'drama']",2,6.7,2198,netflix
+ts256972,2022,25,"['scifi', 'comedy', 'family', 'fantasy', 'animation', 'action']",1,7.3,131,netflix
+ts330012,2022,23,"['comedy', 'romance']",1,6.7,2130,netflix
+ts313849,2021,29,['reality'],1,6.8,618,netflix
+ts302056,2021,34,"['reality', 'sport']",1,5.7,376,netflix
+ts317422,2021,23,"['animation', 'comedy']",1,7.5,1085,netflix
+ts306135,2021,40,"['documentation', 'crime', 'thriller']",1,6.7,232,netflix
+ts302570,2021,50,"['documentation', 'crime']",1,6.5,924,netflix
+ts309930,2022,62,['drama'],1,7.3,1497,netflix
+ts304468,2022,73,"['drama', 'romance']",1,7.9,150,netflix
+ts317297,2022,32,"['action', 'scifi', 'drama', 'fantasy', 'animation']",2,6.4,720,netflix
+ts354526,2022,65,"['drama', 'comedy']",1,6.9,168,netflix
+ts320872,2022,50,['reality'],1,7.3,1179,netflix
+ts312984,2022,66,['drama'],1,8.6,2392,netflix
+ts343136,2022,36,['drama'],1,6.7,51,netflix
+ts271595,2021,55,"['thriller', 'documentation', 'crime']",1,5.9,16799,netflix
+ts271321,2021,66,"['drama', 'crime', 'thriller']",1,8.1,3858,netflix
+ts308689,2021,24,['comedy'],1,7.0,87,netflix
+ts283284,2021,34,['drama'],1,5.8,3646,netflix
+ts343427,2022,25,"['action', 'comedy', 'family', 'fantasy', 'scifi', 'animation']",2,6.5,519,netflix
+ts309235,2021,50,"['comedy', 'music', 'romance']",1,6.0,847,netflix
+ts362794,2022,45,"['drama', 'music']",1,7.3,395,netflix
+ts270616,2021,48,"['documentation', 'sport']",1,6.5,170,netflix
+ts188367,2021,47,['drama'],1,5.1,4956,netflix
+ts320335,2022,48,"['drama', 'romance']",1,5.6,341,netflix
+ts331654,2022,38,"['drama', 'action', 'crime', 'thriller']",1,7.5,79,netflix
+ts359088,2022,39,['reality'],1,7.1,231,netflix
+ts189612,2022,60,['drama'],1,5.5,244,netflix
+ts314963,2021,35,['reality'],1,5.3,94,netflix
+ts297058,2021,47,"['crime', 'drama']",1,5.9,204,netflix
+ts287941,2021,71,"['drama', 'sport', 'comedy']",1,4.2,27737,netflix
+ts365031,2022,55,"['documentation', 'music']",1,7.4,58,netflix
+ts308039,2021,209,"['documentation', 'crime']",1,7.1,828,netflix
+ts241854,2021,24,"['action', 'scifi']",1,0.0,0,netflix
+ts346500,2022,30,['documentation'],1,7.7,700,netflix
+ts319412,2022,68,"['drama', 'romance']",1,7.1,2594,netflix
+ts254956,2021,32,"['drama', 'comedy']",1,7.0,1220,netflix
+ts346132,2022,64,['drama'],1,7.8,115,netflix
+ts321437,2022,43,"['drama', 'romance']",1,6.2,1178,netflix
+ts317526,2021,40,['reality'],1,4.7,945,netflix
+ts279953,2021,65,"['drama', 'crime', 'thriller']",1,8.0,2514,netflix
+ts257817,2021,45,"['drama', 'comedy']",1,5.9,6289,netflix
+ts267062,2021,40,['drama'],2,5.8,289,netflix
+ts343426,2022,42,"['crime', 'documentation', 'sport']",1,5.4,241,netflix
+ts343404,2022,48,"['thriller', 'drama']",1,0.0,0,netflix
+ts220196,2021,29,"['scifi', 'action', 'family', 'fantasy', 'animation', 'comedy']",2,7.7,2348,netflix
+ts315144,2022,18,"['comedy', 'family', 'animation', 'action']",2,7.4,137,netflix
+ts309676,2021,34,['reality'],2,6.8,1485,netflix
+ts311887,2021,69,['reality'],1,0.0,0,netflix
+ts307981,2021,29,"['scifi', 'fantasy', 'comedy', 'family']",1,6.4,416,netflix
+ts307925,2021,32,"['comedy', 'drama']",1,6.5,3337,netflix
+ts223450,2021,52,['drama'],1,8.5,6982,netflix
+ts369640,2022,46,"['reality', 'comedy']",1,7.4,138,netflix
+ts289757,2021,47,"['documentation', 'crime', 'thriller']",1,7.1,1101,netflix
+ts299485,2021,30,"['comedy', 'family', 'fantasy', 'animation', 'action']",1,7.3,1193,netflix
+ts369109,2022,56,"['reality', 'action']",1,7.2,228,netflix
+ts317329,2022,27,"['drama', 'thriller', 'animation']",1,6.6,639,netflix
+ts317746,2022,63,"['drama', 'comedy', 'thriller', 'crime']",1,7.3,1134,netflix
+ts317078,2022,51,"['drama', 'thriller']",1,7.1,752,netflix
+ts260502,2021,49,['drama'],1,7.4,739,netflix
+ts288005,2021,70,"['drama', 'romance']",1,7.2,6366,netflix
+ts72196,2021,30,['reality'],2,6.7,394,netflix
+ts254928,2021,50,"['drama', 'action']",2,0.0,0,netflix
+ts328181,2022,48,['reality'],1,7.2,183,netflix
+ts359842,2022,43,['reality'],1,6.4,900,netflix
+ts283610,2021,42,"['comedy', 'drama', 'romance']",1,6.5,1636,netflix
+ts320407,2021,34,"['reality', 'romance']",2,7.1,151,netflix
+ts319303,2022,26,"['comedy', 'drama', 'fantasy', 'romance']",1,2.8,3252,netflix
+ts313646,2022,54,"['comedy', 'drama', 'romance']",1,6.1,259,netflix
+ts301964,2021,25,['action'],1,0.0,0,netflix
+ts315549,2021,12,"['comedy', 'drama']",1,6.1,748,netflix
+ts315990,2022,26,"['drama', 'family', 'sport']",1,6.4,185,netflix
+ts308511,2022,38,"['drama', 'comedy']",2,6.7,862,netflix
+ts361144,2022,33,"['comedy', 'romance']",1,6.4,619,netflix
+ts285470,2021,27,"['reality', 'family']",1,5.4,130,netflix
+ts61384,2021,70,"['reality', 'documentation', 'romance']",1,7.4,315,netflix
+ts322267,2022,48,['reality'],1,6.2,32,netflix
+ts345976,2022,24,"['comedy', 'animation', 'family', 'fantasy']",1,6.1,244,netflix
+ts272422,2021,25,['reality'],1,7.2,367,netflix
+ts319460,2021,63,['comedy'],1,7.1,923,netflix
+ts328541,2022,42,"['documentation', 'crime']",1,6.9,7533,netflix
+ts329854,2022,92,['reality'],1,0.0,0,netflix
+ts286218,2021,46,"['drama', 'romance']",1,8.0,633,netflix
+ts274575,2021,25,['reality'],1,7.4,171,netflix
+ts319608,2021,47,"['reality', 'music']",1,5.5,47,netflix
+ts271593,2021,34,['documentation'],1,6.7,2239,netflix
+ts331439,2022,36,"['comedy', 'scifi', 'fantasy', 'drama', 'animation', 'music', 'family']",1,6.0,304,netflix
+ts322371,2022,47,"['music', 'drama']",1,7.5,66,netflix
+ts366982,2022,12,"['animation', 'family', 'comedy']",1,8.3,34,netflix
+ts315551,2021,13,"['comedy', 'drama', 'romance']",1,6.2,787,netflix
+ts317064,2021,63,"['crime', 'thriller', 'documentation']",1,6.8,1455,netflix
+ts302653,2021,57,"['thriller', 'drama', 'crime']",3,7.4,1248,netflix
+ts317423,2021,50,['reality'],1,5.6,363,netflix
+ts287729,2021,49,"['drama', 'documentation']",1,8.3,2388,netflix
+ts104362,2021,22,"['fantasy', 'scifi', 'animation', 'action', 'comedy', 'family']",3,7.9,1538,netflix
+ts312324,2021,0,['animation'],1,0.0,0,netflix
+ts356275,2021,14,"['comedy', 'animation', 'family', 'scifi', 'action']",2,6.4,420,netflix
+ts299321,2021,22,"['action', 'scifi', 'comedy', 'animation', 'family', 'fantasy']",2,7.2,782,netflix
+ts14520,2022,23,"['action', 'scifi', 'animation', 'comedy', 'family', 'fantasy']",2,6.6,110,netflix
+ts244930,2022,15,"['animation', 'action', 'comedy', 'family', 'fantasy']",3,5.7,754,netflix
+ts286632,2021,24,['comedy'],1,6.5,1754,netflix
+ts282133,2021,19,"['animation', 'drama']",1,6.1,10,netflix
+ts381916,2022,62,['drama'],1,0.0,0,netflix
+ts257345,2022,51,"['drama', 'comedy']",1,7.1,5984,netflix
+ts304690,2021,67,"['crime', 'drama', 'action', 'romance']",1,7.5,96,netflix
+ts257271,2021,13,"['drama', 'romance', 'comedy']",1,7.2,1642,netflix
+ts311958,2021,63,['reality'],1,7.6,276,netflix
+ts271720,2021,3,"['animation', 'comedy', 'family']",2,8.1,473,netflix
+ts287853,2021,45,['drama'],1,5.2,339,netflix
+ts342479,2022,29,"['comedy', 'family', 'fantasy', 'scifi']",1,6.0,132,netflix
+ts268103,2021,70,['drama'],1,0.0,0,netflix
+ts288832,2021,15,"['comedy', 'family', 'animation']",1,7.1,243,netflix
+ts258321,2021,27,"['comedy', 'family', 'music', 'animation']",3,7.3,208,netflix
+ts357742,2022,52,['drama'],1,0.0,0,netflix
+ts243780,2021,0,"['family', 'animation', 'comedy']",2,6.0,189,netflix
+ts289261,2022,25,"['action', 'comedy', 'family', 'fantasy', 'scifi', 'animation']",1,7.1,104,netflix
+ts297685,2021,45,"['drama', 'romance']",1,7.9,47,netflix
+ts325991,2022,16,['comedy'],1,4.6,61,netflix
+ts297729,2021,19,[],1,0.0,0,netflix
+ts288997,2021,53,['documentation'],1,6.8,837,netflix
+ts317709,2021,15,"['animation', 'comedy', 'fantasy', 'action']",2,6.3,353,netflix
+ts269300,2021,55,[],1,0.0,0,netflix
+ts316882,2021,47,"['crime', 'documentation']",1,7.6,219,netflix
+ts302714,2021,44,"['crime', 'drama']",2,6.5,1485,netflix
+ts301196,2021,45,['documentation'],1,5.6,1648,netflix
+ts306188,2021,30,['reality'],1,5.0,789,netflix
+ts305890,2021,36,"['reality', 'romance']",1,5.2,340,netflix
+ts302434,2021,33,[],1,0.0,0,netflix
+ts331525,2022,17,"['action', 'animation', 'comedy', 'family']",1,8.5,65,netflix
+ts288861,2021,60,"['drama', 'comedy']",1,8.5,9,netflix
+ts330422,2022,20,"['animation', 'action', 'family']",2,7.0,54,netflix
+ts316965,2021,28,"['family', 'fantasy', 'animation', 'comedy']",5,4.7,301,netflix
+ts257315,2021,10,"['family', 'animation', 'comedy']",4,7.0,201,netflix
+ts188861,2022,33,"['animation', 'comedy', 'family', 'fantasy', 'scifi', 'action']",1,6.1,220,netflix
+ts283614,2021,32,"['horror', 'reality']",1,5.3,622,netflix
+ts229537,2021,17,"['animation', 'comedy', 'family', 'action']",1,6.7,55,netflix
+ts307745,2021,53,"['documentation', 'crime', 'drama']",2,7.6,961,netflix
+ts372348,2022,0,['comedy'],1,5.9,227,netflix
+ts296059,2021,14,"['drama', 'romance']",1,6.8,2833,netflix
+ts255779,2021,24,"['comedy', 'family', 'fantasy', 'animation']",7,7.2,531,netflix
+ts222864,2021,44,"['drama', 'comedy', 'romance']",1,8.3,2735,netflix
+ts364198,2022,50,"['documentation', 'sport']",1,7.8,112,netflix
+ts296129,2021,12,"['crime', 'drama', 'thriller']",1,7.4,2419,netflix
+ts296069,2021,12,"['drama', 'crime', 'thriller']",1,7.2,2040,netflix
+ts296091,2021,11,"['drama', 'romance']",1,6.2,1993,netflix
+ts320557,2021,12,"['comedy', 'drama']",1,6.1,839,netflix
+ts258114,2022,25,"['animation', 'comedy', 'scifi']",2,8.6,421,netflix
+ts271726,2021,24,"['animation', 'family']",3,7.3,232,netflix
+ts310938,2021,45,"['drama', 'family', 'romance']",2,7.0,906,netflix
+ts315147,2022,20,"['comedy', 'family', 'music', 'animation']",2,8.1,62,netflix
+ts306510,2021,25,"['animation', 'family']",2,7.6,118,netflix
+ts357880,2022,70,"['action', 'thriller']",2,6.4,54,netflix
+ts345779,2022,22,"['family', 'animation', 'comedy']",2,6.5,74,netflix
+ts370484,2022,48,"['crime', 'drama']",1,6.2,456,netflix
+ts321966,2021,51,"['war', 'documentation', 'history']",1,8.2,2100,netflix
+ts280693,2021,11,"['animation', 'comedy', 'family', 'music', 'drama', 'fantasy']",1,2.3,694,netflix
+ts372345,2022,46,['reality'],1,5.6,132,netflix
+ts328383,2022,53,"['comedy', 'drama']",1,7.5,1857,netflix
+ts343492,2022,29,"['animation', 'comedy', 'fantasy', 'history']",1,7.0,1002,netflix
+ts282214,2021,67,"['action', 'fantasy', 'horror', 'romance']",1,7.0,125,netflix
+ts322506,2021,27,"['animation', 'family']",1,6.8,16,netflix
+ts377141,2022,50,['reality'],2,5.5,2154,netflix
+ts321614,2021,5,"['animation', 'family']",1,4.4,41,netflix
+ts317144,2021,19,"['comedy', 'animation']",1,5.3,634,netflix
+ts365636,2022,55,['reality'],1,6.8,84,netflix
+ts286386,2021,43,"['reality', 'romance']",2,4.7,358,netflix
+ts297132,2021,27,"['action', 'animation']",1,7.4,24,netflix
+ts373672,2022,13,"['animation', 'comedy', 'family']",1,8.3,58,netflix
+ts361179,2022,42,"['action', 'crime', 'drama', 'thriller']",1,5.0,541,netflix
+ts360974,2021,8,"['animation', 'family']",1,7.1,97,netflix
+ts318105,2022,47,"['reality', 'romance']",1,5.2,65,netflix
+ts288544,2021,25,"['drama', 'comedy']",1,6.8,23,netflix
+ts352973,2022,49,['reality'],1,7.3,94,netflix
+ts287804,2021,33,[],1,0.0,0,netflix
+ts271048,2021,7,"['family', 'animation', 'comedy']",1,7.5,17,netflix
+ts285471,2021,33,"['comedy', 'reality']",1,4.9,95,netflix
+ts317522,2021,58,"['documentation', 'crime']",1,7.2,2213,netflix
+ts298791,2022,32,"['drama', 'fantasy', 'thriller']",1,5.5,180,netflix
+ts347982,2022,32,"['reality', 'documentation']",1,8.1,47,netflix
+ts314962,2021,46,['documentation'],1,7.6,255,netflix
+ts308053,2021,41,"['documentation', 'reality']",1,6.6,258,netflix
+ts287687,2021,30,['reality'],1,6.5,45,netflix
+ts296698,2021,4,[],1,0.0,0,netflix
+ts373464,2022,47,['comedy'],1,0.0,0,netflix
+ts287143,2021,23,['drama'],1,0.0,0,netflix
+ts273317,2021,37,"['drama', 'romance']",1,5.1,774,netflix
+ts307816,2021,49,['documentation'],1,7.5,33,netflix
+ts346656,2022,32,[],1,0.0,0,netflix
+ts292446,2021,22,"['animation', 'comedy']",1,6.6,83,netflix
+ts318024,2021,48,"['documentation', 'war']",1,7.2,180,netflix
+ts285874,2021,23,"['reality', 'comedy']",1,6.0,86,netflix
+ts319464,2021,23,"['family', 'animation']",2,8.7,9,netflix
+ts307884,2021,24,['comedy'],1,0.0,0,netflix
+ts305254,2021,7,['comedy'],1,6.7,494,netflix
+ts373435,2022,35,['comedy'],1,8.1,17,netflix
+ts365585,2022,31,['animation'],1,9.1,21,netflix
+ts278785,2023,44,"['horror', 'thriller', 'action', 'drama', 'fantasy', 'scifi']",1,7.4,15929,netflix
+ts378895,2023,47,"['crime', 'documentation']",1,6.8,2779,netflix
+ts327671,2023,45,"['documentation', 'sport']",2,8.2,1763,netflix
+ts328355,2023,42,"['crime', 'drama', 'action', 'thriller']",1,6.7,35159,netflix
+ts313723,2023,23,"['comedy', 'drama', 'romance']",1,6.4,22386,netflix
+ts367138,2023,65,['reality'],1,7.7,5194,netflix
+ts379982,2023,42,"['war', 'drama', 'crime', 'history']",1,7.5,3282,netflix
+ts375464,2023,43,"['thriller', 'drama']",1,6.2,1078,netflix
+ts381979,2023,90,['documentation'],1,0.0,0,netflix
+ts379569,2023,0,"['drama', 'scifi', 'animation']",1,5.4,434,netflix
+ts378515,2023,47,"['scifi', 'drama', 'romance']",1,4.7,846,netflix
+ts378844,2023,54,"['reality', 'romance']",1,6.1,756,netflix
+ts374050,2023,62,"['crime', 'documentation']",1,7.3,4757,netflix
+ts318165,2023,46,"['thriller', 'crime', 'drama']",1,6.8,5159,netflix
+ts380636,2023,41,"['documentation', 'crime']",1,6.8,331,netflix
+ts327651,2023,50,"['documentation', 'sport']",2,7.3,2052,netflix
+ts366040,2023,25,"['animation', 'drama', 'horror']",1,5.9,2069,netflix
+ts327225,2023,52,"['drama', 'thriller', 'crime']",1,6.8,4149,netflix
+ts379643,2023,36,['reality'],1,5.1,81,netflix
+ts379969,2023,26,"['comedy', 'crime']",1,7.6,1121,netflix
+ts264903,2023,50,['drama'],1,6.4,1166,netflix
+ts353252,2023,73,"['drama', 'comedy', 'romance']",1,8.1,922,netflix
+ts381380,2023,43,['reality'],1,0.0,0,netflix
+ts372806,2023,52,"['scifi', 'action', 'drama', 'fantasy', 'romance', 'thriller']",1,5.1,5172,netflix
+ts370696,2023,43,['documentation'],1,5.6,644,netflix
+ts322667,2023,43,"['comedy', 'drama']",1,7.9,1434,netflix
+ts313758,2023,28,"['drama', 'romance', 'comedy']",1,5.7,696,netflix
+ts360024,2023,45,"['drama', 'romance', 'comedy']",1,6.3,669,netflix
+ts312994,2023,38,"['drama', 'thriller']",1,4.9,1501,netflix
+ts328569,2023,25,"['action', 'comedy', 'family', 'fantasy', 'scifi', 'animation']",1,7.0,661,netflix
+ts380364,2023,0,"['documentation', 'sport']",1,7.9,824,netflix
+ts379629,2023,47,"['reality', 'romance']",1,4.0,114,netflix
+ts232448,2023,46,"['crime', 'drama', 'history', 'thriller']",1,7.9,3401,netflix
+ts378936,2023,49,"['crime', 'documentation']",1,7.4,129,netflix
+ts374385,2023,0,['reality'],1,6.4,695,netflix
+ts378649,2023,51,['drama'],1,6.6,583,netflix
+ts377372,2023,40,"['drama', 'crime', 'thriller', 'action']",1,4.6,330,netflix
+ts342598,2023,30,['comedy'],1,6.5,781,netflix
+ts380309,2023,55,['documentation'],1,8.0,1394,netflix
+ts308560,2023,47,"['history', 'documentation']",2,5.5,361,netflix
+ts379248,2023,42,"['drama', 'romance']",2,8.0,525,netflix
+ts314687,2023,54,"['comedy', 'drama', 'romance']",1,7.9,1584,netflix
+ts321003,2023,43,"['crime', 'drama', 'thriller']",1,7.7,1124,netflix
+ts374551,2023,40,"['drama', 'comedy', 'sport']",1,6.5,207,netflix
+ts373133,2023,10,"['comedy', 'family', 'animation']",1,7.6,27,netflix
+ts367213,2023,51,"['drama', 'crime', 'thriller']",1,6.2,2709,netflix
+ts367818,2023,40,['reality'],1,5.2,376,netflix
+ts357026,2023,69,['drama'],1,7.6,20,netflix
+ts313183,2023,48,"['action', 'crime', 'drama']",1,0.0,0,netflix
+ts364674,2023,15,"['family', 'fantasy', 'animation', 'comedy']",1,7.0,60,netflix
